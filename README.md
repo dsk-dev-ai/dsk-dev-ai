@@ -1,102 +1,116 @@
-# Darshan Kachare (dsk-dev-ai)
+# 👋 Hi, I'm Darshan Kachare (dsk-dev-ai)
 
-AI Engineer | GSoC Aspirant
-Building AI-powered SaaS, developer tools, and automation systems.
-
----
-
-## About Me
-
-* Currently building AI SaaS and LLM-powered applications
-* Learning advanced AI systems, backend engineering, and scalable architectures
-* Goal: Become a top AI engineer and contribute to impactful open-source projects (GSoC)
-* Focused on execution, real-world projects, and clean engineering
+🚀 AI Engineer | GSoC Aspirant  
+Building AI-powered SaaS, developer tools, and automation systems  
 
 ---
 
-## Featured Projects
+## 🧠 About Me
 
-### DevOS AI
-
-Open-source AI operating system for developers
-
-* Chat with repositories
-* Debug code using AI
-* Automate workflows with LLMs
-
-### RepoChat AI
-
-Chat with any GitHub repository using local AI
-
-* Understand large codebases
-* Improve developer productivity
-
-### AI Chat Platform
-
-Full-stack AI SaaS (React + Flask + Ollama)
-
-* Local LLM integration
-* Real-time chat system
-
-### API Monitor SaaS
-
-Lightweight API monitoring system
-
-* Built with Next.js, Node.js, PostgreSQL
-* Tracks uptime and performance
-
-### AI Blog Writer
-
-AI-powered blog generator using local LLMs
-
-* No API cost
-* Fast content generation
+- 🔭 Building AI SaaS and LLM-powered applications  
+- ⚙️ Learning backend engineering and scalable system design  
+- 🌍 Actively contributing to open source (GSoC path)  
+- 🎯 Goal: Become a top AI Engineer and build impactful systems  
 
 ---
 
-## Open Source Contributions
+## 🚀 Featured Projects
 
-* Contributions to documentation and developer tools
-* Active participation in real-world repositories
-* Focus on bug fixes, UI improvements, and developer experience
+### DevOS AI  
+AI-powered developer operating system  
 
----
-
-## Tech Stack
-
-**Languages:**
-Python, TypeScript, JavaScript
-
-**Frontend:**
-React, Next.js
-
-**Backend:**
-Flask, Node.js
-
-**AI/ML:**
-LLMs, Ollama, AI APIs
-
-**DevOps & Tools:**
-Docker, Git, Linux, PostgreSQL
+- Enables interaction with repositories using LLMs  
+- Assists in debugging and code understanding  
+- Automates developer workflows  
 
 ---
 
-## Current Focus
+### RepoChat AI  
+AI system for understanding GitHub repositories  
 
-* Strengthening open-source contributions (GSoC path)
-* Building scalable AI systems
-* Improving system design and backend skills
-
----
-
-## Contact
-
-Email: [darshan.kachare.dev@gmail.com](mailto:darshan.kachare.dev@gmail.com)
-Location: India
+- Natural language querying over codebases  
+- Built using local LLMs (Ollama)  
+- Reduces onboarding time for developers  
 
 ---
 
-## Philosophy
+### AI Chat Platform  
+Full-stack AI SaaS (React + Flask + Ollama)  
+
+- Real-time chat interface  
+- Local LLM integration (no external API cost)  
+- Modular and scalable backend  
+
+---
+
+### API Monitor SaaS  
+Lightweight API monitoring tool  
+
+- Built with Next.js, Node.js, PostgreSQL  
+- Tracks uptime, latency, and failures  
+- Designed for scalability  
+
+---
+
+### AI Blog Writer  
+AI-based blog generation system  
+
+- Uses local LLMs (Ollama)  
+- Zero API cost  
+- Fast content generation  
+
+---
+
+## 🌍 Open Source Contributions
+
+- 📝 Contributions to documentation and developer tools  
+- ⚡ Bug fixes and UI improvements in real-world repositories  
+- 🧩 Participation in beginner and production-level projects  
+
+👉 Focus: Consistency, clean code, and real impact (GSoC preparation)
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:**  
+Python, TypeScript, JavaScript  
+
+**Frontend:**  
+React, Next.js  
+
+**Backend:**  
+Flask, Node.js  
+
+**AI/ML:**  
+LLMs, Ollama, AI APIs  
+
+**DevOps & Tools:**  
+Docker, Git, Linux, PostgreSQL  
+
+---
+
+## 📈 Current Focus
+
+- 🚀 Strengthening open-source contributions (GSoC path)  
+- 🧠 Building scalable AI systems  
+- ⚙️ Improving backend and system design skills  
+
+---
+
+## 🎯 Vision
+
+> Build real systems. Contribute to real problems. Grow through execution.
+
+---
+
+## 📫 Contact
+
+📧 darshan.kachare.dev@gmail.com  
+🌍 India  
+
+---
+
+## ⚡ Philosophy
 
 Build fast. Learn deeply. Stay consistent.
-Real growth comes from execution, not just learning.
