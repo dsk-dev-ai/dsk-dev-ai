@@ -96,14 +96,6 @@ Location: India
 
 ---
 
-## Philosophy
-
-Build fast. Learn deeply. Stay consistent.
-📧 darshan.kachare.dev@gmail.com  
-🌍 India  
-
----
-
 ## ⚡ Philosophy
 
 Build fast. Learn deeply. Stay consistent.
