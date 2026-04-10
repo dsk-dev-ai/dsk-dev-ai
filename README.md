@@ -1,101 +1,71 @@
 # 👋 Hi, I'm Darshan Kachare (dsk-dev-ai)
 
-AI Engineer | GSoC Aspirant  
-Building AI-powered SaaS, developer tools, and automation systems  
+🚀 AI Engineer | Open Source Contributor | Backend & Scalable Systems
 
 ---
 
-## About Me
+## 💡 About Me
 
-- Building AI SaaS and LLM-powered applications  
-- Learning backend engineering and scalable system design  
-- Actively contributing to open source (GSoC path)  
-- Goal: Become a top AI Engineer and build impactful systems  
+- Building AI-powered SaaS and developer tools
+- Focused on backend engineering & scalable system design
+- Active open-source contributor (FOSSASIA, MDN)
+- Goal: Become a top AI Engineer & contribute to global tech
 
 ---
 
-## Featured Projects
+## 🔥 Key Open Source Work
 
-### DevOS AI  
+### 🟢 Eventyay (FOSSASIA)
+- Improved CSV export scalability using streaming response
+- Reduced memory usage for large dataset exports
+- Prevented server crashes during heavy data processing
+
+### 🟢 MDN Web Docs
+- Improved documentation clarity for JavaScript APIs
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 DevOS AI
 AI-powered developer operating system  
+- Chat with repositories  
+- Debug & automate workflows using LLMs  
 
-- Interaction with repositories using LLMs  
-- Assists in debugging and code understanding  
-- Automates developer workflows  
-
----
-
-### RepoChat AI  
-AI system for understanding GitHub repositories  
-
-- Natural language querying over codebases  
-- Built using local LLMs (Ollama)  
+### 🔹 RepoChat AI
+Chat with GitHub repositories using local LLMs  
+- Natural language code understanding  
 - Improves developer onboarding  
 
----
+### 🔹 AI Chat Platform
+Full-stack AI SaaS  
+- React + Flask + Ollama  
+- Real-time chat with local LLMs  
 
-### AI Chat Platform  
-Full-stack AI SaaS (React + Flask + Ollama)  
-
-- Real-time chat system  
-- Local LLM integration  
-- Scalable backend architecture  
-
----
-
-### API Monitor SaaS  
-API monitoring tool  
-
-- Built with Next.js, Node.js, PostgreSQL  
-- Tracks uptime and performance  
-- Designed for scalability  
+### 🔹 API Monitor SaaS
+- Tracks API uptime & performance  
+- Built with Next.js + PostgreSQL  
 
 ---
 
-### AI Blog Writer  
-AI-based blog generator  
+## 🛠 Tech Stack
 
-- Uses local LLMs (Ollama)  
-- Zero API cost  
-- Fast content generation  
-
----
-
-## Open Source Contributions
-
-- Documentation improvements and bug fixes  
-- UI and developer experience enhancements  
-- Participation in real-world repositories  
-
-Focus: Consistent contributions and clean engineering  
+- **Languages:** Python, TypeScript, JavaScript  
+- **Frontend:** React, Next.js  
+- **Backend:** Flask, Node.js  
+- **AI:** LLMs, Ollama  
+- **Tools:** Docker, Git, Linux, PostgreSQL  
 
 ---
 
-## Tech Stack
+## 🎯 Current Focus
 
-Python, TypeScript, JavaScript  
-React, Next.js  
-Flask, Node.js  
-LLMs, Ollama, AI APIs  
-Docker, Git, Linux, PostgreSQL  
-
----
-
-## Current Focus
-
-- Open-source contributions (GSoC path)  
-- Scalable AI systems  
-- Backend and system design  
-
----
-
-## Contact
-
-Email: darshan.kachare.dev@gmail.com  
-Location: India  
+- Open Source (GSoC preparation)
+- Backend & system design
+- Building scalable AI systems
 
 ---
 
 ## ⚡ Philosophy
 
-Build fast. Learn deeply. Stay consistent.
+> Build real systems. Solve real problems. Stay consistent.
