@@ -17,6 +17,7 @@
 
 ### 🟢 Eventyay (FOSSASIA)
 - Improved CSV export scalability using streaming response
+- Participated in real-world PR discussions (20+ review comments)
 - Reduced memory usage for large dataset exports
 - Prevented crashes during large data processing
 - Worked on real production backend issue (#3190)
