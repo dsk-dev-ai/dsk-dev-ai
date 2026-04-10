@@ -1,71 +1,94 @@
 # 👋 Hi, I'm Darshan Kachare (dsk-dev-ai)
 
-🚀 AI Engineer | Open Source Contributor | Backend & Scalable Systems
+🚀 AI Engineer (Learning) | Open Source Contributor | Backend & Systems
 
 ---
 
 ## 💡 About Me
 
-- Building AI-powered SaaS and developer tools
-- Focused on backend engineering & scalable system design
+- Exploring AI-powered developer tools and automation
+- Focused on backend engineering and system design
 - Active open-source contributor (FOSSASIA, MDN)
-- Goal: Become a top AI Engineer & contribute to global tech
+- GSoC 2026 applicant (Eventyay - AI enhancements)
 
 ---
 
-## 🔥 Key Open Source Work
+## 🔥 Open Source Contributions
 
 ### 🟢 Eventyay (FOSSASIA)
 - Improved CSV export scalability using streaming response
 - Reduced memory usage for large dataset exports
-- Prevented server crashes during heavy data processing
+- Prevented crashes during large data processing
+- Worked on real production backend issue (#3190)
 
 ### 🟢 MDN Web Docs
 - Improved documentation clarity for JavaScript APIs
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects (Learning & Prototypes)
 
 ### 🔹 DevOS AI
-AI-powered developer operating system  
-- Chat with repositories  
-- Debug & automate workflows using LLMs  
+Experimental CLI-based AI tool for understanding codebases
+
+- Extracts relevant code context and structure
+- Uses LLMs to generate architecture-level explanations
+- Modular system (CLI + core + LLM integration)
+- Supports multiple LLM providers
+
+⚠️ Status: Active development (v2 released)
+
+---
 
 ### 🔹 RepoChat AI
-Chat with GitHub repositories using local LLMs  
-- Natural language code understanding  
-- Improves developer onboarding  
+Prototype system for querying GitHub repositories using local LLMs
+
+- Vector search + chunking for large codebases
+- CLI-based interaction
+- Helps in understanding unfamiliar repositories
+
+⚠️ Status: MVP implementation
+
+---
 
 ### 🔹 AI Chat Platform
-Full-stack AI SaaS  
-- React + Flask + Ollama  
-- Real-time chat with local LLMs  
+Basic full-stack AI chat system
+
+- React + Flask + Ollama
+- JWT authentication + chat history
+- Extendable to cloud LLM APIs
+
+⚠️ Status: Learning project
+
+---
 
 ### 🔹 API Monitor SaaS
-- Tracks API uptime & performance  
-- Built with Next.js + PostgreSQL  
+Early-stage API monitoring system
+
+- Tracks uptime and response time
+- Designed for scalable backend architecture
+
+⚠️ Status: Under development
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Languages:** Python, TypeScript, JavaScript  
-- **Frontend:** React, Next.js  
-- **Backend:** Flask, Node.js  
-- **AI:** LLMs, Ollama  
-- **Tools:** Docker, Git, Linux, PostgreSQL  
+Python • TypeScript • JavaScript  
+React • Next.js • Flask • Node.js  
+LLMs • Ollama • PostgreSQL  
+Docker • Git • Linux  
 
 ---
 
 ## 🎯 Current Focus
 
-- Open Source (GSoC preparation)
-- Backend & system design
-- Building scalable AI systems
+- GSoC 2026 (Eventyay - AI assistant features)
+- Backend engineering & system design
+- Improving real-world open source contributions
 
 ---
 
 ## ⚡ Philosophy
 
-> Build real systems. Solve real problems. Stay consistent.
+> Learn deeply. Build honestly. Improve consistently.
