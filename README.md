@@ -1,120 +1,137 @@
 # 👋 Hi, I'm Darshan Kachare (@dsk-dev-ai)
 
-🚀 AI Engineer | Open Source Contributor | Backend & Systems Builder
+## Software Engineer • AI Systems Builder • Open Source Contributor
 
-Building AI-powered developer tools, scalable backend systems, and production-ready SaaS applications.
+I build AI-powered developer tools, production-ready SaaS applications, and scalable backend systems.
 
----
-
-## 💡 About Me
-
-* Building AI developer tooling and code understanding systems
-* Interested in LLM applications, system design, and backend engineering
-* Open-source contributor to FOSSASIA and MDN Web Docs
-* GSoC 2026 applicant focused on AI-assisted developer experiences
-* Linux, Docker, PostgreSQL, and cloud-native development enthusiast
+Founder of NextGenAI Labs, focused on creating developer productivity tools, AI-assisted workflows, and cloud-native software products.
 
 ---
 
-## 🔥 Open Source Contributions
+# 🚀 What I'm Building
 
-### Eventyay (FOSSASIA)
+### NextGenAI Labs
 
-Merged contribution improving large-scale CSV exports:
+Building AI-powered software products and developer tools.
 
-* Implemented streaming-based CSV export architecture
-* Reduced memory consumption during large dataset exports
-* Prevented server crashes caused by synchronous processing
-* Participated in extensive production code reviews (30+ review discussions)
-* Contributed to issue #3190 and proposed future scalability improvements
+Current focus:
+
+* API Monitor SaaS
+* AI Developer Tooling
+* Repository Intelligence Systems
+* Developer Productivity Platforms
+
+---
+
+# 💡 Areas of Interest
+
+* Artificial Intelligence & LLM Applications
+* Retrieval-Augmented Generation (RAG)
+* Backend Engineering
+* Distributed Systems
+* SaaS Architecture
+* Cloud Infrastructure
+* Developer Experience (DevEx)
+* Open Source Software
+
+---
+
+# 🔥 Open Source Contributions
+
+### FOSSASIA – Eventyay
+
+Contributed production improvements for large-scale CSV exports:
+
+* Implemented streaming-based export architecture
+* Reduced memory usage for large datasets
+* Improved scalability and reliability
+* Participated in extensive code review discussions
 
 ### MDN Web Docs
 
-* Improved JavaScript documentation clarity and developer experience
-* Contributed documentation improvements to the web ecosystem
+Contributed documentation improvements focused on developer experience and technical clarity.
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🔹 DevOS AI (v3)
+## API Monitor SaaS
 
-AI-powered codebase understanding platform.
+Production-style uptime monitoring and observability platform.
 
-Features:
+### Features
 
-* Advanced context extraction engine
-* Intelligent file ranking pipeline
-* Multi-LLM architecture
-* Explain, Search, and Debug workflows
-* Structured reasoning output
-* Extensible CLI architecture
+* Website & API Monitoring
+* Uptime Tracking
+* Response Time Analytics
+* Public Status Pages
+* Alert Management
+* Team Workspaces
+* Subscription Billing Architecture
 
-Tech Stack:
+### Tech Stack
 
-Python • Ollama • LLMs • Vector Search • CLI
-
-Status: Active Development (v3 Released)
-
----
-
-### 🔹 API Monitor SaaS (v1.0)
-
-Production-style uptime monitoring platform.
-
-Features:
-
-* Real-time uptime monitoring
-* Response time analytics
-* Email alerting system
-* Public status pages
-* Stripe subscription billing
-* PostgreSQL + Redis architecture
-* Docker-based deployment
-* Ubuntu 24.04 deployment automation
-
-Tech Stack:
-
-Next.js • Node.js • PostgreSQL • Redis • Docker • Stripe • Supabase
-
-Status: MVP Released
-
----
-
-### 🔹 RepoChat AI
-
-Repository question-answering system using local LLMs.
-
-Features:
-
-* Repository indexing
-* Semantic code search
-* Context-aware retrieval
-* Local-first architecture
-
-Tech Stack:
-
-Python • Ollama • Vector Search
-
-Status: Experimental
-
----
-
-### 🔹 MediaHub Downloader
-
-Media processing and download automation toolkit.
-
-Features:
-
-* Multi-source media support
-* CLI automation workflows
-* Batch processing
+Next.js • TypeScript • PostgreSQL • Prisma • Supabase • Redis • Docker
 
 Status: Active Development
 
 ---
 
-## 🛠 Technical Skills
+## DevOS AI
+
+AI-powered codebase understanding platform.
+
+### Features
+
+* Repository Analysis
+* Intelligent Context Extraction
+* File Ranking Engine
+* Explain, Search & Debug Workflows
+* Multi-LLM Architecture
+
+### Tech Stack
+
+Python • LLMs • Ollama • Vector Search
+
+Status: Active Development
+
+---
+
+## RepoChat AI
+
+Repository question-answering and code understanding system.
+
+### Features
+
+* Semantic Code Search
+* Repository Indexing
+* Context-Aware Retrieval
+* Local-First Architecture
+
+### Tech Stack
+
+Python • Vector Search • Ollama
+
+Status: Experimental
+
+---
+
+## MediaHub Downloader
+
+Automation toolkit for media processing workflows.
+
+### Features
+
+* Multi-source Downloads
+* Batch Processing
+* CLI Automation
+* Media Workflow Tools
+
+Status: Active Development
+
+---
+
+# 🛠 Technical Skills
 
 ### Languages
 
@@ -128,40 +145,43 @@ Node.js • Express.js • Flask • REST APIs • Prisma ORM
 
 React • Next.js • Tailwind CSS
 
+### Databases
+
+PostgreSQL • Supabase • Redis
+
 ### AI & Data
 
-LLMs • Ollama • RAG • Vector Search • Prompt Engineering
+LLMs • RAG • Vector Search • Prompt Engineering • AI Workflows
 
 ### Infrastructure
 
-Docker • Linux • GitHub Actions • PostgreSQL • Redis • NGINX
+Linux • Docker • GitHub Actions • NGINX • CI/CD
 
 ---
 
-## 📈 GitHub Highlights
+# 📈 Highlights
 
-* 270+ contributions in the last year
-* Multiple public open-source repositories
-* Released DevOS AI v3
-* Released API Monitor SaaS v1.0
-* Merged production contribution into Eventyay (FOSSASIA)
-* Active participant in open-source code review processes
-
----
-
-## 🎯 Current Focus
-
-* AI-powered developer tools
-* Advanced RAG systems
-* Backend engineering
-* Open-source contributions
-* Production SaaS architecture
-* GSoC and global OSS programs
+* Open Source Contributor (FOSSASIA, MDN)
+* Multiple Public Projects
+* Active SaaS Builder
+* AI Developer Tooling Enthusiast
+* Linux & Backend Systems Focused
+* Building Products in Public
 
 ---
 
-## ⚡ Philosophy
+# 🎯 Current Goals
 
-> Build. Learn. Ship. Repeat.
+* Launch API Monitor SaaS
+* Scale NextGenAI Labs
+* Contribute to Major Open Source Projects
+* Deepen Expertise in AI Systems & Backend Engineering
+* Build Production-Grade SaaS Products
 
-I believe real growth comes from building public projects, contributing to open source, and continuously improving through execution.
+---
+
+# ⚡ Philosophy
+
+Build. Ship. Improve. Repeat.
+
+I believe the fastest way to grow as an engineer is to build real products, solve real problems, contribute to open source, and continuously improve through execution.
