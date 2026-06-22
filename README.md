@@ -1,187 +1,88 @@
-# 👋 Hi, I'm Darshan Kachare (@dsk-dev-ai)
+# Hi, I'm Darshan Kachare 👋
 
-## Software Engineer • AI Systems Builder • Open Source Contributor
+Software Engineer • AI Systems Builder • Open Source Contributor
 
-I build AI-powered developer tools, production-ready SaaS applications, and scalable backend systems.
+I'm focused on building AI-powered developer tools, backend systems, and SaaS products.
 
-Founder of NextGenAI Labs, focused on creating developer productivity tools, AI-assisted workflows, and cloud-native software products.
+### Currently Building
 
----
-
-# 🚀 What I'm Building
-
-### NextGenAI Labs
-
-Building AI-powered software products and developer tools.
-
-Current focus:
-
-* API Monitor SaaS
-* AI Developer Tooling
-* Repository Intelligence Systems
-* Developer Productivity Platforms
+* API Monitor — API and website monitoring platform
+* DevOS AI — AI-powered codebase understanding tool
+* RepoChat AI — Repository search and Q&A system
+* MediaHub Downloader — Automation toolkit for media workflows
 
 ---
 
-# 💡 Areas of Interest
-
-* Artificial Intelligence & LLM Applications
-* Retrieval-Augmented Generation (RAG)
-* Backend Engineering
-* Distributed Systems
-* SaaS Architecture
-* Cloud Infrastructure
-* Developer Experience (DevEx)
-* Open Source Software
-
----
-
-# 🔥 Open Source Contributions
+## Open Source Contributions
 
 ### FOSSASIA – Eventyay
 
-Contributed production improvements for large-scale CSV exports:
-
-* Implemented streaming-based export architecture
-* Reduced memory usage for large datasets
-* Improved scalability and reliability
-* Participated in extensive code review discussions
+* Improved CSV export scalability using streaming responses
+* Reduced memory usage for large exports
+* Participated in production code reviews and discussions
 
 ### MDN Web Docs
 
-Contributed documentation improvements focused on developer experience and technical clarity.
+* Contributed documentation improvements for web developers
 
 ---
 
-# 🚀 Featured Projects
+## Tech Stack
 
-## API Monitor SaaS
+**Languages**
 
-Production-style uptime monitoring and observability platform.
+* Python
+* TypeScript
+* JavaScript
+* SQL
+* Bash
 
-### Features
+**Backend**
 
-* Website & API Monitoring
-* Uptime Tracking
-* Response Time Analytics
-* Public Status Pages
-* Alert Management
-* Team Workspaces
-* Subscription Billing Architecture
+* Node.js
+* Express.js
+* Flask
+* REST APIs
+* Prisma ORM
 
-### Tech Stack
+**Frontend**
 
-Next.js • TypeScript • PostgreSQL • Prisma • Supabase • Redis • Docker
+* React
+* Next.js
+* Tailwind CSS
 
-Status: Active Development
+**Databases**
 
----
+* PostgreSQL
+* Redis
+* Supabase
 
-## DevOS AI
+**Infrastructure**
 
-AI-powered codebase understanding platform.
+* Linux
+* Docker
+* NGINX
+* GitHub Actions
+* CI/CD
 
-### Features
+**AI**
 
-* Repository Analysis
-* Intelligent Context Extraction
-* File Ranking Engine
-* Explain, Search & Debug Workflows
-* Multi-LLM Architecture
-
-### Tech Stack
-
-Python • LLMs • Ollama • Vector Search
-
-Status: Active Development
-
----
-
-## RepoChat AI
-
-Repository question-answering and code understanding system.
-
-### Features
-
-* Semantic Code Search
-* Repository Indexing
-* Context-Aware Retrieval
-* Local-First Architecture
-
-### Tech Stack
-
-Python • Vector Search • Ollama
-
-Status: Experimental
+* LLMs
+* RAG
+* Vector Search
+* Prompt Engineering
 
 ---
 
-## MediaHub Downloader
+## Current Goals
 
-Automation toolkit for media processing workflows.
-
-### Features
-
-* Multi-source Downloads
-* Batch Processing
-* CLI Automation
-* Media Workflow Tools
-
-Status: Active Development
+* Launch API Monitor
+* Grow NextGenAI Labs
+* Contribute to major open-source projects
+* Build production-grade AI systems
 
 ---
 
-# 🛠 Technical Skills
+### Philosophy
 
-### Languages
-
-Python • TypeScript • JavaScript • SQL • Bash
-
-### Backend
-
-Node.js • Express.js • Flask • REST APIs • Prisma ORM
-
-### Frontend
-
-React • Next.js • Tailwind CSS
-
-### Databases
-
-PostgreSQL • Supabase • Redis
-
-### AI & Data
-
-LLMs • RAG • Vector Search • Prompt Engineering • AI Workflows
-
-### Infrastructure
-
-Linux • Docker • GitHub Actions • NGINX • CI/CD
-
----
-
-# 📈 Highlights
-
-* Open Source Contributor (FOSSASIA, MDN)
-* Multiple Public Projects
-* Active SaaS Builder
-* AI Developer Tooling Enthusiast
-* Linux & Backend Systems Focused
-* Building Products in Public
-
----
-
-# 🎯 Current Goals
-
-* Launch API Monitor SaaS
-* Scale NextGenAI Labs
-* Contribute to Major Open Source Projects
-* Deepen Expertise in AI Systems & Backend Engineering
-* Build Production-Grade SaaS Products
-
----
-
-# ⚡ Philosophy
-
-Build. Ship. Improve. Repeat.
-
-I believe the fastest way to grow as an engineer is to build real products, solve real problems, contribute to open source, and continuously improve through execution.
+Build. Ship. Learn. Improve.
