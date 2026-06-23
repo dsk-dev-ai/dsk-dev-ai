@@ -2,87 +2,82 @@
 
 Software Engineer • AI Systems Builder • Open Source Contributor
 
-I'm focused on building AI-powered developer tools, backend systems, and SaaS products.
+I build developer tools, SaaS products, backend systems, and AI-powered applications.
 
-### Currently Building
+## Featured Projects
 
-* API Monitor — API and website monitoring platform
-* DevOS AI — AI-powered codebase understanding tool
-* RepoChat AI — Repository search and Q&A system
-* MediaHub Downloader — Automation toolkit for media workflows
+### API Monitor SaaS
 
----
+Production-ready API and website monitoring platform built with Next.js, Express, PostgreSQL, and Supabase.
 
-## Open Source Contributions
+Features:
 
-### FOSSASIA – Eventyay
+* Uptime Monitoring
+* Analytics Dashboard
+* Alert System
+* Authentication
+* Monitor Management
+* Worker-Based Monitoring
 
-* Improved CSV export scalability using streaming responses
-* Reduced memory usage for large exports
-* Participated in production code reviews and discussions
+### DevOS AI
+
+CLI-based AI assistant for understanding and analyzing codebases.
+
+### RepoChat AI
+
+Repository search and Q&A system powered by local LLMs.
+
+### MediaHub Downloader
+
+Automation toolkit for media workflows.
+
+## Open Source
+
+### FOSSASIA Eventyay
+
+* Fixed UI issues
+* Improved export workflows
+* Participated in code reviews
 
 ### MDN Web Docs
 
-* Contributed documentation improvements for web developers
-
----
+* Documentation improvements
 
 ## Tech Stack
 
-**Languages**
-
-* Python
-* TypeScript
-* JavaScript
-* SQL
-* Bash
-
-**Backend**
+Backend:
 
 * Node.js
 * Express.js
-* Flask
-* REST APIs
-* Prisma ORM
+* PostgreSQL
+* Prisma
+* Redis
 
-**Frontend**
+Frontend:
 
 * React
 * Next.js
 * Tailwind CSS
 
-**Databases**
+Infrastructure:
 
-* PostgreSQL
-* Redis
-* Supabase
-
-**Infrastructure**
-
-* Linux
 * Docker
 * NGINX
+* Linux
 * GitHub Actions
-* CI/CD
 
-**AI**
+AI:
 
 * LLMs
 * RAG
 * Vector Search
-* Prompt Engineering
+* Agent Systems
 
----
+## Current Focus
 
-## Current Goals
-
-* Launch API Monitor
-* Grow NextGenAI Labs
-* Contribute to major open-source projects
-* Build production-grade AI systems
-
----
-
-### Philosophy
+* Growing NextGenAI Labs
+* Shipping SaaS products
+* Contributing to Open Source
+* Building AI-powered developer tools
 
 Build. Ship. Learn. Improve.
