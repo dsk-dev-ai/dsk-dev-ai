@@ -1,83 +1,51 @@
-# Hi, I'm Darshan Kachare 👋
+## Darshan Kachare
 
-Software Engineer • AI Systems Builder • Open Source Contributor
+Builds production systems. Contributes upstream. Cares about architecture.
 
-I build developer tools, SaaS products, backend systems, and AI-powered applications.
+---
 
-## Featured Projects
+### What I Build
 
-### API Monitor SaaS
+Backend services, developer tooling, and AI infrastructure. Typically distributed, always observable, designed to run in production without heroics.
 
-Production-ready API and website monitoring platform built with Next.js, Express, PostgreSQL, and Supabase.
+### Engineering Interests
 
-Features:
+Systems design, platform engineering, distributed architectures, bioinformatics pipelines, and the intersection of LLMs with developer workflows.
 
-* Uptime Monitoring
-* Analytics Dashboard
-* Alert System
-* Authentication
-* Monitor Management
-* Worker-Based Monitoring
+### Selected Projects
 
-### DevOS AI
+**GenomeAI** — Open-source AI for genomics and biomedical research. LangChain, vector search, RAG over scientific literature.
 
-CLI-based AI assistant for understanding and analyzing codebases.
+**ForgeOS** — Multi-agent orchestration layer for autonomous AI organizations. Event-driven, stateful, built on message passing.
 
-### RepoChat AI
+**HunterOS** — Repository intelligence platform. Static analysis, dependency graph mining, architecture reconstruction from source.
 
-Repository search and Q&A system powered by local LLMs.
+**API Monitor** — Distributed uptime and analytics platform with worker-based monitoring, alert routing, and public status pages.
 
-### MediaHub Downloader
+**DevOS AI** — CLI-first AI assistant for codebase understanding. Agentic tool use, context-aware retrieval, local LLM inference.
 
-Automation toolkit for media workflows.
+**dsk-packages** — Collection of reusable TypeScript libraries. Published, tested, documented.
 
-## Open Source
+### Tech Stack
 
-### FOSSASIA Eventyay
+| | |
+|---|---|
+| Languages | TypeScript, Python, JavaScript, SQL, Rust |
+| Backend | Node.js, Express, FastAPI, Next.js |
+| Data | PostgreSQL, Redis, Prisma, Vector Search |
+| Infrastructure | Docker, Linux, NGINX, GitHub Actions |
+| AI | LLMs, RAG, Embeddings, AI Agents, MCP |
 
-* Fixed UI issues
-* Improved export workflows
-* Participated in code reviews
+### Open Source
 
-### MDN Web Docs
+MDN Web Docs · Browser Compatibility Data · FOSSASIA Eventyay · Next.js ecosystem · AppFlowy ecosystem
 
-* Documentation improvements
+Documentation, bug fixes, feature work, code reviews — upstream contributions across the web platform and open-source tools I depend on.
 
-## Tech Stack
+### Current Focus
 
-Backend:
+Distributed system reliability. Developer experience through better tooling. Open-source AI infrastructure. Bioinformatics at scale.
 
-* Node.js
-* Express.js
-* PostgreSQL
-* Prisma
-* Redis
+---
 
-Frontend:
-
-* React
-* Next.js
-* Tailwind CSS
-
-Infrastructure:
-
-* Docker
-* NGINX
-* Linux
-* GitHub Actions
-
-AI:
-
-* LLMs
-* RAG
-* Vector Search
-* Agent Systems
-
-## Current Focus
-
-* Growing NextGenAI Labs
-* Shipping SaaS products
-* Contributing to Open Source
-* Building AI-powered developer tools
-
-Build. Ship. Learn. Improve.
+*Engineering over hype. Production over prototypes.*
