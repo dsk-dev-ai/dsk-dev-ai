@@ -1,18 +1,19 @@
 # Darshan Kachare
 
-> **Software Engineer** focused on **Systems Design**, **Distributed Systems**, **AI Infrastructure**, and **Open Source**.
+> **Software Engineer** specializing in **Systems Design**, **Distributed Systems**, **AI Infrastructure**, **Platform Engineering**, and **Open Source Engineering**.
 
-I build software platforms that prioritize scalability, maintainability, and developer experience. My work spans backend engineering, platform architecture, AI-powered systems, developer tooling, and scientific computing. I enjoy designing modular systems, solving complex engineering problems, and contributing to open-source software.
+I design and build scalable software systems that emphasize reliability, maintainability, and developer experience. My work spans software architecture, backend engineering, distributed platforms, developer tooling, artificial intelligence, and scientific computing. I enjoy solving complex engineering problems, building reusable systems, and contributing to open-source software.
 
 ---
 
 ## Engineering Focus
 
 * **System Design & Software Architecture**
-* **Distributed Systems & Platform Engineering**
-* **Backend Engineering & APIs**
-* **AI Infrastructure & Intelligent Agents**
-* **Developer Tools & Automation**
+* **Distributed Systems**
+* **Platform Engineering**
+* **Backend Engineering**
+* **AI Infrastructure & Intelligent Systems**
+* **Developer Platforms & Tooling**
 * **Bioinformatics & Scientific Computing**
 * **Open Source Engineering**
 
@@ -22,66 +23,60 @@ I build software platforms that prioritize scalability, maintainability, and dev
 
 ### 🧬 GenomeAI
 
-An open-source platform for genomics, bioinformatics, and AI-assisted biomedical research. Built around modular services, scalable data pipelines, semantic search, and public scientific datasets.
+An open-source platform for genomics, bioinformatics, and AI-assisted biomedical research, built around modular architecture, scalable data pipelines, semantic search, and public scientific datasets.
 
 ### ⚙️ ForgeOS
 
-An extensible operating platform for autonomous AI organizations featuring modular runtimes, agent orchestration, governance, plugin systems, and shared platform services.
+A modular operating platform for autonomous AI organizations featuring agent orchestration, governance, extensible runtimes, plugin systems, and shared platform services.
 
 ### 📡 API Monitor
 
-A production-ready observability platform for APIs and web services with distributed workers, real-time analytics, alerting, authentication, and public status pages.
+A distributed observability platform for APIs and web services with worker-based monitoring, analytics, alerting, authentication, and public status pages.
 
 ### 🛡️ HunterOS
 
-A repository intelligence platform for software architecture analysis, dependency exploration, AI-assisted code review, and security research.
+A repository intelligence and software architecture analysis platform designed for engineering productivity, code understanding, and security research.
 
 ### 💻 DevOS AI
 
-A CLI-first developer assistant that helps engineers understand large codebases through AI-powered analysis, retrieval, and automation.
+A command-line developer platform for repository analysis, code understanding, intelligent automation, and AI-assisted engineering workflows.
 
 ### 📦 dsk-packages
 
-A collection of reusable TypeScript libraries, SDKs, and developer utilities focused on productivity, reliability, and maintainable software.
+A collection of reusable TypeScript libraries, SDKs, and developer utilities designed with reliability, maintainability, and developer experience in mind.
 
 ---
 
-## Technologies
+## Technology Stack
 
-| Area                        | Technologies                                               |
-| --------------------------- | ---------------------------------------------------------- |
-| **Languages**               | TypeScript · Python · JavaScript · SQL · Rust              |
-| **Backend**                 | Node.js · Express · FastAPI · REST APIs · Prisma           |
-| **Frontend**                | React · Next.js · Tailwind CSS                             |
-| **Data**                    | PostgreSQL · Redis · Vector Databases                      |
-| **Infrastructure**          | Docker · Linux · GitHub Actions · NGINX                    |
-| **Artificial Intelligence** | Large Language Models · RAG · Embeddings · AI Agents · MCP |
+| Area                      | Technologies                                                                                                   |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **Languages**             | TypeScript · Python · JavaScript · SQL · Rust                                                                  |
+| **Backend**               | Node.js · Express · FastAPI · REST APIs · Prisma                                                               |
+| **Frontend**              | React · Next.js · Tailwind CSS                                                                                 |
+| **Data**                  | PostgreSQL · Redis · Vector Databases                                                                          |
+| **Infrastructure**        | Docker · Linux · GitHub Actions · NGINX                                                                        |
+| **AI & Machine Learning** | Large Language Models · Retrieval-Augmented Generation (RAG) · Embeddings · Vector Search · Intelligent Agents |
 
 ---
 
 ## Open Source
 
-I actively contribute to open-source projects that improve the software ecosystem. My contributions include documentation improvements, engineering fixes, feature development, and code reviews across projects such as:
+I actively contribute to open-source software through documentation improvements, engineering enhancements, bug fixes, feature development, and code reviews. My contributions include projects such as **MDN Web Docs**, **Browser Compatibility Data**, **FOSSASIA Eventyay**, and other community-driven developer tools.
 
-* MDN Web Docs
-* Browser Compatibility Data
-* FOSSASIA Eventyay
-* Next.js ecosystem
-* AppFlowy ecosystem
-
-Open source is an important part of how I learn, collaborate, and give back to the developer community.
+Open source is central to how I learn, collaborate, and give back to the engineering community.
 
 ---
 
 ## Current Focus
 
-* Building scalable AI infrastructure
-* Designing reliable distributed systems
-* Developing developer platforms and tooling
-* Advancing bioinformatics software
-* Improving software architecture and engineering practices
-* Contributing to open-source projects
+* Designing scalable software architectures
+* Building reliable distributed systems
+* Advancing AI infrastructure and intelligent platforms
+* Developing developer tools and engineering platforms
+* Creating software for bioinformatics and scientific computing
+* Contributing to open-source software
 
 ---
 
-> **Design systems. Build platforms. Share knowledge. Keep improving.**
+> **Design thoughtfully. Build reliably. Share openly.**
