@@ -50,7 +50,7 @@ A collection of reusable TypeScript libraries, SDKs, developer utilities, and op
 
 ## NextGenAI Labs
 
-I build and maintain projects through **NextGenAI Labs**, an independent engineering and open-source initiative focused on:
+I build and maintain projects through **NextGenAI Labs**, an independent technology and open-source organization focused on:
 
 * AI infrastructure
 * Autonomous software systems
@@ -95,17 +95,17 @@ I aim to build software that is useful beyond a single project and can be improv
 * Developing autonomous software platforms
 * Building developer tools and engineering infrastructure
 * Contributing to major open-source projects
-* Growing NextGenAI Labs as an open-source engineering organization
+* Growing NextGenAI Labs as an open-source technology organization
 
 ---
 
 ## Support Open Source
 
-I maintain open-source software, developer tools, research projects, and infrastructure that are available to the community.
+I maintain open-source software, developer tools, research projects, and infrastructure for the community.
 
-If my work is useful to you, you can support continued development through **GitHub Sponsors**.
+If my work is useful to you, you can support its continued development through **GitHub Sponsors**.
 
-Sponsorship helps support project maintenance, infrastructure, documentation, development, and new open-source work.
+Sponsorship helps fund project maintenance, infrastructure, documentation, and new open-source development.
 
 ---
 
