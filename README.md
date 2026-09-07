@@ -1,112 +1,57 @@
 # Darshan Kachare
 
-> **Software Engineer** specializing in **Systems Design**, **Distributed Systems**, **AI Infrastructure**, **Platform Engineering**, and **Open Source Engineering**.
+> **Software Engineer** — AI infrastructure, platform engineering & systems design. Open-source contributor (MDN Web Docs) and founder of [**NextGenAI Labs**](https://github.com/nextgenai-labs).
 
-I design and build reliable, scalable software systems with a focus on architecture, developer experience, intelligent infrastructure, and scientific computing.
-
-My work spans backend engineering, distributed platforms, AI systems, developer tooling, bioinformatics, and open-source software. I build projects independently and through **NextGenAI Labs**, while contributing to the wider open-source ecosystem.
-
----
-
-## Engineering Focus
-
-* **System Design & Software Architecture**
-* **Distributed Systems**
-* **Backend & Platform Engineering**
-* **AI Infrastructure & Intelligent Systems**
-* **Developer Platforms & Tooling**
-* **Bioinformatics & Scientific Computing**
-* **Open Source Engineering**
+I build developer tools, AI platforms, and open-source software — independently and with NextGenAI Labs. I'm a **GSoC 2026 aspirant** focused on shipping well-tested, honestly-scoped projects: real code over big claims.
 
 ---
 
 ## Selected Projects
 
-### 🧬 GenomeAI
-
-An open-source platform for genomics, bioinformatics, biomedical research, and evidence-based AI, combining scientific data, AI-assisted research workflows, semantic search, and advanced biological visualization.
-
-### ⚙️ ForgeOS
-
-A modular operating platform for autonomous AI organizations featuring agent orchestration, governance, extensible runtimes, plugin systems, and shared platform services.
-
-### 📡 API Monitor
-
-A distributed observability platform for APIs and web services with worker-based monitoring, analytics, alerting, authentication, and public status pages.
-
-### 🛡️ HunterOS
-
-A repository intelligence and software architecture analysis platform designed for code understanding, engineering productivity, and security research.
-
-### 💻 DevOS AI
-
-A command-line developer platform for repository analysis, code understanding, intelligent automation, and AI-assisted engineering workflows.
-
-### 📦 dsk-packages
-
-A collection of reusable TypeScript libraries, SDKs, developer utilities, and open-source engineering components.
-
----
-
-## NextGenAI Labs
-
-I build and maintain projects through **NextGenAI Labs**, an independent technology and open-source organization focused on:
-
-* AI infrastructure
-* Autonomous software systems
-* Developer platforms
-* Distributed systems
-* Scientific and bioinformatics computing
-* Open-source tools and libraries
-
----
-
-## Technology Stack
-
-| Area                     | Technologies                                                     |
-| ------------------------ | ---------------------------------------------------------------- |
-| **Languages**            | TypeScript · Python · JavaScript · SQL · Rust                    |
-| **Backend**              | Node.js · Express · FastAPI · REST APIs · Prisma                 |
-| **Frontend**             | React · Next.js · Tailwind CSS                                   |
-| **Data**                 | PostgreSQL · Redis · Vector Databases                            |
-| **Infrastructure**       | Linux · Docker · GitHub Actions · NGINX                          |
-| **AI & ML**              | LLMs · RAG · Embeddings · Vector Search · AI Agents              |
-| **Scientific Computing** | Bioinformatics · Genomics · Scientific Data · Research Workflows |
+| Project | Notes |
+| --- | --- |
+| [**GenomeAI**](https://github.com/dsk-dev-ai/GenomeAI) · [live demo](https://genomeai.vercel.app) | Open-source genomics/bioinformatics platform — 18 free science APIs, AI analysis, workflows, visualization. FastAPI + Next.js, 2,000+ tests. |
+| [**API Monitor**](https://github.com/dsk-dev-ai/api-monitor-saas) · [live demo](https://api-monitor-saas-frontend.vercel.app) | Open-source uptime monitoring SaaS — HTTP health checks, response-time analytics, email alerts, public status pages. |
+| [**HunterOS**](https://github.com/dsk-dev-ai/hunteros) | Repository intelligence platform — architecture analysis, security scanning, AI-assisted code review (monorepo, 20 packages). |
+| [**DevOS AI**](https://github.com/dsk-dev-ai/devos-ai) | CLI assistant for understanding codebases — explain, search, debug with local LLMs. |
+| [**dsk-packages**](https://github.com/dsk-dev-ai/dsk-packages) | Zero-dependency TypeScript libraries — ships [`@darshankachare/logger`](https://www.npmjs.com/package/@darshankachare/logger). |
+| [**Terminal tools**](https://github.com/dsk-dev-ai?tab=repositories) | [`loggit`](https://github.com/dsk-dev-ai/loggit) · [`tailr`](https://github.com/dsk-dev-ai/tailr) · [`ctx`](https://github.com/dsk-dev-ai/ctx) · [`repoarch`](https://github.com/dsk-dev-ai/repoarch) · [`artlab`](https://github.com/dsk-dev-ai/artlab) — zero-dependency utilities published on [PyPI](https://pypi.org/project/loggit/). |
 
 ---
 
 ## Open Source
 
-Open source is central to how I learn, build, and collaborate.
-
-I contribute through documentation improvements, engineering enhancements, bug fixes, feature development, testing, and code reviews.
-
-My open-source work and contributions include projects across **MDN Web Docs**, **Browser Compatibility Data**, **Microsoft agentrc**, **FOSSASIA Eventyay**, **NextGenAI Labs**, and independent projects.
-
-I aim to build software that is useful beyond a single project and can be improved collaboratively by the wider engineering community.
+- **MDN Web Docs** — 6 merged contributions, including an [Interface glossary page](https://github.com/mdn/content/pull/45399), a [nested grid example fix](https://github.com/mdn/content/pull/45326), and a [WASM min_u documentation fix](https://github.com/mdn/content/pull/44763).
+- **Microsoft agentrc** — in-flight contributions: [nested strategy support in batch instructions](https://github.com/microsoft/agentrc/pull/260) and [AGENTS.md deduplication](https://github.com/microsoft/agentrc/pull/259).
 
 ---
 
-## Current Focus
+## NextGenAI Labs
 
-* Building scalable AI infrastructure
-* Designing reliable distributed systems
-* Advancing scientific and bioinformatics software
-* Developing autonomous software platforms
-* Building developer tools and engineering infrastructure
-* Contributing to major open-source projects
-* Growing NextGenAI Labs as an open-source technology organization
+[**NextGenAI Labs**](https://github.com/nextgenai-labs) is an open organization building AI-powered developer tools, SaaS platforms, and open-source software for developers and infrastructure teams.
 
 ---
 
-## Support Open Source
+## Tech Stack
 
-I maintain open-source software, developer tools, research projects, and infrastructure for the community.
-
-If my work is useful to you, you can support its continued development through **GitHub Sponsors**.
-
-Sponsorship helps fund project maintenance, infrastructure, documentation, and new open-source development.
+| Area | Technologies |
+| --- | --- |
+| **Languages** | TypeScript · Python · JavaScript · SQL · Rust |
+| **Backend** | Node.js · Express · FastAPI · Prisma · PostgreSQL |
+| **Frontend** | React · Next.js · Tailwind CSS |
+| **AI & ML** | LLMs · RAG · Embeddings · Vector Search · AI Agents |
+| **Infrastructure** | Linux · Docker · GitHub Actions · NGINX |
+| **Scientific** | Bioinformatics · Genomics · Research workflows |
 
 ---
 
-> **Design thoughtfully. Build reliably. Share openly.**
+## Currently
+
+- Building scalable AI infrastructure and developer platform tooling
+- Contributing to MDN Web Docs and the wider open-source ecosystem
+- Growing [NextGenAI Labs](https://github.com/nextgenai-labs)
+- Preparing for **Google Summer of Code 2026**
+
+---
+
+> Design thoughtfully. Build reliably. Share openly.
