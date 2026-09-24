@@ -7,16 +7,28 @@
 Building developer tools, AI platforms, and MCP infrastructure — independently and at
 [NextGenAI Labs](https://github.com/nextgenai-labs).
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/dsk-dev-ai)
-[![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)](https://github.com/dsk-dev-ai)
-[![Rust](https://img.shields.io/badge/Rust-dea584?style=flat-square&logo=rust&logoColor=white)](https://github.com/dsk-dev-ai)
-[![LLM / RAG / AI Agents](https://img.shields.io/badge/LLM%20RAG%20AI%20Agents-6c8cff?style=flat-square)](https://github.com/dsk-dev-ai)
-[![MCP](https://img.shields.io/badge/MCP-34d399?style=flat-square)](https://github.com/dsk-dev-ai/mcp-nexus)
-[![Open Source](https://img.shields.io/badge/Open%20Source-24292e?style=flat-square)](https://github.com/dsk-dev-ai)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=dsk-dev-ai.dsk-dev-ai&label=Profile%20Visitors&countColor=%236c8cff)
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/dsk-dev-ai)
+[![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://github.com/dsk-dev-ai)
+[![Rust](https://img.shields.io/badge/Rust-dea584?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/dsk-dev-ai)
+[![MCP](https://img.shields.io/badge/MCP-34d399?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==)](https://github.com/dsk-dev-ai/mcp-nexus)
 
 [GitHub](https://github.com/dsk-dev-ai) · [MCP Nexus site](https://dsk-dev-ai.github.io/mcp-nexus/) · [Sponsor](https://github.com/sponsors/dsk-dev-ai)
 
 </div>
+
+---
+
+## About
+
+Forward-leaning software engineer working at the intersection of **systems design, AI
+infrastructure, and developer platforms**. I build open-source tools that developers actually
+use — from MCP routing infrastructure and cli utilities to AI SaaS platforms and genomics
+tooling — and I contribute to large open-source codebases: **Microsoft AgentRC** and **MDN Web Docs**.
+
+I care about honest, measurable engineering: deterministic benchmarks, CI as a gate, and real
+evidence over marketing. That is how the MCP Nexus project is built and tested.
 
 ---
 
@@ -44,7 +56,7 @@ Merged contributions to `mdn/content` — [Interface glossary page](https://gith
 
 ---
 
-## Selected projects
+## Featured projects
 
 | Project | Notes |
 | --- | --- |
@@ -59,10 +71,25 @@ Merged contributions to `mdn/content` — [Interface glossary page](https://gith
 
 ---
 
-## GitHub stats
+## What I work with
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dsk-dev-ai&show_icons=true&count_private=true&theme=tokyonight)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dsk-dev-ai&layout=compact&count_private=true&theme=tokyonight)
+![Skills](https://skillicons.dev/icons?i=ts,py,rust,nodejs,react,nextjs,fastapi,prisma,postgresql,docker,linux,github)
+
+---
+
+## GitHub
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=dsk-dev-ai&theme=tokyonight&hide_border=true)
+
+</div>
+
+| By the numbers | Value |
+| --- | --- |
+| Public repositories | 26 |
+| Open-source PRs merged upstream | Microsoft AgentRC (2) · MDN Web Docs (3) |
+| Flagship project | [MCP Nexus 1.x](https://github.com/dsk-dev-ai/mcp-nexus) |
 
 ---
 
