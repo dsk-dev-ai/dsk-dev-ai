@@ -24,37 +24,37 @@ outcomes, and I contribute to large codebases you already use.
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-09-25 04:40 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-09-25 10:10 UTC`
 
-![Repos](https://img.shields.io/badge/Public_repos-27-34d399?style=for-the-badge) ![Stars](https://img.shields.io/badge/Total_stars-25-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-7-0ea5e9?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public_repos-28-34d399?style=for-the-badge) ![Stars](https://img.shields.io/badge/Total_stars-25-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-7-0ea5e9?style=for-the-badge)
 
 | | Repo | Stars | Language | Latest |
 | --- | --- | --- | --- | --- |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai) | 1 | `Python` | fix: language color chips render as real colored dots (vali… |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [textrieve](https://github.com/dsk-dev-ai/textrieve) | 1 | `Python` | meta: add GitHub social preview card (kills blank repo-card… |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [mcp-nexus](https://github.com/dsk-dev-ai/mcp-nexus) | 1 | `TypeScript` | Merge pull request #16 from dsk-dev-ai/release/1.0.0 |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [dsk-packages](https://github.com/dsk-dev-ai/dsk-packages) | 1 | `TypeScript` | fix: security overrides + dependency updates |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [GenomeAI](https://github.com/dsk-dev-ai/GenomeAI) | 2 | `Python` | fix: eliminate chart selection race in useExpressionChart/u… |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [textrieve](https://github.com/dsk-dev-ai/textrieve) | 1 | `Python` | docs: add CONTRIBUTING guide |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas) | 2 | `TypeScript` | docs: add Try it live badge for hosted demo |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [attendance-study-toolkit](https://github.com/dsk-dev-ai/attendance-study-toolkit) | 0 | `TypeScript` | docs: replace Expo boilerplate README with project README (… |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [hunteros](https://github.com/dsk-dev-ai/hunteros) | 1 | `TypeScript` | docs: full README (packages/rules/apps/quickstart) + align… |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [algorithm-discovery-engine](https://github.com/dsk-dev-ai/algorithm-discovery-engine) | 1 | `Python` | fix: replace dead /stargazers badge link with repo root (Gi… |
 
 **Most starred**
 
 | Repo | Stars | Description |
 | --- | --- | --- |
-| [GenomeAI](https://genomeai.vercel.app) | 2 |  Open-source AI platform for genomics & bioinformatics — 18 free public science APIs (NCB… |
-| [ai-blog-writer](https://github.com/dsk-dev-ai/ai-blog-writer) | 2 | AI Blog Generator using Flask + Ollama (100% FREE local LLM, no API costs) |
 | [api-monitor-saas](https://api-monitor-saas-frontend.vercel.app) | 2 | Open-source API & website uptime monitoring SaaS — periodic HTTP health checks, uptime/re… |
-| [dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai) | 1 | Darshan Kachare — Software Engineer (Systems Design, AI Infrastructure, Platform Engineer… |
+| [GenomeAI](https://genomeai.vercel.app) | 2 | Open-source AI platform for genomics & bioinformatics — 18 free public genome research to… |
+| [ai-blog-writer](https://github.com/dsk-dev-ai/ai-blog-writer) | 2 | AI Blog Generator using Flask + Ollama (100% FREE local LLM, no API costs) |
+| [textrieve](https://textrieve.onrender.com) | 1 | Free, private image-to-text (OCR). Web UI, REST API & CLI in one repo — FastAPI + RapidOC… |
 
 **Latest public activity**
 
-- `19s ago` — pushed branch `main` to [dsk-dev-ai/dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai)
-- `131s ago` — pushed branch `main` to [dsk-dev-ai/dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai)
-- `2788s ago` — starred [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
-- `1h ago` — pushed branch `main` to [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
-- `1h ago` — released [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
-- `1h ago` — pushed branch `main` to [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
-- `8h ago` — created branch [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
-- `9h ago` — pushed branch `main` to [dsk-dev-ai/dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai)
+- `2840s ago` — pushed branch `main` to [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
+- `2896s ago` — pushed branch `main` to [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
+- `2897s ago` — merged a PR in [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
+- `2h ago` — pushed branch `main` to [dsk-dev-ai/api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas)
+- `5h ago` — pushed branch `main` to [dsk-dev-ai/dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai)
+- `5h ago` — pushed branch `main` to [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
+- `5h ago` — pushed branch `main` to [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
+- `13h ago` — made public [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
 
 **Language mix**
 
