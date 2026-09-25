@@ -30,11 +30,11 @@ outcomes, and I contribute to large codebases you already use.
 
 | | Repo | Stars | Language | Latest |
 | --- | --- | --- | --- | --- |
-| <img width=14 src='https://img.shields.io/static/v1?label=&message=&color=%233776ab' alt='Python'> | [dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai) | 1 | `Python` | fix: swap flaky visitor counter (visitorbadge 403 on bots)… |
-| <img width=14 src='https://img.shields.io/static/v1?label=&message=&color=%233776ab' alt='Python'> | [textrieve](https://github.com/dsk-dev-ai/textrieve) | 1 | `Python` | meta: add GitHub social preview card (kills blank repo-card… |
-| <img width=14 src='https://img.shields.io/static/v1?label=&message=&color=%233178c6' alt='TypeScript'> | [mcp-nexus](https://github.com/dsk-dev-ai/mcp-nexus) | 1 | `TypeScript` | Merge pull request #16 from dsk-dev-ai/release/1.0.0 |
-| <img width=14 src='https://img.shields.io/static/v1?label=&message=&color=%233178c6' alt='TypeScript'> | [dsk-packages](https://github.com/dsk-dev-ai/dsk-packages) | 1 | `TypeScript` | fix: security overrides + dependency updates |
-| <img width=14 src='https://img.shields.io/static/v1?label=&message=&color=%233776ab' alt='Python'> | [GenomeAI](https://github.com/dsk-dev-ai/GenomeAI) | 2 | `Python` | fix: eliminate chart selection race in useExpressionChart/u… |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai) | 1 | `Python` | fix: language color chips render as real colored dots (vali… |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [textrieve](https://github.com/dsk-dev-ai/textrieve) | 1 | `Python` | meta: add GitHub social preview card (kills blank repo-card… |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [mcp-nexus](https://github.com/dsk-dev-ai/mcp-nexus) | 1 | `TypeScript` | Merge pull request #16 from dsk-dev-ai/release/1.0.0 |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [dsk-packages](https://github.com/dsk-dev-ai/dsk-packages) | 1 | `TypeScript` | fix: security overrides + dependency updates |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [GenomeAI](https://github.com/dsk-dev-ai/GenomeAI) | 2 | `Python` | fix: eliminate chart selection race in useExpressionChart/u… |
 
 **Most starred**
 
@@ -47,14 +47,14 @@ outcomes, and I contribute to large codebases you already use.
 
 **Latest public activity**
 
-- `109s ago` — pushed branch `main` to [dsk-dev-ai/dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai)
-- `2766s ago` — starred [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
+- `19s ago` — pushed branch `main` to [dsk-dev-ai/dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai)
+- `131s ago` — pushed branch `main` to [dsk-dev-ai/dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai)
+- `2788s ago` — starred [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
 - `1h ago` — pushed branch `main` to [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
 - `1h ago` — released [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
 - `1h ago` — pushed branch `main` to [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
 - `8h ago` — created branch [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
 - `9h ago` — pushed branch `main` to [dsk-dev-ai/dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai)
-- `10h ago` — pushed branch `release/1.0.0` to [dsk-dev-ai/mcp-nexus](https://github.com/dsk-dev-ai/mcp-nexus)
 
 **Language mix**
 

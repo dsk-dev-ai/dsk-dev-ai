@@ -225,8 +225,8 @@ def main():
     lines.append("| --- | --- | --- | --- | --- |")
     for repo, latest in building:
         lang = repo.get("language")
-        dot = (f"<img width=14 src='https://img.shields.io/static/v1?label=&message="
-               f"&color=%23{_lang_hex(lang)}' alt='{_esc(lang)}'>")
+        dot = (f"<img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-"
+               f"%23{_lang_hex(lang)}' title='{_esc(lang)}'>")
         lines.append(
             f"| {dot} | [{repo.get('name')}](https://github.com/{repo.get('full_name')}) "
             f"| {repo.get('stargazers_count') or 0} "
