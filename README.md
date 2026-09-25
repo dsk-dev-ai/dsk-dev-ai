@@ -24,37 +24,37 @@ outcomes, and I contribute to large codebases you already use.
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-09-25 10:10 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-09-25 15:14 UTC`
 
-![Repos](https://img.shields.io/badge/Public_repos-28-34d399?style=for-the-badge) ![Stars](https://img.shields.io/badge/Total_stars-25-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-7-0ea5e9?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public_repos-28-34d399?style=for-the-badge) ![Stars](https://img.shields.io/badge/Total_stars-26-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-7-0ea5e9?style=for-the-badge)
 
 | | Repo | Stars | Language | Latest |
 | --- | --- | --- | --- | --- |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai) | 1 | `Python` | chore: refresh live profile data |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [textrieve](https://github.com/dsk-dev-ai/textrieve) | 1 | `Python` | docs: add CONTRIBUTING guide |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas) | 2 | `TypeScript` | docs: add Try it live badge for hosted demo |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [attendance-study-toolkit](https://github.com/dsk-dev-ai/attendance-study-toolkit) | 0 | `TypeScript` | docs: replace Expo boilerplate README with project README (… |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [hunteros](https://github.com/dsk-dev-ai/hunteros) | 1 | `TypeScript` | docs: full README (packages/rules/apps/quickstart) + align… |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [algorithm-discovery-engine](https://github.com/dsk-dev-ai/algorithm-discovery-engine) | 1 | `Python` | fix: replace dead /stargazers badge link with repo root (Gi… |
 
 **Most starred**
 
 | Repo | Stars | Description |
 | --- | --- | --- |
+| [repoarch](https://github.com/dsk-dev-ai/repoarch) | 2 | Turn any codebase into beautiful architecture diagrams — one command, no AI, no server, r… |
 | [api-monitor-saas](https://api-monitor-saas-frontend.vercel.app) | 2 | Open-source API & website uptime monitoring SaaS — periodic HTTP health checks, uptime/re… |
 | [GenomeAI](https://genomeai.vercel.app) | 2 | Open-source AI platform for genomics & bioinformatics — 18 free public genome research to… |
 | [ai-blog-writer](https://github.com/dsk-dev-ai/ai-blog-writer) | 2 | AI Blog Generator using Flask + Ollama (100% FREE local LLM, no API costs) |
-| [textrieve](https://textrieve.onrender.com) | 1 | Free, private image-to-text (OCR). Web UI, REST API & CLI in one repo — FastAPI + RapidOC… |
 
 **Latest public activity**
 
-- `2840s ago` — pushed branch `main` to [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
-- `2896s ago` — pushed branch `main` to [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
-- `2897s ago` — merged a PR in [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
-- `2h ago` — pushed branch `main` to [dsk-dev-ai/api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas)
-- `5h ago` — pushed branch `main` to [dsk-dev-ai/dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai)
-- `5h ago` — pushed branch `main` to [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
-- `5h ago` — pushed branch `main` to [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
-- `13h ago` — made public [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
+- `7h ago` — pushed branch `main` to [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
+- `7h ago` — pushed branch `main` to [dsk-dev-ai/api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas)
+- `7h ago` — pushed branch `master` to [dsk-dev-ai/awesome-ocr](https://github.com/dsk-dev-ai/awesome-ocr)
+- `10h ago` — pushed branch `main` to [nextgenai-labs/.github](https://github.com/nextgenai-labs/.github)
+- `10h ago` — pushed branch `main` to [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
+- `10h ago` — pushed branch `main` to [dsk-dev-ai/dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai)
+- `10h ago` — pushed branch `main` to [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
+- `10h ago` — pushed branch `main` to [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
 
 **Language mix**
 
