@@ -24,13 +24,13 @@ outcomes, and I contribute to large codebases you already use.
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-09-25 04:35 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-09-25 04:40 UTC`
 
 ![Repos](https://img.shields.io/badge/Public_repos-27-34d399?style=for-the-badge) ![Stars](https://img.shields.io/badge/Total_stars-25-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-7-0ea5e9?style=for-the-badge)
 
 | | Repo | Stars | Language | Latest |
 | --- | --- | --- | --- | --- |
-| <img width=14 src='https://img.shields.io/static/v1?label=&message=&color=%233776ab' alt='Python'> | [dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai) | 1 | `Python` | chore: refresh live profile data |
+| <img width=14 src='https://img.shields.io/static/v1?label=&message=&color=%233776ab' alt='Python'> | [dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai) | 1 | `Python` | fix: swap flaky visitor counter (visitorbadge 403 on bots)… |
 | <img width=14 src='https://img.shields.io/static/v1?label=&message=&color=%233776ab' alt='Python'> | [textrieve](https://github.com/dsk-dev-ai/textrieve) | 1 | `Python` | meta: add GitHub social preview card (kills blank repo-card… |
 | <img width=14 src='https://img.shields.io/static/v1?label=&message=&color=%233178c6' alt='TypeScript'> | [mcp-nexus](https://github.com/dsk-dev-ai/mcp-nexus) | 1 | `TypeScript` | Merge pull request #16 from dsk-dev-ai/release/1.0.0 |
 | <img width=14 src='https://img.shields.io/static/v1?label=&message=&color=%233178c6' alt='TypeScript'> | [dsk-packages](https://github.com/dsk-dev-ai/dsk-packages) | 1 | `TypeScript` | fix: security overrides + dependency updates |
@@ -47,14 +47,14 @@ outcomes, and I contribute to large codebases you already use.
 
 **Latest public activity**
 
-- `2485s ago` — starred [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
+- `109s ago` — pushed branch `main` to [dsk-dev-ai/dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai)
+- `2766s ago` — starred [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
 - `1h ago` — pushed branch `main` to [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
 - `1h ago` — released [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
 - `1h ago` — pushed branch `main` to [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
 - `8h ago` — created branch [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
 - `9h ago` — pushed branch `main` to [dsk-dev-ai/dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai)
 - `10h ago` — pushed branch `release/1.0.0` to [dsk-dev-ai/mcp-nexus](https://github.com/dsk-dev-ai/mcp-nexus)
-- `10h ago` — pushed branch `main` to [dsk-dev-ai/mcp-nexus](https://github.com/dsk-dev-ai/mcp-nexus)
 
 **Language mix**
 
