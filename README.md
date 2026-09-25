@@ -8,7 +8,7 @@ Building developer tools, AI platforms, and MCP infrastructure — independently
 [NextGenAI Labs](https://github.com/nextgenai-labs). I ship open-source tools with real
 outcomes, and I contribute to large codebases you already use.
 
-[![Profile visitors](https://api.visitorbadge.io/api/visitors?path=dsk-dev-ai.dsk-dev-ai&label=Profile%20Visitors&countColor=%236c8cff)](https://github.com/dsk-dev-ai)
+[![Profile visitors](https://komarev.com/ghpvc/?username=dsk-dev-ai&style=flat-square&color=6c8cff&label=Profile+visitors)](https://github.com/dsk-dev-ai)
 
 [![GitHub](https://img.shields.io/badge/GitHub-dsk--dev--ai-6c8cff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dsk-dev-ai)
 [![MCP Nexus](https://img.shields.io/badge/MCP_Nexus-site-34d399?style=for-the-badge&logo=githubpages&logoColor=white)](https://dsk-dev-ai.github.io/mcp-nexus/)
