@@ -9,6 +9,7 @@ GH_TOKEN set (e.g. `GH_TOKEN=$(gh auth token) python scripts/refresh.py`).
 
 import json
 import os
+import re
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -47,6 +48,16 @@ COLORS = {
     "Solidity": "#AA6746",
 }
 FALLBACK = "#8b949e"
+EMOJI = re.compile(
+    "["
+    "\U0001F000-\U0001FAFF"  # misc symbols & pictographs, supplemental
+    "\U0001F900-\U0001F9FF"  # supplemental symbols & pictographs
+    "\U00002600-\U000027BF"  # misc symbols, dingbats
+    "\U0000FE00-\U0000FE0F"  # variation selectors
+    "\U0001F1E6-\U0001F1FF"  # regional indicators
+    "\u200d\u20e3"
+    "]"
+)
 
 
 def _request(url: str):
@@ -71,6 +82,10 @@ def _lang_color(name: str) -> str:
     return COLORS.get(name or "", FALLBACK)
 
 
+def _lang_hex(name: str) -> str:
+    return _lang_color(name).lstrip("#")
+
+
 def _ago(iso: str) -> str:
     if not iso:
         return "unknown"
@@ -93,6 +108,7 @@ def _esc(text: str, limit: int = 0) -> str:
     if not text:
         return ""
     text = str(text).strip().replace("\n", " ").replace("\r", " ")
+    text = EMOJI.sub("", text)
     text = text.replace("|", "\\|").replace("`", "'").replace("<", "&lt;").replace(">", "&gt;")
     if limit and len(text) > limit:
         text = text[: limit - 1].rstrip() + "…"
@@ -208,11 +224,13 @@ def main():
     lines.append("| | Repo | Stars | Language | Latest |")
     lines.append("| --- | --- | --- | --- | --- |")
     for repo, latest in building:
-        dot = f"<img width=12 src='https://img.shields.io/badge/-{_lang_color(repo.get('language'))}'>"
+        lang = repo.get("language")
+        dot = (f"<img width=14 src='https://img.shields.io/static/v1?label=&message="
+               f"&color=%23{_lang_hex(lang)}' alt='{_esc(lang)}'>")
         lines.append(
             f"| {dot} | [{repo.get('name')}](https://github.com/{repo.get('full_name')}) "
             f"| {repo.get('stargazers_count') or 0} "
-            f"| `{_esc(repo.get('language'), 18)}` "
+            f"| `{_esc(lang, 18)}` "
             f"| {_esc(latest, 60)} |"
         )
 

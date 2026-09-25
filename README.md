@@ -97,30 +97,30 @@ Merged contributions to `mdn/content` — [Interface glossary page](https://gith
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-09-25 04:30 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-09-25 04:31 UTC`
 
 ![Repos](https://img.shields.io/badge/Public_repos-27-34d399?style=for-the-badge) ![Stars](https://img.shields.io/badge/Total_stars-25-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-7-0ea5e9?style=for-the-badge)
 
 | | Repo | Stars | Language | Latest |
 | --- | --- | --- | --- | --- |
-| <img width=12 src='https://img.shields.io/badge/-#3776ab'> | [dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai) | 1 | `Python` | feat: live profile — hourly GitHub Actions refresh (repos/s… |
-| <img width=12 src='https://img.shields.io/badge/-#3776ab'> | [textrieve](https://github.com/dsk-dev-ai/textrieve) | 1 | `Python` | meta: add GitHub social preview card (kills blank repo-card… |
-| <img width=12 src='https://img.shields.io/badge/-#3178c6'> | [mcp-nexus](https://github.com/dsk-dev-ai/mcp-nexus) | 1 | `TypeScript` | Merge pull request #16 from dsk-dev-ai/release/1.0.0 |
-| <img width=12 src='https://img.shields.io/badge/-#3178c6'> | [dsk-packages](https://github.com/dsk-dev-ai/dsk-packages) | 1 | `TypeScript` | fix: security overrides + dependency updates |
-| <img width=12 src='https://img.shields.io/badge/-#3776ab'> | [GenomeAI](https://github.com/dsk-dev-ai/GenomeAI) | 2 | `Python` | fix: eliminate chart selection race in useExpressionChart/u… |
+| <img width=14 src='https://img.shields.io/static/v1?label=&message=&color=%233776ab' alt='Python'> | [dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai) | 1 | `Python` | chore: refresh live profile data |
+| <img width=14 src='https://img.shields.io/static/v1?label=&message=&color=%233776ab' alt='Python'> | [textrieve](https://github.com/dsk-dev-ai/textrieve) | 1 | `Python` | meta: add GitHub social preview card (kills blank repo-card… |
+| <img width=14 src='https://img.shields.io/static/v1?label=&message=&color=%233178c6' alt='TypeScript'> | [mcp-nexus](https://github.com/dsk-dev-ai/mcp-nexus) | 1 | `TypeScript` | Merge pull request #16 from dsk-dev-ai/release/1.0.0 |
+| <img width=14 src='https://img.shields.io/static/v1?label=&message=&color=%233178c6' alt='TypeScript'> | [dsk-packages](https://github.com/dsk-dev-ai/dsk-packages) | 1 | `TypeScript` | fix: security overrides + dependency updates |
+| <img width=14 src='https://img.shields.io/static/v1?label=&message=&color=%233776ab' alt='Python'> | [GenomeAI](https://github.com/dsk-dev-ai/GenomeAI) | 2 | `Python` | fix: eliminate chart selection race in useExpressionChart/u… |
 
 **Most starred**
 
 | Repo | Stars | Description |
 | --- | --- | --- |
-| [GenomeAI](https://genomeai.vercel.app) | 2 | 🧬 Open-source AI platform for genomics & bioinformatics — 18 free public science APIs (NC… |
+| [GenomeAI](https://genomeai.vercel.app) | 2 |  Open-source AI platform for genomics & bioinformatics — 18 free public science APIs (NCB… |
 | [ai-blog-writer](https://github.com/dsk-dev-ai/ai-blog-writer) | 2 | AI Blog Generator using Flask + Ollama (100% FREE local LLM, no API costs) |
 | [api-monitor-saas](https://api-monitor-saas-frontend.vercel.app) | 2 | Open-source API & website uptime monitoring SaaS — periodic HTTP health checks, uptime/re… |
 | [dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai) | 1 | Darshan Kachare — Software Engineer (Systems Design, AI Infrastructure, Platform Engineer… |
 
 **Latest public activity**
 
-- `2207s ago` — starred [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
+- `2272s ago` — starred [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
 - `1h ago` — pushed branch `main` to [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
 - `1h ago` — released [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
 - `1h ago` — pushed branch `main` to [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
