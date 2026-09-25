@@ -1,0 +1,37 @@
+name: update-profile
+
+on:
+  schedule:
+    # Every hour — minutes=17 scatters load away from the top of the hour.
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate live profile data
+        run: python3 scripts/refresh.py
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "dsk-dev-ai[bot]"
+          git config user.email "85000000+dsk-dev-ai[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "profile already up to date"
+          else
+            git commit -m "chore: refresh live profile data"
+            git push
+          fi
