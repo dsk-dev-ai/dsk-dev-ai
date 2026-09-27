@@ -24,15 +24,15 @@ outcomes, and I contribute to large codebases you already use.
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-09-27 08:05 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-09-27 13:55 UTC`
 
 ![Repos](https://img.shields.io/badge/Public_repos-28-34d399?style=for-the-badge) ![Stars](https://img.shields.io/badge/Total_stars-26-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-7-0ea5e9?style=for-the-badge)
 
 | | Repo | Stars | Language | Latest |
 | --- | --- | --- | --- | --- |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas) | 2 | `TypeScript` | Keep the monitor schemas importable without the app's env c… |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai) | 1 | `Python` | chore: refresh live profile data |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [textrieve](https://github.com/dsk-dev-ai/textrieve) | 1 | `Python` | docs: add CONTRIBUTING guide |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas) | 2 | `TypeScript` | docs: add Try it live badge for hosted demo |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [attendance-study-toolkit](https://github.com/dsk-dev-ai/attendance-study-toolkit) | 0 | `TypeScript` | docs: replace Expo boilerplate README with project README (… |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [hunteros](https://github.com/dsk-dev-ai/hunteros) | 1 | `TypeScript` | docs: full README (packages/rules/apps/quickstart) + align… |
 
@@ -40,20 +40,20 @@ outcomes, and I contribute to large codebases you already use.
 
 | Repo | Stars | Description |
 | --- | --- | --- |
-| [repoarch](https://github.com/dsk-dev-ai/repoarch) | 2 | Turn any codebase into beautiful architecture diagrams — one command, no AI, no server, r… |
 | [api-monitor-saas](https://api-monitor-saas-frontend.vercel.app) | 2 | Open-source API & website uptime monitoring SaaS — periodic HTTP health checks, uptime/re… |
+| [repoarch](https://github.com/dsk-dev-ai/repoarch) | 2 | Turn any codebase into beautiful architecture diagrams — one command, no AI, no server, r… |
 | [GenomeAI](https://genomeai.vercel.app) | 2 | Open-source AI platform for genomics & bioinformatics — 18 free public genome research to… |
 | [ai-blog-writer](https://github.com/dsk-dev-ai/ai-blog-writer) | 2 | AI Blog Generator using Flask + Ollama (100% FREE local LLM, no API costs) |
 
 **Latest public activity**
 
-- `1d ago` — pushed branch `main` to [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
+- `2049s ago` — pushed branch `main` to [dsk-dev-ai/api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas)
+- `2762s ago` — pushed branch `main` to [dsk-dev-ai/api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas)
+- `1h ago` — released [dsk-dev-ai/api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas)
+- `1h ago` — pushed branch `main` to [dsk-dev-ai/api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas)
+- `2h ago` — pushed branch `main` to [dsk-dev-ai/api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas)
+- `2h ago` — pushed branch `main` to [dsk-dev-ai/api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas)
 - `2d ago` — pushed branch `main` to [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
-- `2d ago` — pushed branch `main` to [dsk-dev-ai/api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas)
-- `2d ago` — pushed branch `master` to [dsk-dev-ai/awesome-ocr](https://github.com/dsk-dev-ai/awesome-ocr)
-- `2d ago` — pushed branch `main` to [nextgenai-labs/.github](https://github.com/nextgenai-labs/.github)
-- `2d ago` — pushed branch `main` to [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
-- `2d ago` — pushed branch `main` to [dsk-dev-ai/dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai)
 - `2d ago` — pushed branch `main` to [dsk-dev-ai/textrieve](https://github.com/dsk-dev-ai/textrieve)
 
 **Language mix**
