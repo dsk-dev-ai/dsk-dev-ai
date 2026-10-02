@@ -24,9 +24,9 @@ outcomes, and I contribute to large codebases you already use.
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-02 08:27 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-02 15:45 UTC`
 
-![Repos](https://img.shields.io/badge/Public_repos-29-34d399?style=for-the-badge) ![Stars](https://img.shields.io/badge/Total_stars-28-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-7-0ea5e9?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public_repos-29-34d399?style=for-the-badge) ![Stars](https://img.shields.io/badge/Total_stars-29-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-7-0ea5e9?style=for-the-badge)
 
 | | Repo | Stars | Language | Latest |
 | --- | --- | --- | --- | --- |
@@ -40,18 +40,18 @@ outcomes, and I contribute to large codebases you already use.
 
 | Repo | Stars | Description |
 | --- | --- | --- |
+| [ai-model-router](https://github.com/dsk-dev-ai/ai-model-router) | 2 | OpenAI-compatible LLM gateway: route to the best/cheapest/fastest model, automatic fallba… |
 | [api-monitor-saas](https://api-monitor-saas-frontend.vercel.app) | 2 | Open-source API & website uptime monitoring SaaS — periodic HTTP health checks, uptime/re… |
 | [textrieve](https://textrieve.onrender.com) | 2 | Free, private image-to-text (OCR). Web UI, REST API & CLI in one repo — FastAPI + RapidOC… |
 | [repoarch](https://github.com/dsk-dev-ai/repoarch) | 2 | Turn any codebase into beautiful architecture diagrams — one command, no AI, no server, r… |
-| [GenomeAI](https://genomeai.vercel.app) | 2 | Open-source AI platform for genomics & bioinformatics — 18 free public genome research to… |
 
 **Latest public activity**
 
-- `3d ago` — starred [meshery/meshery](https://github.com/meshery/meshery)
-- `3d ago` — pushed branch `main` to [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs)
-- `3d ago` — pushed branch `main` to [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs)
-- `3d ago` — starred [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs)
-- `3d ago` — created branch [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs)
+- `4d ago` — starred [meshery/meshery](https://github.com/meshery/meshery)
+- `4d ago` — pushed branch `main` to [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs)
+- `4d ago` — pushed branch `main` to [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs)
+- `4d ago` — starred [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs)
+- `4d ago` — created branch [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs)
 - `4d ago` — pushed branch `main` to [dsk-dev-ai/api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas)
 - `4d ago` — pushed branch `main` to [dsk-dev-ai/api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas)
 - `4d ago` — pushed branch `main` to [dsk-dev-ai/api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas)
