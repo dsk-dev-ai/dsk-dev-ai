@@ -24,9 +24,9 @@ outcomes, and I contribute to large codebases you already use.
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-03 12:29 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-03 17:14 UTC`
 
-![Repos](https://img.shields.io/badge/Public_repos-29-34d399?style=for-the-badge) ![Stars](https://img.shields.io/badge/Total_stars-29-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-7-0ea5e9?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public_repos-29-34d399?style=for-the-badge) ![Stars](https://img.shields.io/badge/Total_stars-30-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-7-0ea5e9?style=for-the-badge)
 
 | | Repo | Stars | Language | Latest |
 | --- | --- | --- | --- | --- |
@@ -40,10 +40,10 @@ outcomes, and I contribute to large codebases you already use.
 
 | Repo | Stars | Description |
 | --- | --- | --- |
+| [repoarch](https://github.com/dsk-dev-ai/repoarch) | 3 | Turn any codebase into beautiful architecture diagrams — one command, no AI, no server, r… |
 | [ai-model-router](https://github.com/dsk-dev-ai/ai-model-router) | 2 | OpenAI-compatible LLM gateway: route to the best/cheapest/fastest model, automatic fallba… |
 | [api-monitor-saas](https://api-monitor-saas-frontend.vercel.app) | 2 | Open-source API & website uptime monitoring SaaS — periodic HTTP health checks, uptime/re… |
 | [textrieve](https://textrieve.onrender.com) | 2 | Free, private image-to-text (OCR). Web UI, REST API & CLI in one repo — FastAPI + RapidOC… |
-| [repoarch](https://github.com/dsk-dev-ai/repoarch) | 2 | Turn any codebase into beautiful architecture diagrams — one command, no AI, no server, r… |
 
 **Latest public activity**
 
