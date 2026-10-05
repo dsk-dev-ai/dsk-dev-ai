@@ -24,16 +24,16 @@ outcomes, and I contribute to large codebases you already use.
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-05 01:57 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-05 08:58 UTC`
 
 ![Repos](https://img.shields.io/badge/Public_repos-29-34d399?style=for-the-badge) ![Stars](https://img.shields.io/badge/Total_stars-30-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-7-0ea5e9?style=for-the-badge)
 
 | | Repo | Stars | Language | Latest |
 | --- | --- | --- | --- | --- |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [dsk-packages](https://github.com/dsk-dev-ai/dsk-packages) | 1 | `TypeScript` | fix: security overrides + dependency updates |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai) | 1 | `Python` | chore: refresh live profile data |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [meshery-designs](https://github.com/dsk-dev-ai/meshery-designs) | 1 | `Python` | fix: add catalog-valid resource configuration |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas) | 2 | `TypeScript` | Answer every failed credential with the same 401 |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [dsk-packages](https://github.com/dsk-dev-ai/dsk-packages) | 1 | `TypeScript` | fix: security overrides + dependency updates |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [textrieve](https://github.com/dsk-dev-ai/textrieve) | 2 | `Python` | docs: add CONTRIBUTING guide |
 
 **Most starred**
@@ -52,9 +52,9 @@ outcomes, and I contribute to large codebases you already use.
 - `6d ago` — pushed branch `main` to [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs)
 - `6d ago` — starred [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs)
 - `6d ago` — created branch [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs)
-- `6d ago` — pushed branch `main` to [dsk-dev-ai/api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas)
-- `6d ago` — pushed branch `main` to [dsk-dev-ai/api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas)
-- `6d ago` — pushed branch `main` to [dsk-dev-ai/api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas)
+- `7d ago` — pushed branch `main` to [dsk-dev-ai/api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas)
+- `7d ago` — pushed branch `main` to [dsk-dev-ai/api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas)
+- `7d ago` — pushed branch `main` to [dsk-dev-ai/api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas)
 
 **Language mix**
 
