@@ -1,0 +1,47 @@
+# Render Blueprint — darshankachare.com
+# Docs: https://render.com/docs/blueprint-spec
+#
+# Deploy:
+#   1. Push this repo to GitHub (e.g. dsk-dev-ai/dsk-dev-ai).
+#   2. Render dashboard → New → Blueprint → select the repo (reads this file).
+#   3. Add env var GH_TOKEN (repo-scoped read token) so builds refresh live
+#      GitHub data instead of relying on the committed snapshot.
+#   4. Custom domain darshankachare.com: Render shows the DNS records to add
+#      at your registrar (CNAME/A + verification TXT). HTTPS is provisioned
+#      automatically once DNS propagates.
+
+services:
+  - type: web
+    name: darshankachare-com
+    runtime: static
+    rootDir: site
+    buildCommand: python3 ../scripts/export_site_data.py || true; npm ci && npm run build
+    staticPublishPath: ./out
+    autoDeployTrigger: commit
+    domains:
+      - darshankachare.com
+    envVars:
+      # Optional but recommended: raises API limits while refreshing data at build.
+      - key: GH_TOKEN
+        sync: false
+    buildFilter:
+      # The hourly profile-bot commits (README.md / data/history.json) must not
+      # trigger site rebuilds — only changes under site/ should.
+      paths:
+        - site/**
+        - scripts/**
+        - render.yaml
+    headers:
+      # Next.js emits the social preview as an extensionless PNG route.
+      - path: /opengraph-image
+        name: Content-Type
+        value: image/png
+      - path: /_next/static/*
+        name: Cache-Control
+        value: public, max-age=31536000, immutable
+      - path: /*
+        name: X-Content-Type-Options
+        value: nosniff
+      - path: /*
+        name: Referrer-Policy
+        value: strict-origin-when-cross-origin

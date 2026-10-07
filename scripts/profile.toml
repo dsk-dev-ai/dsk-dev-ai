@@ -55,3 +55,27 @@ repos = [
 repos = [
   "dsk-dev-ai/dsk-dev-ai",   # this profile repo — its latest commit is always the bot's
 ]
+
+[upstream]
+# Third-party repositories to report merged contributions from (queried directly,
+# because the search index is not guaranteed to cover every repository).
+repos = [
+  "microsoft/agentrc",
+  "mdn/content",
+  "firstcontributions/first-contributions",
+]
+
+[site]
+# Hand-picked repos shown as featured cards on darshankachare.com (3x3 grid).
+# Independent from [featured], which drives the README pinned section.
+repos = [
+  "mcp-nexus",
+  "distrlab",
+  "textrieve",
+  "api-monitor-saas",
+  "GenomeAI",
+  "repoarch",
+  "hunteros",
+  "algorithm-discovery-engine",
+  "ai-model-router",
+]

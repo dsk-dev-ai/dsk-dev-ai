@@ -1,0 +1,2729 @@
+{
+  "generated_at": "2026-10-07T16:23:51+00:00",
+  "profile": {
+    "login": "dsk-dev-ai",
+    "name": "Darshan Kachare",
+    "bio": "Software Engineer • Systems Design • AI Infrastructure • Platform Engineering • Open Source Contributor",
+    "followers": 7,
+    "following": 6,
+    "public_repos": 30,
+    "stars": 31,
+    "forks": 2,
+    "avatar_url": "https://avatars.githubusercontent.com/u/259028460?v=4"
+  },
+  "stats": {
+    "merged_prs_total": 305,
+    "merged_repos_total": 23,
+    "upstream_prs": 9,
+    "org_prs": 142,
+    "own_prs": 154
+  },
+  "languages": [
+    {
+      "name": "Python",
+      "count": 18,
+      "share": 0.6923
+    },
+    {
+      "name": "TypeScript",
+      "count": 7,
+      "share": 0.2692
+    },
+    {
+      "name": "Rust",
+      "count": 1,
+      "share": 0.0385
+    }
+  ],
+  "featured": [
+    "mcp-nexus",
+    "distrlab",
+    "textrieve",
+    "api-monitor-saas",
+    "genomeai",
+    "repoarch",
+    "hunteros",
+    "algorithm-discovery-engine",
+    "ai-model-router"
+  ],
+  "projects": [
+    {
+      "slug": "repoarch",
+      "name": "repoarch",
+      "full_name": "dsk-dev-ai/repoarch",
+      "description": "Turn any codebase into beautiful architecture diagrams — one command, no AI, no server, runs on any laptop. Zero dependencies, pure Python, agent-friendly (Cursor, Claude Code, Codex, OpenCode).",
+      "language": "Python",
+      "stars": 3,
+      "forks": 0,
+      "open_issues": 0,
+      "topics": [
+        "ai-agents",
+        "architecture-diagram",
+        "cli",
+        "code-visualization",
+        "developer-tools",
+        "local-first",
+        "mermaid",
+        "no-dependency",
+        "opencode",
+        "python"
+      ],
+      "homepage": "",
+      "url": "https://github.com/dsk-dev-ai/repoarch",
+      "license": "MIT",
+      "pushed_at": "2026-09-01T12:48:35Z",
+      "created_at": "2026-08-30T19:30:09Z",
+      "archived": false,
+      "has_readme": false,
+      "default_branch": "main",
+      "size_kb": 0,
+      "watchers": 3,
+      "contributors_count": 0,
+      "latest_release": {
+        "tag": "v1.0.0",
+        "name": "repoarch v1.0.0",
+        "published_at": "2026-08-30T20:35:25Z",
+        "html_url": "https://github.com/dsk-dev-ai/repoarch/releases/tag/v1.0.0"
+      },
+      "last_commit": {
+        "sha": "e1168d3",
+        "sha_full": "e1168d3f5b02594dc22d72023baed78bf2ddd57e",
+        "date": "2026-09-01T12:48:29Z",
+        "message": "Add docs website + GitHub Pages deployment",
+        "html_url": "https://github.com/dsk-dev-ai/repoarch/commit/e1168d3f5b02594dc22d72023baed78bf2ddd57e"
+      }
+    },
+    {
+      "slug": "api-monitor-saas",
+      "name": "api-monitor-saas",
+      "full_name": "dsk-dev-ai/api-monitor-saas",
+      "description": "Open-source API & website uptime monitoring SaaS — periodic HTTP health checks, uptime/response-time analytics, email alerts, public status pages. Next.js 14 + Express + Prisma + background worker. Self-host with Docker.",
+      "language": "TypeScript",
+      "stars": 2,
+      "forks": 0,
+      "open_issues": 0,
+      "topics": [
+        "alerts",
+        "analytics",
+        "api-monitoring",
+        "devops",
+        "docker",
+        "express",
+        "monitoring",
+        "nextjs",
+        "nodejs",
+        "open-source",
+        "postgresql",
+        "prisma",
+        "redis",
+        "saas",
+        "sre",
+        "status-page",
+        "stripe",
+        "supabase",
+        "typescript",
+        "uptime-monitoring"
+      ],
+      "homepage": "https://api-monitor-saas-frontend.vercel.app",
+      "url": "https://github.com/dsk-dev-ai/api-monitor-saas",
+      "license": "MIT",
+      "pushed_at": "2026-09-28T07:21:48Z",
+      "created_at": "2026-03-05T17:26:03Z",
+      "archived": false,
+      "has_readme": false,
+      "default_branch": "main",
+      "size_kb": 0,
+      "watchers": 2,
+      "contributors_count": 2,
+      "latest_release": {
+        "tag": "v3.5.0-community",
+        "name": "API Monitor v3.5.0 — community baseline (verified R1)",
+        "published_at": "2026-09-27T12:54:39Z",
+        "html_url": "https://github.com/dsk-dev-ai/api-monitor-saas/releases/tag/v3.5.0-community"
+      },
+      "last_commit": {
+        "sha": "68f2619",
+        "sha_full": "68f2619e6bf32b304461069b83b8cb4c329af024",
+        "date": "2026-09-28T07:21:46Z",
+        "message": "Answer every failed credential with the same 401",
+        "html_url": "https://github.com/dsk-dev-ai/api-monitor-saas/commit/68f2619e6bf32b304461069b83b8cb4c329af024"
+      }
+    },
+    {
+      "slug": "textrieve",
+      "name": "textrieve",
+      "full_name": "dsk-dev-ai/textrieve",
+      "description": "Free, private image-to-text (OCR). Web UI, REST API & CLI in one repo — FastAPI + RapidOCR (ONNX). No API keys, nothing stored.",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0,
+      "open_issues": 0,
+      "topics": [
+        "computer-vision",
+        "developer-tools",
+        "fastapi",
+        "image-to-text",
+        "machine-learning",
+        "ocr",
+        "ocr-engine",
+        "onnx",
+        "open-source",
+        "python",
+        "rapidocr",
+        "text-extraction",
+        "web-app"
+      ],
+      "homepage": "https://textrieve.onrender.com",
+      "url": "https://github.com/dsk-dev-ai/textrieve",
+      "license": "Apache-2.0",
+      "pushed_at": "2026-09-25T09:26:36Z",
+      "created_at": "2026-09-24T20:18:18Z",
+      "archived": false,
+      "has_readme": false,
+      "default_branch": "main",
+      "size_kb": 0,
+      "watchers": 2,
+      "contributors_count": 0,
+      "latest_release": {
+        "tag": "v1.2.0",
+        "name": "v1.2.0 — PDF support & language hints",
+        "published_at": "2026-09-25T05:04:27Z",
+        "html_url": "https://github.com/dsk-dev-ai/textrieve/releases/tag/v1.2.0"
+      },
+      "last_commit": {
+        "sha": "fa795ef",
+        "sha_full": "fa795ef704577da021c9e65155294f5e11c1849c",
+        "date": "2026-09-25T09:22:41Z",
+        "message": "docs: add CONTRIBUTING guide",
+        "html_url": "https://github.com/dsk-dev-ai/textrieve/commit/fa795ef704577da021c9e65155294f5e11c1849c"
+      }
+    },
+    {
+      "slug": "genomeai",
+      "name": "GenomeAI",
+      "full_name": "dsk-dev-ai/GenomeAI",
+      "description": "Open-source AI platform for genomics & bioinformatics — 18 free public genome research tools",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0,
+      "open_issues": 0,
+      "topics": [
+        "ai",
+        "bioinformatics",
+        "biology",
+        "biomedical",
+        "clinical",
+        "data-science",
+        "drug-discovery",
+        "fastapi",
+        "genetics",
+        "genome",
+        "genomics",
+        "llm",
+        "machine-learning",
+        "medicine",
+        "nextjs",
+        "open-source",
+        "protein",
+        "python",
+        "research",
+        "workflow"
+      ],
+      "homepage": "https://genomeai.vercel.app",
+      "url": "https://github.com/dsk-dev-ai/GenomeAI",
+      "license": "Apache-2.0",
+      "pushed_at": "2026-09-19T17:09:10Z",
+      "created_at": "2026-07-21T18:12:41Z",
+      "archived": false,
+      "has_readme": false,
+      "default_branch": "main",
+      "size_kb": 0,
+      "watchers": 2,
+      "contributors_count": 0,
+      "latest_release": {
+        "tag": "v1.1.0",
+        "name": "GenomeAI v1.1.0 — accurate claims, finished docs",
+        "published_at": "2026-08-30T05:52:57Z",
+        "html_url": "https://github.com/dsk-dev-ai/GenomeAI/releases/tag/v1.1.0"
+      },
+      "last_commit": {
+        "sha": "66ece45",
+        "sha_full": "66ece45884a474c9d8ee4fdce9e43cdfc69959a1",
+        "date": "2026-09-19T17:09:07Z",
+        "message": "fix: eliminate chart selection race in useExpressionChart/useVolcanoPlot/useHeatmap",
+        "html_url": "https://github.com/dsk-dev-ai/GenomeAI/commit/66ece45884a474c9d8ee4fdce9e43cdfc69959a1"
+      }
+    },
+    {
+      "slug": "ai-model-router",
+      "name": "ai-model-router",
+      "full_name": "dsk-dev-ai/ai-model-router",
+      "description": "OpenAI-compatible LLM gateway: route to the best/cheapest/fastest model, automatic fallback on provider failure, per-request cost tracking",
+      "language": "Python",
+      "stars": 2,
+      "forks": 1,
+      "open_issues": 0,
+      "topics": [
+        "ai",
+        "anthropic",
+        "api",
+        "cost-optimization",
+        "fallback",
+        "gemini",
+        "llm",
+        "llm-gateway",
+        "model-router",
+        "openai",
+        "saas"
+      ],
+      "homepage": "",
+      "url": "https://github.com/dsk-dev-ai/ai-model-router",
+      "license": "MIT",
+      "pushed_at": "2026-09-16T18:18:48Z",
+      "created_at": "2026-09-13T11:48:49Z",
+      "archived": false,
+      "has_readme": false,
+      "default_branch": "main",
+      "size_kb": 0,
+      "watchers": 2,
+      "contributors_count": 0,
+      "latest_release": {
+        "tag": "v1.1.0",
+        "name": "v1.1.0 — Postgres backend (free Render + Neon)",
+        "published_at": "2026-09-16T13:54:45Z",
+        "html_url": "https://github.com/dsk-dev-ai/ai-model-router/releases/tag/v1.1.0"
+      },
+      "last_commit": {
+        "sha": "6770940",
+        "sha_full": "67709405c6eb23c439de2af02c8dbc49e68984bc",
+        "date": "2026-09-16T18:18:46Z",
+        "message": "docs: document SPA serving, ROUTER_SPA_DIR resolution and rebuild flow",
+        "html_url": "https://github.com/dsk-dev-ai/ai-model-router/commit/67709405c6eb23c439de2af02c8dbc49e68984bc"
+      }
+    },
+    {
+      "slug": "ai-blog-writer",
+      "name": "ai-blog-writer",
+      "full_name": "dsk-dev-ai/ai-blog-writer",
+      "description": "AI Blog Generator using Flask + Ollama (100% FREE local LLM, no API costs)",
+      "language": "Python",
+      "stars": 2,
+      "forks": 1,
+      "open_issues": 0,
+      "topics": [
+        "ai",
+        "ai-tools",
+        "automation",
+        "blog-generator",
+        "flask",
+        "llm",
+        "ollama",
+        "python"
+      ],
+      "homepage": "",
+      "url": "https://github.com/dsk-dev-ai/ai-blog-writer",
+      "license": "MIT",
+      "pushed_at": "2026-09-09T18:13:33Z",
+      "created_at": "2026-02-03T11:34:52Z",
+      "archived": false,
+      "has_readme": false,
+      "default_branch": "main",
+      "size_kb": 0,
+      "watchers": 2,
+      "contributors_count": 0,
+      "latest_release": {},
+      "last_commit": {
+        "sha": "02e3555",
+        "sha_full": "02e3555e3d12ef6bbd907b7235d2c3fca6127652",
+        "date": "2026-09-09T18:13:31Z",
+        "message": "docs: add CONTRIBUTING/SECURITY and CI/license badges",
+        "html_url": "https://github.com/dsk-dev-ai/ai-blog-writer/commit/02e3555e3d12ef6bbd907b7235d2c3fca6127652"
+      }
+    },
+    {
+      "slug": "distrlab",
+      "name": "distrlab",
+      "full_name": "dsk-dev-ai/distrlab",
+      "description": "DistrLab — break a live distributed system in your browser (cache stampedes, queue backpressure, rate limiting, LB strategies, partitions, replica lag). Svelte 5 + Canvas + Web Worker.",
+      "language": "TypeScript",
+      "stars": 1,
+      "forks": 0,
+      "open_issues": 0,
+      "topics": [
+        "canvas",
+        "distributed-systems",
+        "queueing-theory",
+        "render",
+        "simulation",
+        "svelte",
+        "svelte5",
+        "system-design",
+        "typescript",
+        "visualization",
+        "web-worker"
+      ],
+      "homepage": "https://distrlab.onrender.com",
+      "url": "https://github.com/dsk-dev-ai/distrlab",
+      "license": "Apache-2.0",
+      "pushed_at": "2026-10-07T14:40:12Z",
+      "created_at": "2026-10-06T18:01:38Z",
+      "archived": false,
+      "has_readme": false,
+      "default_branch": "main",
+      "size_kb": 0,
+      "watchers": 1,
+      "contributors_count": 0,
+      "latest_release": {
+        "tag": "v1.1.0",
+        "name": "DistrLab v1.1.0 — circuit breaker & smarter load balancing",
+        "published_at": "2026-10-07T14:40:34Z",
+        "html_url": "https://github.com/dsk-dev-ai/distrlab/releases/tag/v1.1.0"
+      },
+      "last_commit": {
+        "sha": "264ece7",
+        "sha_full": "264ece7aa6d5f9968f8913e137b3719ca5851612",
+        "date": "2026-10-07T14:39:53Z",
+        "message": "Merge pull request #1 from dsk-dev-ai/feat/v1.1-resilience-depth",
+        "html_url": "https://github.com/dsk-dev-ai/distrlab/commit/264ece7aa6d5f9968f8913e137b3719ca5851612"
+      }
+    },
+    {
+      "slug": "dsk-packages",
+      "name": "dsk-packages",
+      "full_name": "dsk-dev-ai/dsk-packages",
+      "description": "A collection of high-quality TypeScript packages, developer utilities, and open-source tools.",
+      "language": "TypeScript",
+      "stars": 1,
+      "forks": 0,
+      "open_issues": 5,
+      "topics": [
+        "developer-tools",
+        "monorepo",
+        "npm",
+        "open-source",
+        "pnpm",
+        "typescript"
+      ],
+      "homepage": "",
+      "url": "https://github.com/dsk-dev-ai/dsk-packages",
+      "license": "MIT",
+      "pushed_at": "2026-10-05T03:36:48Z",
+      "created_at": "2026-07-16T17:27:22Z",
+      "archived": false,
+      "has_readme": false,
+      "default_branch": "main",
+      "size_kb": 0,
+      "watchers": 1,
+      "contributors_count": 2,
+      "latest_release": {
+        "tag": "@darshankachare/logger@2.1.0",
+        "name": "@darshankachare/logger@2.1.0",
+        "published_at": "2026-07-16T22:06:19Z",
+        "html_url": "https://github.com/dsk-dev-ai/dsk-packages/releases/tag/%40darshankachare/logger%402.1.0"
+      },
+      "last_commit": {
+        "sha": "824c30c",
+        "sha_full": "824c30c0747dc9c1b212f62a1c4ff6b408289b8b",
+        "date": "2026-09-07T12:42:34Z",
+        "message": "fix: security overrides + dependency updates",
+        "html_url": "https://github.com/dsk-dev-ai/dsk-packages/commit/824c30c0747dc9c1b212f62a1c4ff6b408289b8b"
+      }
+    },
+    {
+      "slug": "meshery-designs",
+      "name": "meshery-designs",
+      "full_name": "dsk-dev-ai/meshery-designs",
+      "description": "AI-native platform design for Meshery",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "open_issues": 0,
+      "topics": [],
+      "homepage": "",
+      "url": "https://github.com/dsk-dev-ai/meshery-designs",
+      "license": null,
+      "pushed_at": "2026-09-28T12:05:14Z",
+      "created_at": "2026-09-28T10:31:35Z",
+      "archived": false,
+      "has_readme": false,
+      "default_branch": "main",
+      "size_kb": 0,
+      "watchers": 1,
+      "contributors_count": 0,
+      "latest_release": {},
+      "last_commit": {
+        "sha": "6c98ccc",
+        "sha_full": "6c98ccc01362d98a7e84ed0e498fcb922c172342",
+        "date": "2026-09-28T12:05:12Z",
+        "message": "fix: add catalog-valid resource configuration",
+        "html_url": "https://github.com/dsk-dev-ai/meshery-designs/commit/6c98ccc01362d98a7e84ed0e498fcb922c172342"
+      }
+    },
+    {
+      "slug": "hunteros",
+      "name": "hunteros",
+      "full_name": "dsk-dev-ai/hunteros",
+      "description": "Repository intelligence platform for white-box security research, architecture analysis, and AI-assisted code review.",
+      "language": "TypeScript",
+      "stars": 1,
+      "forks": 0,
+      "open_issues": 11,
+      "topics": [
+        "architecture",
+        "code-review",
+        "monorepo",
+        "open-source",
+        "security",
+        "security-research",
+        "typescript"
+      ],
+      "homepage": "",
+      "url": "https://github.com/dsk-dev-ai/hunteros",
+      "license": "Apache-2.0",
+      "pushed_at": "2026-09-25T07:41:36Z",
+      "created_at": "2026-07-19T08:26:48Z",
+      "archived": false,
+      "has_readme": false,
+      "default_branch": "main",
+      "size_kb": 0,
+      "watchers": 1,
+      "contributors_count": 0,
+      "latest_release": {},
+      "last_commit": {
+        "sha": "5471329",
+        "sha_full": "5471329164ec5204f4049c10bfc99809d548dce7",
+        "date": "2026-09-25T07:41:34Z",
+        "message": "docs: full README (packages/rules/apps/quickstart) + align all manifests to Apache-2.0",
+        "html_url": "https://github.com/dsk-dev-ai/hunteros/commit/5471329164ec5204f4049c10bfc99809d548dce7"
+      }
+    },
+    {
+      "slug": "algorithm-discovery-engine",
+      "name": "algorithm-discovery-engine",
+      "full_name": "dsk-dev-ai/algorithm-discovery-engine",
+      "description": "Multi-language algorithms & data structures solving engine: Java, C++ and Rust tiers with a Python reference, cross-language benchmarks, and a local synthesizer that rediscovers algorithms (Kadane, buy-and-sell, jump game) from examples.",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "open_issues": 0,
+      "topics": [
+        "ai",
+        "algorithm-discovery",
+        "algorithms",
+        "benchmark",
+        "cpp",
+        "data-structures",
+        "developer-tools",
+        "education",
+        "java",
+        "learning",
+        "machine-learning",
+        "open-source",
+        "pattern-discovery",
+        "programming",
+        "python",
+        "rust",
+        "scientific-computing",
+        "sequence-analysis"
+      ],
+      "homepage": "https://dsk-dev-ai.github.io/algorithm-discovery-engine/",
+      "url": "https://github.com/dsk-dev-ai/algorithm-discovery-engine",
+      "license": "MIT",
+      "pushed_at": "2026-09-25T07:41:08Z",
+      "created_at": "2026-07-31T06:50:49Z",
+      "archived": false,
+      "has_readme": false,
+      "default_branch": "main",
+      "size_kb": 0,
+      "watchers": 1,
+      "contributors_count": 0,
+      "latest_release": {
+        "tag": "v1.0.1",
+        "name": "v1.0.1",
+        "published_at": "2026-09-11T17:37:10Z",
+        "html_url": "https://github.com/dsk-dev-ai/algorithm-discovery-engine/releases/tag/v1.0.1"
+      },
+      "last_commit": {
+        "sha": "c8a37e1",
+        "sha_full": "c8a37e18acf2ccf119696599145464bed686dd65",
+        "date": "2026-09-25T07:41:05Z",
+        "message": "fix: replace dead /stargazers badge link with repo root (GitHub decommissioned the path)",
+        "html_url": "https://github.com/dsk-dev-ai/algorithm-discovery-engine/commit/c8a37e18acf2ccf119696599145464bed686dd65"
+      }
+    },
+    {
+      "slug": "mcp-nexus",
+      "name": "mcp-nexus",
+      "full_name": "dsk-dev-ai/mcp-nexus",
+      "description": "The intelligent routing & discovery layer for MCP tools. One umbrella endpoint in front of hundreds — dynamic capability discovery, explainable routing, policy-aware execution, LLM-optional hybrid router.",
+      "language": "TypeScript",
+      "stars": 1,
+      "forks": 0,
+      "open_issues": 0,
+      "topics": [
+        "agent-tools",
+        "ai",
+        "ai-agents",
+        "developer-tools",
+        "llm",
+        "llm-routing",
+        "mcp",
+        "mcp-server",
+        "mcp-tools",
+        "model-context-protocol",
+        "router",
+        "tool-registry",
+        "typescript"
+      ],
+      "homepage": "https://dsk-dev-ai.github.io/mcp-nexus/",
+      "url": "https://github.com/dsk-dev-ai/mcp-nexus",
+      "license": "Apache-2.0",
+      "pushed_at": "2026-09-24T18:22:14Z",
+      "created_at": "2026-09-23T15:08:20Z",
+      "archived": false,
+      "has_readme": false,
+      "default_branch": "main",
+      "size_kb": 0,
+      "watchers": 1,
+      "contributors_count": 0,
+      "latest_release": {
+        "tag": "v1.0.0",
+        "name": "v1.0.0 — MCP Nexus is stable, measurable, and documented",
+        "published_at": "2026-09-24T18:12:36Z",
+        "html_url": "https://github.com/dsk-dev-ai/mcp-nexus/releases/tag/v1.0.0"
+      },
+      "last_commit": {
+        "sha": "c29b15c",
+        "sha_full": "c29b15c5a4d722682635c0377fa9d550f3e741f3",
+        "date": "2026-09-24T18:22:14Z",
+        "message": "Merge pull request #16 from dsk-dev-ai/release/1.0.0",
+        "html_url": "https://github.com/dsk-dev-ai/mcp-nexus/commit/c29b15c5a4d722682635c0377fa9d550f3e741f3"
+      }
+    },
+    {
+      "slug": "login-register-system-with-flask-sqlite",
+      "name": "Login-Register-System-with-Flask-SQLite",
+      "full_name": "dsk-dev-ai/Login-Register-System-with-Flask-SQLite",
+      "description": "Secure Login & Register System built with Flask + SQLite featuring authentication, password hashing, sessions, and protected dashboards for real-world web apps.",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "open_issues": 0,
+      "topics": [
+        "authentication",
+        "backend",
+        "database",
+        "flask",
+        "fullstack",
+        "login-system",
+        "python",
+        "register-system",
+        "security",
+        "sessions",
+        "sqlite",
+        "web-development"
+      ],
+      "homepage": "",
+      "url": "https://github.com/dsk-dev-ai/Login-Register-System-with-Flask-SQLite",
+      "license": "MIT",
+      "pushed_at": "2026-09-09T18:14:25Z",
+      "created_at": "2026-02-03T12:38:41Z",
+      "archived": false,
+      "has_readme": false,
+      "default_branch": "main",
+      "size_kb": 0,
+      "watchers": 1,
+      "contributors_count": 0,
+      "latest_release": {},
+      "last_commit": {
+        "sha": "354fdff",
+        "sha_full": "354fdffbb9f0f9e53a87a21dd8e818083f06d382",
+        "date": "2026-09-09T18:14:23Z",
+        "message": "docs: add CONTRIBUTING/SECURITY and CI/license badges",
+        "html_url": "https://github.com/dsk-dev-ai/Login-Register-System-with-Flask-SQLite/commit/354fdffbb9f0f9e53a87a21dd8e818083f06d382"
+      }
+    },
+    {
+      "slug": "smart-resume-builder-ai",
+      "name": "smart-resume-builder-ai",
+      "full_name": "dsk-dev-ai/smart-resume-builder-ai",
+      "description": "AI-powered Resume Builder using Flask + Ollama that generates professional resumes instantly and exports them as PDF with a modern web interface.",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "open_issues": 0,
+      "topics": [
+        "ai",
+        "ai-tools",
+        "automation",
+        "backend",
+        "flask",
+        "llm",
+        "ollama",
+        "python",
+        "resume-builder",
+        "saas",
+        "webapp"
+      ],
+      "homepage": "",
+      "url": "https://github.com/dsk-dev-ai/smart-resume-builder-ai",
+      "license": "MIT",
+      "pushed_at": "2026-09-09T18:13:54Z",
+      "created_at": "2026-02-03T13:36:24Z",
+      "archived": false,
+      "has_readme": false,
+      "default_branch": "main",
+      "size_kb": 0,
+      "watchers": 1,
+      "contributors_count": 0,
+      "latest_release": {},
+      "last_commit": {
+        "sha": "b8071d1",
+        "sha_full": "b8071d1ff94176a52935d022647d5b29008292ad",
+        "date": "2026-09-09T18:13:52Z",
+        "message": "docs: add CONTRIBUTING/SECURITY and CI/license badges",
+        "html_url": "https://github.com/dsk-dev-ai/smart-resume-builder-ai/commit/b8071d1ff94176a52935d022647d5b29008292ad"
+      }
+    },
+    {
+      "slug": "mediahub-downloader",
+      "name": "mediahub-downloader",
+      "full_name": "dsk-dev-ai/mediahub-downloader",
+      "description": "Automation toolkit for media and content workflows — batch captures and downloads from online sources.",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "open_issues": 0,
+      "topics": [
+        "desktop-app",
+        "downloader",
+        "gui",
+        "media",
+        "pyside6",
+        "python",
+        "qt",
+        "yt-dlp"
+      ],
+      "homepage": "",
+      "url": "https://github.com/dsk-dev-ai/mediahub-downloader",
+      "license": "MIT",
+      "pushed_at": "2026-09-09T18:05:56Z",
+      "created_at": "2026-04-12T09:09:06Z",
+      "archived": false,
+      "has_readme": false,
+      "default_branch": "main",
+      "size_kb": 0,
+      "watchers": 1,
+      "contributors_count": 0,
+      "latest_release": {},
+      "last_commit": {
+        "sha": "51646e3",
+        "sha_full": "51646e3d59d0a2d7d8cc60d89a9da65ae22d26ee",
+        "date": "2026-09-09T18:05:54Z",
+        "message": "docs: fix license badge owner, add SECURITY policy and CI badge",
+        "html_url": "https://github.com/dsk-dev-ai/mediahub-downloader/commit/51646e3d59d0a2d7d8cc60d89a9da65ae22d26ee"
+      }
+    },
+    {
+      "slug": "tabforge-private",
+      "name": "tabforge-private",
+      "full_name": "dsk-dev-ai/tabforge-private",
+      "description": "Ultra-lightweight multi-tab browser recorder. Record multiple browser tabs simultaneously and save each tab separately in 1080p 30–60 FPS with low RAM usage.",
+      "language": "Rust",
+      "stars": 1,
+      "forks": 0,
+      "open_issues": 0,
+      "topics": [
+        "browser",
+        "desktop-app",
+        "electron",
+        "rust",
+        "screen-recording",
+        "tauri"
+      ],
+      "homepage": "",
+      "url": "https://github.com/dsk-dev-ai/tabforge-private",
+      "license": "MIT",
+      "pushed_at": "2026-09-09T18:05:37Z",
+      "created_at": "2026-05-14T04:44:15Z",
+      "archived": false,
+      "has_readme": false,
+      "default_branch": "main",
+      "size_kb": 0,
+      "watchers": 1,
+      "contributors_count": 0,
+      "latest_release": {},
+      "last_commit": {
+        "sha": "091e01c",
+        "sha_full": "091e01c6099b92ed114c18ac02a794465173f0ec",
+        "date": "2026-09-09T18:05:35Z",
+        "message": "docs: add CONTRIBUTING/SECURITY and CI/license badges",
+        "html_url": "https://github.com/dsk-dev-ai/tabforge-private/commit/091e01c6099b92ed114c18ac02a794465173f0ec"
+      }
+    },
+    {
+      "slug": "ai-chat-platform",
+      "name": "ai-chat-platform",
+      "full_name": "dsk-dev-ai/ai-chat-platform",
+      "description": "Full-stack AI chat application built with React, Flask, and Ollama (learning project)",
+      "language": "TypeScript",
+      "stars": 1,
+      "forks": 0,
+      "open_issues": 0,
+      "topics": [
+        "ai",
+        "authentication",
+        "backend",
+        "chat",
+        "flask",
+        "frontend",
+        "jwt",
+        "llm",
+        "python",
+        "react"
+      ],
+      "homepage": "",
+      "url": "https://github.com/dsk-dev-ai/ai-chat-platform",
+      "license": "MIT",
+      "pushed_at": "2026-09-09T18:05:01Z",
+      "created_at": "2026-02-05T07:33:55Z",
+      "archived": false,
+      "has_readme": false,
+      "default_branch": "main",
+      "size_kb": 0,
+      "watchers": 1,
+      "contributors_count": 0,
+      "latest_release": {},
+      "last_commit": {
+        "sha": "d145502",
+        "sha_full": "d145502d891d47f6687ae8d5a5528ba4d1c2fdf1",
+        "date": "2026-09-09T18:04:59Z",
+        "message": "docs: add CONTRIBUTING/SECURITY and CI/license badges",
+        "html_url": "https://github.com/dsk-dev-ai/ai-chat-platform/commit/d145502d891d47f6687ae8d5a5528ba4d1c2fdf1"
+      }
+    },
+    {
+      "slug": "bookforge-ai",
+      "name": "bookforge-ai",
+      "full_name": "dsk-dev-ai/bookforge-ai",
+      "description": "AI-powered technical eBook production platform for researching, writing, reviewing, formatting, and publishing professional AI and software engineering books using NVIDIA NIM, local LLMs, and open-source tooling.",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "open_issues": 0,
+      "topics": [
+        "ai",
+        "documentation",
+        "ebook",
+        "llm",
+        "machine-learning",
+        "mcp",
+        "natural-language-processing",
+        "open-source",
+        "platform",
+        "publisher",
+        "python",
+        "technical-writing"
+      ],
+      "homepage": "",
+      "url": "https://github.com/dsk-dev-ai/bookforge-ai",
+      "license": "MIT",
+      "pushed_at": "2026-09-09T17:54:16Z",
+      "created_at": "2026-07-26T08:42:44Z",
+      "archived": false,
+      "has_readme": false,
+      "default_branch": "main",
+      "size_kb": 0,
+      "watchers": 1,
+      "contributors_count": 0,
+      "latest_release": {},
+      "last_commit": {
+        "sha": "0b4c474",
+        "sha_full": "0b4c4749f4e114a995edc16968d2c9a8b9223f4b",
+        "date": "2026-09-09T17:54:14Z",
+        "message": "docs: add root CONTRIBUTING/SECURITY and CI/license badges",
+        "html_url": "https://github.com/dsk-dev-ai/bookforge-ai/commit/0b4c4749f4e114a995edc16968d2c9a8b9223f4b"
+      }
+    },
+    {
+      "slug": "devos-ai",
+      "name": "devos-ai",
+      "full_name": "dsk-dev-ai/devos-ai",
+      "description": "CLI-based AI tool for analyzing and understanding codebases using LLMs",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "open_issues": 0,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "developer-tools",
+        "devtools",
+        "llm",
+        "nextjs",
+        "ollama",
+        "open-source",
+        "qdrant",
+        "rag",
+        "rust",
+        "vector-database"
+      ],
+      "homepage": "https://github.com/dsk-dev-ai/devos-ai",
+      "url": "https://github.com/dsk-dev-ai/devos-ai",
+      "license": "MIT",
+      "pushed_at": "2026-09-07T12:11:14Z",
+      "created_at": "2026-03-14T18:42:00Z",
+      "archived": false,
+      "has_readme": false,
+      "default_branch": "main",
+      "size_kb": 0,
+      "watchers": 1,
+      "contributors_count": 0,
+      "latest_release": {
+        "tag": "v3.0.0",
+        "name": "🚀 DevOS AI v3.0.0 — Advanced Context Engine & CLI Upgrade",
+        "published_at": "2026-04-12T10:05:28Z",
+        "html_url": "https://github.com/dsk-dev-ai/devos-ai/releases/tag/v3.0.0"
+      },
+      "last_commit": {
+        "sha": "2edfa18",
+        "sha_full": "2edfa183f2e38ecef15edd4c80a09f5658eec589",
+        "date": "2026-09-07T12:11:12Z",
+        "message": "chore: remove 62 empty stub files (frontend, api-gateway, docs scaffolding)",
+        "html_url": "https://github.com/dsk-dev-ai/devos-ai/commit/2edfa183f2e38ecef15edd4c80a09f5658eec589"
+      }
+    },
+    {
+      "slug": "loggit",
+      "name": "loggit",
+      "full_name": "dsk-dev-ai/loggit",
+      "description": "A friendly terminal git history explorer. Zero dependencies.",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "open_issues": 0,
+      "topics": [
+        "cli",
+        "cli-tools",
+        "developer-tools",
+        "devtools",
+        "git",
+        "git-log",
+        "github-actions",
+        "productivity",
+        "terminal"
+      ],
+      "homepage": "https://pypi.org/project/loggit/",
+      "url": "https://github.com/dsk-dev-ai/loggit",
+      "license": "MIT",
+      "pushed_at": "2026-09-01T12:48:54Z",
+      "created_at": "2026-08-30T20:59:41Z",
+      "archived": false,
+      "has_readme": false,
+      "default_branch": "main",
+      "size_kb": 0,
+      "watchers": 1,
+      "contributors_count": 0,
+      "latest_release": {
+        "tag": "v1.0.1",
+        "name": "loggit v1.0.1",
+        "published_at": "2026-08-31T04:59:29Z",
+        "html_url": "https://github.com/dsk-dev-ai/loggit/releases/tag/v1.0.1"
+      },
+      "last_commit": {
+        "sha": "5b23479",
+        "sha_full": "5b2347995093366bac52b99b613d48bea14f5130",
+        "date": "2026-09-01T12:48:50Z",
+        "message": "Add docs website + GitHub Pages deployment",
+        "html_url": "https://github.com/dsk-dev-ai/loggit/commit/5b2347995093366bac52b99b613d48bea14f5130"
+      }
+    },
+    {
+      "slug": "tailr",
+      "name": "tailr",
+      "full_name": "dsk-dev-ai/tailr",
+      "description": "Colorized live log viewer for the terminal. Zero dependencies.",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "open_issues": 0,
+      "topics": [
+        "cli",
+        "cli-tools",
+        "color",
+        "developertools",
+        "devops",
+        "github-actions",
+        "log",
+        "logging",
+        "tail",
+        "terminal"
+      ],
+      "homepage": "https://pypi.org/project/tailr/",
+      "url": "https://github.com/dsk-dev-ai/tailr",
+      "license": "MIT",
+      "pushed_at": "2026-09-01T12:48:46Z",
+      "created_at": "2026-08-30T21:26:29Z",
+      "archived": false,
+      "has_readme": false,
+      "default_branch": "main",
+      "size_kb": 0,
+      "watchers": 1,
+      "contributors_count": 0,
+      "latest_release": {
+        "tag": "v1.0.1",
+        "name": "tailr v1.0.1",
+        "published_at": "2026-08-31T04:59:28Z",
+        "html_url": "https://github.com/dsk-dev-ai/tailr/releases/tag/v1.0.1"
+      },
+      "last_commit": {
+        "sha": "b53bb81",
+        "sha_full": "b53bb81cd432009e20b3dbb2acbf6b8cc22b719b",
+        "date": "2026-09-01T12:48:43Z",
+        "message": "Add docs website + GitHub Pages deployment",
+        "html_url": "https://github.com/dsk-dev-ai/tailr/commit/b53bb81cd432009e20b3dbb2acbf6b8cc22b719b"
+      }
+    },
+    {
+      "slug": "ctx",
+      "name": "ctx",
+      "full_name": "dsk-dev-ai/ctx",
+      "description": "Pack any project into a single file for your AI/LLM context. Zero dependencies.",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "open_issues": 0,
+      "topics": [
+        "cli",
+        "cli-tools",
+        "context",
+        "developer-tools",
+        "devtools",
+        "github-actions",
+        "llm",
+        "productivity",
+        "python"
+      ],
+      "homepage": "https://pypi.org/project/repobundler/",
+      "url": "https://github.com/dsk-dev-ai/ctx",
+      "license": "MIT",
+      "pushed_at": "2026-09-01T12:48:42Z",
+      "created_at": "2026-08-30T21:14:34Z",
+      "archived": false,
+      "has_readme": false,
+      "default_branch": "main",
+      "size_kb": 0,
+      "watchers": 1,
+      "contributors_count": 0,
+      "latest_release": {
+        "tag": "v1.0.1",
+        "name": "ctx v1.0.1",
+        "published_at": "2026-08-31T05:01:06Z",
+        "html_url": "https://github.com/dsk-dev-ai/ctx/releases/tag/v1.0.1"
+      },
+      "last_commit": {
+        "sha": "754b013",
+        "sha_full": "754b01308c3d86adeaa81790e828bd73a2b13912",
+        "date": "2026-09-01T12:48:38Z",
+        "message": "Add docs website + GitHub Pages deployment",
+        "html_url": "https://github.com/dsk-dev-ai/ctx/commit/754b01308c3d86adeaa81790e828bd73a2b13912"
+      }
+    },
+    {
+      "slug": "repochat-ai",
+      "name": "repochat-ai",
+      "full_name": "dsk-dev-ai/repochat-ai",
+      "description": "Prototype for querying and understanding GitHub repositories using local LLMs",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "open_issues": 0,
+      "topics": [
+        "ai",
+        "code-analysis",
+        "developer-tools",
+        "langchain",
+        "local-llm",
+        "ollama",
+        "vector-database"
+      ],
+      "homepage": "",
+      "url": "https://github.com/dsk-dev-ai/repochat-ai",
+      "license": "MIT",
+      "pushed_at": "2026-03-13T16:50:49Z",
+      "created_at": "2026-03-13T13:04:48Z",
+      "archived": false,
+      "has_readme": false,
+      "default_branch": "main",
+      "size_kb": 0,
+      "watchers": 1,
+      "contributors_count": 0,
+      "latest_release": {},
+      "last_commit": {
+        "sha": "6722f7d",
+        "sha_full": "6722f7d12b6f65dff0f92af4c53bed807515ad64",
+        "date": "2026-03-13T16:50:49Z",
+        "message": "Update architecture.md",
+        "html_url": "https://github.com/dsk-dev-ai/repochat-ai/commit/6722f7d12b6f65dff0f92af4c53bed807515ad64"
+      }
+    },
+    {
+      "slug": "attendance-study-toolkit",
+      "name": "attendance-study-toolkit",
+      "full_name": "dsk-dev-ai/attendance-study-toolkit",
+      "description": "Offline-first Android student productivity app for attendance, timetable, study planning, and focus tracking.",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "topics": [
+        "android",
+        "education",
+        "expo",
+        "offline-first",
+        "react-native"
+      ],
+      "homepage": "",
+      "url": "https://github.com/dsk-dev-ai/attendance-study-toolkit",
+      "license": "MIT",
+      "pushed_at": "2026-09-25T07:44:10Z",
+      "created_at": "2026-08-13T03:54:25Z",
+      "archived": false,
+      "has_readme": false,
+      "default_branch": "main",
+      "size_kb": 0,
+      "watchers": 0,
+      "contributors_count": 0,
+      "latest_release": {},
+      "last_commit": {
+        "sha": "b2054d8",
+        "sha_full": "b2054d8104604dc578bf11cf6e59bfdeccf447b5",
+        "date": "2026-09-25T07:44:08Z",
+        "message": "docs: replace Expo boilerplate README with project README (roadmap, stack, quickstart)",
+        "html_url": "https://github.com/dsk-dev-ai/attendance-study-toolkit/commit/b2054d8104604dc578bf11cf6e59bfdeccf447b5"
+      }
+    },
+    {
+      "slug": "ai-toolkit-saas",
+      "name": "ai-toolkit-saas",
+      "full_name": "dsk-dev-ai/ai-toolkit-saas",
+      "description": "AI-powered content generation SaaS — blog, tweet & YouTube scripts via Google Gemini + FastAPI, with auth, rate limiting, and caching.",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "topics": [
+        "ai",
+        "content-generation",
+        "fastapi",
+        "gemini",
+        "open-source",
+        "saas"
+      ],
+      "homepage": "",
+      "url": "https://github.com/dsk-dev-ai/ai-toolkit-saas",
+      "license": "MIT",
+      "pushed_at": "2026-09-07T12:03:37Z",
+      "created_at": "2026-03-17T18:36:24Z",
+      "archived": false,
+      "has_readme": false,
+      "default_branch": "main",
+      "size_kb": 0,
+      "watchers": 0,
+      "contributors_count": 0,
+      "latest_release": {},
+      "last_commit": {
+        "sha": "d95f2e1",
+        "sha_full": "d95f2e1843774669fc6c5ff3b10b12ed62f1e2ff",
+        "date": "2026-09-07T12:03:35Z",
+        "message": "fix: real token auth, safe CORS, bounded limiter/cache; purge 386 junk files",
+        "html_url": "https://github.com/dsk-dev-ai/ai-toolkit-saas/commit/d95f2e1843774669fc6c5ff3b10b12ed62f1e2ff"
+      }
+    },
+    {
+      "slug": "artlab",
+      "name": "artlab",
+      "full_name": "dsk-dev-ai/artlab",
+      "description": "ASCII art in your terminal. Zero dependencies.",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "topics": [
+        "art",
+        "ascii",
+        "cli",
+        "cli-tools",
+        "fun",
+        "github-actions",
+        "productivity",
+        "rainbow",
+        "terminal",
+        "text"
+      ],
+      "homepage": "https://pypi.org/project/artlab/",
+      "url": "https://github.com/dsk-dev-ai/artlab",
+      "license": "MIT",
+      "pushed_at": "2026-09-01T12:48:49Z",
+      "created_at": "2026-08-30T21:41:55Z",
+      "archived": false,
+      "has_readme": false,
+      "default_branch": "main",
+      "size_kb": 0,
+      "watchers": 0,
+      "contributors_count": 0,
+      "latest_release": {
+        "tag": "v1.0.1",
+        "name": "artlab v1.0.1",
+        "published_at": "2026-08-31T04:59:30Z",
+        "html_url": "https://github.com/dsk-dev-ai/artlab/releases/tag/v1.0.1"
+      },
+      "last_commit": {
+        "sha": "faf784c",
+        "sha_full": "faf784c4c477529358b500ffb6b715a7d99449bd",
+        "date": "2026-09-01T12:48:46Z",
+        "message": "Add docs website + GitHub Pages deployment",
+        "html_url": "https://github.com/dsk-dev-ai/artlab/commit/faf784c4c477529358b500ffb6b715a7d99449bd"
+      }
+    },
+    {
+      "slug": "env-proof",
+      "name": "env-proof",
+      "full_name": "dsk-dev-ai/env-proof",
+      "description": "Zero-config environment variable validation for Node.js and TypeScript projects.",
+      "language": null,
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "topics": [
+        "developer-tools",
+        "environment-variables",
+        "nodejs",
+        "typescript",
+        "validation",
+        "zero-config"
+      ],
+      "homepage": "",
+      "url": "https://github.com/dsk-dev-ai/env-proof",
+      "license": "MIT",
+      "pushed_at": "2026-08-22T14:34:38Z",
+      "created_at": "2026-08-22T11:36:34Z",
+      "archived": false,
+      "has_readme": false,
+      "default_branch": "main",
+      "size_kb": 0,
+      "watchers": 0,
+      "contributors_count": 0,
+      "latest_release": {},
+      "last_commit": {
+        "sha": "fa7e055",
+        "sha_full": "fa7e0552336bfc20e2f4afdcba8c5ae3e67eb1cf",
+        "date": "2026-08-22T12:36:36Z",
+        "message": "Phase 0 close-out: mark checklist complete, resolve validateEnv env-default wording in SPEC",
+        "html_url": "https://github.com/dsk-dev-ai/env-proof/commit/fa7e0552336bfc20e2f4afdcba8c5ae3e67eb1cf"
+      }
+    }
+  ],
+  "readmes": {
+    "repoarch": "",
+    "api-monitor-saas": "",
+    "textrieve": "",
+    "genomeai": "",
+    "ai-model-router": "",
+    "ai-blog-writer": "",
+    "distrlab": "",
+    "dsk-packages": "",
+    "meshery-designs": "",
+    "hunteros": "",
+    "algorithm-discovery-engine": "",
+    "mcp-nexus": "",
+    "login-register-system-with-flask-sqlite": "",
+    "smart-resume-builder-ai": "",
+    "mediahub-downloader": "",
+    "tabforge-private": "",
+    "ai-chat-platform": "",
+    "bookforge-ai": "",
+    "devos-ai": "",
+    "loggit": "",
+    "tailr": "",
+    "ctx": "",
+    "repochat-ai": "",
+    "attendance-study-toolkit": "",
+    "ai-toolkit-saas": "",
+    "artlab": "",
+    "env-proof": ""
+  },
+  "activity": [
+    {
+      "type": "ReleaseEvent",
+      "repo": "dsk-dev-ai/distrlab",
+      "action": "released",
+      "detail": "v1.1.0",
+      "created_at": "2026-10-07T14:40:34Z"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "dsk-dev-ai/distrlab",
+      "action": "merged a PR in",
+      "detail": "#1 ",
+      "created_at": "2026-10-07T14:39:54Z"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "dsk-dev-ai/meshery-designs",
+      "action": "pushed `main` to",
+      "detail": "",
+      "created_at": "2026-09-28T11:16:18Z"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "dsk-dev-ai/api-monitor-saas",
+      "action": "pushed `main` to",
+      "detail": "",
+      "created_at": "2026-09-28T07:21:48Z"
+    },
+    {
+      "type": "WatchEvent",
+      "repo": "meshery/meshery",
+      "action": "starred",
+      "detail": "",
+      "created_at": "2026-09-28T12:18:03Z"
+    },
+    {
+      "type": "WatchEvent",
+      "repo": "meshery-extensions/meshery-mcp-server",
+      "action": "starred",
+      "detail": "",
+      "created_at": "2026-09-27T19:12:37Z"
+    },
+    {
+      "type": "WatchEvent",
+      "repo": "diegosouzapw/OmniRoute",
+      "action": "starred",
+      "detail": "",
+      "created_at": "2026-09-27T17:24:27Z"
+    },
+    {
+      "type": "ReleaseEvent",
+      "repo": "dsk-dev-ai/api-monitor-saas",
+      "action": "released",
+      "detail": "v3.5.0-community",
+      "created_at": "2026-09-27T12:54:39Z"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "dsk-dev-ai/textrieve",
+      "action": "pushed `main` to",
+      "detail": "",
+      "created_at": "2026-09-25T09:16:11Z"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "nextgenai-labs/.github",
+      "action": "pushed `main` to",
+      "detail": "",
+      "created_at": "2026-09-25T05:05:49Z"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "dsk-dev-ai/awesome-ocr",
+      "action": "pushed `master` to",
+      "detail": "",
+      "created_at": "2026-09-25T07:51:29Z"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "dsk-dev-ai/dsk-dev-ai",
+      "action": "pushed `main` to",
+      "detail": "",
+      "created_at": "2026-09-25T04:35:36Z"
+    }
+  ],
+  "contributions": {
+    "upstream": [
+      {
+        "repo": "microsoft/agentrc",
+        "number": 369,
+        "title": "fix(instructions): deduplicate nested AGENTS.md content",
+        "url": "https://github.com/microsoft/agentrc/pull/369",
+        "merged_at": "2026-09-21T04:15:02Z",
+        "author": "digitarald",
+        "via": "commits"
+      },
+      {
+        "repo": "microsoft/agentrc",
+        "number": 368,
+        "title": "fix(vscode): honor nested batch instructions",
+        "url": "https://github.com/microsoft/agentrc/pull/368",
+        "merged_at": "2026-09-21T04:08:50Z",
+        "author": "digitarald",
+        "via": "commits"
+      },
+      {
+        "repo": "mdn/content",
+        "number": 45399,
+        "title": "docs(glossary): add Interface glossary page",
+        "url": "https://github.com/mdn/content/pull/45399",
+        "merged_at": "2026-08-31T18:04:13Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "mdn/content",
+        "number": 45326,
+        "title": "fix(css): consolidate nested grid example",
+        "url": "https://github.com/mdn/content/pull/45326",
+        "merged_at": "2026-08-27T07:39:36Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "mdn/content",
+        "number": 44763,
+        "title": "docs(wasm): correct min_u output description",
+        "url": "https://github.com/mdn/content/pull/44763",
+        "merged_at": "2026-07-17T10:17:52Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "mdn/content",
+        "number": 44727,
+        "title": "Fix misleading createAttributeNS() namespace guidance and examples",
+        "url": "https://github.com/mdn/content/pull/44727",
+        "merged_at": "2026-07-17T07:05:16Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "mdn/content",
+        "number": 43471,
+        "title": "docs: add payload size limit note to navigator.sendBeacon()",
+        "url": "https://github.com/mdn/content/pull/43471",
+        "merged_at": "2026-03-19T20:33:03Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "mdn/content",
+        "number": 43474,
+        "title": "Fix console timestamp data",
+        "url": "https://github.com/mdn/content/pull/43474",
+        "merged_at": "2026-03-18T10:10:56Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "firstcontributions/first-contributions",
+        "number": 113631,
+        "title": "Add dsk-dev-ai to Contributors list",
+        "url": "https://github.com/firstcontributions/first-contributions/pull/113631",
+        "merged_at": "2026-03-16T02:56:46Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      }
+    ],
+    "org": [
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 114,
+        "title": "feat(company): integrate memory retrieval and context",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/114",
+        "merged_at": "2026-10-06T18:17:16Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 113,
+        "title": "feat(company): persist memory and knowledge",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/113",
+        "merged_at": "2026-09-28T06:55:59Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 112,
+        "title": "feat(company): define memory architecture and contracts",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/112",
+        "merged_at": "2026-09-28T05:58:47Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 111,
+        "title": "fix(company): stop a permissive policy overriding a caller's failOnDegraded",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/111",
+        "merged_at": "2026-09-28T05:05:05Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 110,
+        "title": "feat(company): persist delegation and decision history",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/110",
+        "merged_at": "2026-09-27T14:00:58Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 109,
+        "title": "feat(company): add orchestrator decision layer",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/109",
+        "merged_at": "2026-09-27T13:19:18Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 108,
+        "title": "feat(company): add reliable employee delegation",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/108",
+        "merged_at": "2026-09-27T11:39:40Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 107,
+        "title": "refactor(docs): derive navigation from the page tree",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/107",
+        "merged_at": "2026-09-26T07:09:28Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 106,
+        "title": "docs: make every page match the real monorepo",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/106",
+        "merged_at": "2026-09-26T06:28:22Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 105,
+        "title": "refactor(unify-test-runners): migrate 61 workspaces from tsx loops to vitest",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/105",
+        "merged_at": "2026-09-26T05:06:39Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 104,
+        "title": "chore(cleanup): remove dead app stubs and destructive generator",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/104",
+        "merged_at": "2026-09-25T15:25:15Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 103,
+        "title": "fix(deps): remediate 37 dependabot security alerts",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/103",
+        "merged_at": "2026-09-25T14:45:08Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 102,
+        "title": "chore(company): test watchdogFailures + refresh RFC counts",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/102",
+        "merged_at": "2026-09-25T13:55:58Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 101,
+        "title": "feat(company): cron --strict surfaces watchdog failures to cron automation",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/101",
+        "merged_at": "2026-09-25T13:54:56Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 100,
+        "title": "feat(company): heartbeat --strict surfaces watchdog failures to automation",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/100",
+        "merged_at": "2026-09-25T13:53:02Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 99,
+        "title": "fix(company): crew artifact sync is idempotent",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/99",
+        "merged_at": "2026-09-25T13:51:33Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 98,
+        "title": "docs: refresh crew governance (RFC-001, PLAN.md)",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/98",
+        "merged_at": "2026-09-25T13:47:54Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 97,
+        "title": "fix(company): incremental standing-order adoption",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/97",
+        "merged_at": "2026-09-25T13:47:10Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 96,
+        "title": "feat(company): health-check job produces a real health report",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/96",
+        "merged_at": "2026-09-25T13:46:18Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 95,
+        "title": "feat(company): security-check job produces a real security report",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/95",
+        "merged_at": "2026-09-25T13:45:18Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 94,
+        "title": "feat(company): cron --sync one-shot loop + fix jobId targeting",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/94",
+        "merged_at": "2026-09-25T13:43:27Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 93,
+        "title": "feat(company): status includes compact crew health line",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/93",
+        "merged_at": "2026-09-25T13:40:36Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 92,
+        "title": "feat(company): adopt founder standing orders into crew memory",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/92",
+        "merged_at": "2026-09-25T13:39:22Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 91,
+        "title": "feat(company): briefing includes foundation crew status",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/91",
+        "merged_at": "2026-09-25T13:37:31Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 90,
+        "title": "feat(company): sync crew artifacts into company knowledge",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/90",
+        "merged_at": "2026-09-25T13:36:28Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 89,
+        "title": "feat(company): single-run cron dispatch for the crew schedule",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/89",
+        "merged_at": "2026-09-25T13:34:58Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 88,
+        "title": "feat(company): daily brief produces a real artifact",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/88",
+        "merged_at": "2026-09-25T13:33:01Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 87,
+        "title": "feat(company): nightly build produces a real artifact",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/87",
+        "merged_at": "2026-09-25T13:30:56Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 86,
+        "title": "feat(crews): durable scheduler checkpoint (no double-fire across restarts)",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/86",
+        "merged_at": "2026-09-25T13:28:21Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 85,
+        "title": "feat(company): repo-hygiene watchdog checks",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/85",
+        "merged_at": "2026-09-25T13:26:19Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 84,
+        "title": "feat(crews): crew health report + cli crew health",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/84",
+        "merged_at": "2026-09-25T13:21:51Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 83,
+        "title": "docs(rfc): crew operating model RFC-001",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/83",
+        "merged_at": "2026-09-25T13:19:57Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 81,
+        "title": "feat(crews): agent crew operating model (cost-routing, PRD-first builds, bounded memory, scheduling, watchdog)",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/81",
+        "merged_at": "2026-09-25T13:11:11Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/uuid-generator-pro",
+        "number": 6,
+        "title": "chore: complete final release audit for v1.0.0",
+        "url": "https://github.com/nextgenai-labs/uuid-generator-pro/pull/6",
+        "merged_at": "2026-07-27T16:15:18Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/uuid-generator-pro",
+        "number": 5,
+        "title": "docs: prepare marketplace documentation and assets",
+        "url": "https://github.com/nextgenai-labs/uuid-generator-pro/pull/5",
+        "merged_at": "2026-07-27T14:17:33Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/uuid-generator-pro",
+        "number": 4,
+        "title": "feat: add export and productivity features",
+        "url": "https://github.com/nextgenai-labs/uuid-generator-pro/pull/4",
+        "merged_at": "2026-07-27T14:00:30Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/uuid-generator-pro",
+        "number": 3,
+        "title": "feat: enhance user interface and experience",
+        "url": "https://github.com/nextgenai-labs/uuid-generator-pro/pull/3",
+        "merged_at": "2026-07-27T13:40:07Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/uuid-generator-pro",
+        "number": 2,
+        "title": "feat: implement uuid generation engine",
+        "url": "https://github.com/nextgenai-labs/uuid-generator-pro/pull/2",
+        "merged_at": "2026-07-27T13:25:47Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/uuid-generator-pro",
+        "number": 1,
+        "title": "feat: complete project foundation",
+        "url": "https://github.com/nextgenai-labs/uuid-generator-pro/pull/1",
+        "merged_at": "2026-07-27T12:48:00Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/nextjs-saas-starter",
+        "number": 8,
+        "title": "feat(devops): implement production deployment foundation",
+        "url": "https://github.com/nextgenai-labs/nextjs-saas-starter/pull/8",
+        "merged_at": "2026-07-26T15:14:09Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/nextjs-saas-starter",
+        "number": 7,
+        "title": "feat(saas): implement reusable SaaS core foundation",
+        "url": "https://github.com/nextgenai-labs/nextjs-saas-starter/pull/7",
+        "merged_at": "2026-07-26T14:58:17Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/nextjs-saas-starter",
+        "number": 6,
+        "title": "feat(dashboard): implement production dashboard foundation",
+        "url": "https://github.com/nextgenai-labs/nextjs-saas-starter/pull/6",
+        "merged_at": "2026-07-26T14:34:10Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/nextjs-saas-starter",
+        "number": 5,
+        "title": "feat(database): implement production backend foundation",
+        "url": "https://github.com/nextgenai-labs/nextjs-saas-starter/pull/5",
+        "merged_at": "2026-07-26T12:01:48Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/nextjs-saas-starter",
+        "number": 3,
+        "title": "feat(auth): implement production authentication system",
+        "url": "https://github.com/nextgenai-labs/nextjs-saas-starter/pull/3",
+        "merged_at": "2026-07-26T11:44:34Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/nextjs-saas-starter",
+        "number": 2,
+        "title": "feat: implement production-ready design system",
+        "url": "https://github.com/nextgenai-labs/nextjs-saas-starter/pull/2",
+        "merged_at": "2026-07-26T11:19:18Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/nextjs-saas-starter",
+        "number": 1,
+        "title": "feat: initialize project foundation",
+        "url": "https://github.com/nextgenai-labs/nextjs-saas-starter/pull/1",
+        "merged_at": "2026-07-26T10:59:34Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 77,
+        "title": "fix(agent-engine): restore compatibility with Agent Runtime v1 API",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/77",
+        "merged_at": "2026-07-24T11:13:04Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 76,
+        "title": "feat(agent-runtime): implement modular agent runtime architecture",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/76",
+        "merged_at": "2026-07-24T11:08:58Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 74,
+        "title": "feat(elena): add executive orchestration core",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/74",
+        "merged_at": "2026-07-24T05:14:31Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 72,
+        "title": "feat(providers): implement production-ready provider adapters",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/72",
+        "merged_at": "2026-07-23T15:09:39Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 71,
+        "title": "feat(external-services): add reusable external services foundation",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/71",
+        "merged_at": "2026-07-23T11:58:58Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 70,
+        "title": "feat(service-runtime): add reusable service runtime foundation",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/70",
+        "merged_at": "2026-07-23T11:32:04Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 69,
+        "title": "test(validation): complete repository validation and quality improvements",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/69",
+        "merged_at": "2026-07-23T11:08:58Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 68,
+        "title": "feat(plugins): implement plugin runtime foundation",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/68",
+        "merged_at": "2026-07-23T10:01:37Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 67,
+        "title": "feat(runtime): centralize configuration and add runtime engine packages",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/67",
+        "merged_at": "2026-07-22T18:36:42Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 66,
+        "title": "chore(repo): validate workspace and standardize repository metadata",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/66",
+        "merged_at": "2026-07-15T17:54:11Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 65,
+        "title": "chore(repo): validate workspace and standardize project metadata",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/65",
+        "merged_at": "2026-07-15T10:10:23Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 64,
+        "title": "chore(stabilization): finalize repository for v1.0.0 release",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/64",
+        "merged_at": "2026-07-14T10:49:06Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 63,
+        "title": "chore: prepare ForgeOS for v1.0.0 release",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/63",
+        "merged_at": "2026-07-14T09:55:21Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 62,
+        "title": "feat: add Landing marketing application",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/62",
+        "merged_at": "2026-07-14T09:11:55Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 61,
+        "title": "feat: Developer Documentation Website (v1)",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/61",
+        "merged_at": "2026-07-14T07:05:41Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 60,
+        "title": "feat: Monitoring Dashboard Application (v1)",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/60",
+        "merged_at": "2026-07-14T05:34:10Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 59,
+        "title": "feat(auth): implement complete authentication application",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/59",
+        "merged_at": "2026-07-13T17:08:58Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 58,
+        "title": "feat(admin): implement complete Admin application",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/58",
+        "merged_at": "2026-07-13T15:35:02Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 57,
+        "title": "feat(cli-runner): implement complete CLI Runner package",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/57",
+        "merged_at": "2026-07-13T14:53:59Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 56,
+        "title": "feat(data-layer): implement complete Data Layer package",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/56",
+        "merged_at": "2026-07-13T14:21:31Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 55,
+        "title": "feat(governance): implement complete Governance package",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/55",
+        "merged_at": "2026-07-13T13:38:25Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 54,
+        "title": "feat(audit): implement complete Audit package",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/54",
+        "merged_at": "2026-07-13T12:35:39Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 53,
+        "title": "feat(workspace): implement complete Workspace package",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/53",
+        "merged_at": "2026-07-13T12:02:58Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 52,
+        "title": "feat(identity): implement complete Identity package with authentication and authorization",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/52",
+        "merged_at": "2026-07-13T11:28:23Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 51,
+        "title": "feat(marketplace): complete Marketplace package with installation workflow",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/51",
+        "merged_at": "2026-07-13T09:02:42Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 50,
+        "title": "feat(dashboard): implement ForgeOS enterprise dashboard",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/50",
+        "merged_at": "2026-07-13T07:36:23Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 49,
+        "title": "feat(api-runtime): implement enterprise API runtime",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/49",
+        "merged_at": "2026-07-13T06:07:42Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 48,
+        "title": "feat(mcp-runtime): implement enterprise Model Context Protocol runtime",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/48",
+        "merged_at": "2026-07-13T05:40:17Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 47,
+        "title": "feat(llm-gateway): implement enterprise multi-provider AI gateway",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/47",
+        "merged_at": "2026-07-13T05:18:54Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 46,
+        "title": "feat(execution-engine): implement enterprise execution engine",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/46",
+        "merged_at": "2026-07-13T04:50:49Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 45,
+        "title": "feat(vector-store): implement enterprise vector storage engine",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/45",
+        "merged_at": "2026-07-13T04:36:44Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 44,
+        "title": "feat(rag-engine): implement enterprise retrieval augmented generation engine",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/44",
+        "merged_at": "2026-07-13T04:25:27Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 43,
+        "title": "feat(planner): implement enterprise planning engine",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/43",
+        "merged_at": "2026-07-13T04:08:44Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 42,
+        "title": "feat(prompt-engine): implement enterprise prompt engine",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/42",
+        "merged_at": "2026-07-13T03:40:58Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 41,
+        "title": "feat(model-runtime): implement enterprise AI model runtime",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/41",
+        "merged_at": "2026-07-13T03:24:27Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 40,
+        "title": "feat(tool-runtime): implement enterprise tool execution runtime",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/40",
+        "merged_at": "2026-07-12T18:59:00Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 39,
+        "title": "feat(reasoning): implement enterprise reasoning engine",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/39",
+        "merged_at": "2026-07-12T18:42:27Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 38,
+        "title": "feat(coordinator): implement enterprise multi-agent coordination system",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/38",
+        "merged_at": "2026-07-12T18:22:24Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 37,
+        "title": "feat(memory): implement enterprise memory management package",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/37",
+        "merged_at": "2026-07-12T17:34:58Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 36,
+        "title": "feat(knowledge): implement enterprise knowledge management package",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/36",
+        "merged_at": "2026-07-12T17:11:46Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 35,
+        "title": "feat(platform): implement telemetry and foundational platform packages",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/35",
+        "merged_at": "2026-07-12T16:40:15Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 34,
+        "title": "feat(observability): implement enterprise observability platform",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/34",
+        "merged_at": "2026-07-12T15:51:00Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 33,
+        "title": "feat(security): implement enterprise security framework",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/33",
+        "merged_at": "2026-07-12T15:35:19Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 32,
+        "title": "feat(plugins): implement enterprise plugin system",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/32",
+        "merged_at": "2026-07-12T15:20:14Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 31,
+        "title": "feat(cli): implement enterprise ForgeOS CLI",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/31",
+        "merged_at": "2026-07-12T14:53:47Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 30,
+        "title": "feat(sdk): implement enterprise ForgeOS SDK",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/30",
+        "merged_at": "2026-07-12T14:36:54Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 29,
+        "title": "feat(gateway): implement enterprise API gateway",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/29",
+        "merged_at": "2026-07-12T14:13:31Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 28,
+        "title": "feat(worker): implement enterprise worker execution framework",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/28",
+        "merged_at": "2026-07-12T13:27:04Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 27,
+        "title": "feat(api): implement enterprise API framework",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/27",
+        "merged_at": "2026-07-12T12:33:26Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 26,
+        "title": "feat(models): implement enterprise domain models package",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/26",
+        "merged_at": "2026-07-12T11:38:11Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 25,
+        "title": "feat(shared): implement enterprise shared foundation package",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/25",
+        "merged_at": "2026-07-12T11:18:26Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 24,
+        "title": "feat(cache): implement enterprise cache package",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/24",
+        "merged_at": "2026-07-12T10:57:24Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 23,
+        "title": "feat(storage): implement enterprise object storage package",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/23",
+        "merged_at": "2026-07-12T10:35:31Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 22,
+        "title": "feat(memory): implement enterprise memory management package",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/22",
+        "merged_at": "2026-07-12T10:17:51Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 21,
+        "title": "feat(auth): implement enterprise authentication and RBAC package",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/21",
+        "merged_at": "2026-07-12T09:59:22Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 20,
+        "title": "feat(scheduler): implement production-grade scheduler package",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/20",
+        "merged_at": "2026-07-12T09:30:42Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 19,
+        "title": "feat(router): implement production-grade HTTP router package",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/19",
+        "merged_at": "2026-07-12T08:49:51Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 18,
+        "title": "feat(queue): implement production-grade queue package",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/18",
+        "merged_at": "2026-07-12T02:08:33Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 17,
+        "title": "feat(events): implement production-grade event bus package",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/17",
+        "merged_at": "2026-07-12T01:42:22Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 16,
+        "title": "feat(database): implement production-grade database package",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/16",
+        "merged_at": "2026-07-11T20:32:00Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 15,
+        "title": "feat(config): implement production-grade configuration package",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/15",
+        "merged_at": "2026-07-11T19:51:56Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 14,
+        "title": "feat(logger): implement production-grade logging package",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/14",
+        "merged_at": "2026-07-11T19:29:52Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 13,
+        "title": "feat(llm): implement production-ready ForgeOS LLM package",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/13",
+        "merged_at": "2026-07-11T18:54:12Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 12,
+        "title": "feat(workflows): implement production-ready ForgeOS Workflows package",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/12",
+        "merged_at": "2026-07-11T17:57:37Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 11,
+        "title": "feat(agents): implement production-ready ForgeOS Agents package",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/11",
+        "merged_at": "2026-07-11T17:28:50Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 10,
+        "title": "feat(tools): implement ForgeOS tools package",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/10",
+        "merged_at": "2026-07-11T17:02:30Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 9,
+        "title": "refactor(memory): improve storage engine reliability and performance",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/9",
+        "merged_at": "2026-07-11T14:26:21Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 8,
+        "title": "refactor(memory): simplify architecture and remove dead code",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/8",
+        "merged_at": "2026-07-11T14:06:01Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 7,
+        "title": "feat(llm): add LLM agent core package",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/7",
+        "merged_at": "2026-07-11T13:42:51Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 6,
+        "title": "feat(memory): add enterprise hybrid memory engine with graph, profile, scheduler and intelligent memory pipeline",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/6",
+        "merged_at": "2026-07-03T06:06:50Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 5,
+        "title": "feat(memory): add PostgreSQL pgvector store",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/5",
+        "merged_at": "2026-06-28T18:39:41Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 4,
+        "title": "feat(memory): add SQLite vector store",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/4",
+        "merged_at": "2026-06-28T17:04:06Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 2,
+        "title": "feat(memory): semantic embeddings and vector search",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/2",
+        "merged_at": "2026-06-28T15:20:35Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "number": 1,
+        "title": "Feature/memory core",
+        "url": "https://github.com/nextgenai-labs/ForgeOS/pull/1",
+        "merged_at": "2026-06-28T04:48:02Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/gitai",
+        "number": 7,
+        "title": "feat: add AI-powered commit generation",
+        "url": "https://github.com/nextgenai-labs/gitai/pull/7",
+        "merged_at": "2026-06-24T07:53:31Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/gitai",
+        "number": 6,
+        "title": "feat: add conventional commit support",
+        "url": "https://github.com/nextgenai-labs/gitai/pull/6",
+        "merged_at": "2026-06-24T07:27:03Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/gitai",
+        "number": 5,
+        "title": "feat: add git diff based commit suggestions",
+        "url": "https://github.com/nextgenai-labs/gitai/pull/5",
+        "merged_at": "2026-06-24T07:16:13Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/nextgenai-platform",
+        "number": 19,
+        "title": "feat(homepage): implement product visuals and enterprise showcase experience Testing v11 this v11.1 full tested",
+        "url": "https://github.com/nextgenai-labs/nextgenai-platform/pull/19",
+        "merged_at": "2026-06-13T09:27:49Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/nextgenai-platform",
+        "number": 18,
+        "title": "feat(homepage): add V10.1 interactive grid and enterprise footer with…",
+        "url": "https://github.com/nextgenai-labs/nextgenai-platform/pull/18",
+        "merged_at": "2026-06-13T09:18:29Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/nextgenai-platform",
+        "number": 17,
+        "title": "Revert \"feat(homepage): implement product visuals and enterprise show…",
+        "url": "https://github.com/nextgenai-labs/nextgenai-platform/pull/17",
+        "merged_at": "2026-06-13T08:36:32Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/nextgenai-platform",
+        "number": 16,
+        "title": "feat(homepage): implement product visuals and enterprise showcase experience",
+        "url": "https://github.com/nextgenai-labs/nextgenai-platform/pull/16",
+        "merged_at": "2026-06-13T08:29:45Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/nextgenai-platform",
+        "number": 15,
+        "title": "feat(homepage): implement V10 visual system foundations",
+        "url": "https://github.com/nextgenai-labs/nextgenai-platform/pull/15",
+        "merged_at": "2026-06-13T08:10:22Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/nextgenai-platform",
+        "number": 14,
+        "title": "feat(homepage): implement V10 visual system foundations",
+        "url": "https://github.com/nextgenai-labs/nextgenai-platform/pull/14",
+        "merged_at": "2026-06-13T08:03:48Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/nextgenai-platform",
+        "number": 13,
+        "title": "feat(homepage): implement V9 premium glassmorphism experience",
+        "url": "https://github.com/nextgenai-labs/nextgenai-platform/pull/13",
+        "merged_at": "2026-06-13T07:27:40Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/nextgenai-platform",
+        "number": 12,
+        "title": "feat(homepage): Homepage V8 Showcase Experience & Enterprise Sections",
+        "url": "https://github.com/nextgenai-labs/nextgenai-platform/pull/12",
+        "merged_at": "2026-06-12T21:53:17Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/nextgenai-platform",
+        "number": 11,
+        "title": "feat(homepage): Premium Motion Experience",
+        "url": "https://github.com/nextgenai-labs/nextgenai-platform/pull/11",
+        "merged_at": "2026-06-12T21:37:13Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/nextgenai-platform",
+        "number": 10,
+        "title": "feat(homepage): introduce premium UI foundation and enterprise landing experience",
+        "url": "https://github.com/nextgenai-labs/nextgenai-platform/pull/10",
+        "merged_at": "2026-06-12T21:21:33Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/nextgenai-platform",
+        "number": 9,
+        "title": "feat(homepage): implement premium enterprise homepage experience",
+        "url": "https://github.com/nextgenai-labs/nextgenai-platform/pull/9",
+        "merged_at": "2026-06-12T21:10:58Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/nextgenai-platform",
+        "number": 8,
+        "title": "feat(homepage): Homepage V4 Enterprise Experience Foundation",
+        "url": "https://github.com/nextgenai-labs/nextgenai-platform/pull/8",
+        "merged_at": "2026-06-12T20:57:39Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/nextgenai-platform",
+        "number": 7,
+        "title": "feat(homepage): Homepage V3 – Stats, Bento Grid & Premium Visual Foundation",
+        "url": "https://github.com/nextgenai-labs/nextgenai-platform/pull/7",
+        "merged_at": "2026-06-12T20:52:10Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/nextgenai-platform",
+        "number": 6,
+        "title": "feat(platform): establish enterprise platform foundation",
+        "url": "https://github.com/nextgenai-labs/nextgenai-platform/pull/6",
+        "merged_at": "2026-06-12T20:19:09Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/nextgenai-platform",
+        "number": 5,
+        "title": "feat(homepage): premium enterprise homepage v2",
+        "url": "https://github.com/nextgenai-labs/nextgenai-platform/pull/5",
+        "merged_at": "2026-06-12T19:40:31Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/nextgenai-platform",
+        "number": 4,
+        "title": "feat(ui): establish premium homepage architecture",
+        "url": "https://github.com/nextgenai-labs/nextgenai-platform/pull/4",
+        "merged_at": "2026-06-12T19:06:42Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/nextgenai-platform",
+        "number": 3,
+        "title": "feat(ui): implement premium homepage foundation",
+        "url": "https://github.com/nextgenai-labs/nextgenai-platform/pull/3",
+        "merged_at": "2026-06-12T18:59:41Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/nextgenai-platform",
+        "number": 2,
+        "title": "feat(platform): establish enterprise foundation and backend architecture",
+        "url": "https://github.com/nextgenai-labs/nextgenai-platform/pull/2",
+        "merged_at": "2026-06-12T18:40:45Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      },
+      {
+        "repo": "nextgenai-labs/nextgenai-platform",
+        "number": 1,
+        "title": "feat(platform): establish enterprise platform foundation",
+        "url": "https://github.com/nextgenai-labs/nextgenai-platform/pull/1",
+        "merged_at": "2026-06-12T18:34:37Z",
+        "author": "dsk-dev-ai",
+        "via": "author"
+      }
+    ],
+    "org_repos": [
+      {
+        "repo": "nextgenai-labs/ForgeOS",
+        "count": 107
+      },
+      {
+        "repo": "nextgenai-labs/uuid-generator-pro",
+        "count": 6
+      },
+      {
+        "repo": "nextgenai-labs/nextjs-saas-starter",
+        "count": 7
+      },
+      {
+        "repo": "nextgenai-labs/gitai",
+        "count": 3
+      },
+      {
+        "repo": "nextgenai-labs/nextgenai-platform",
+        "count": 19
+      }
+    ]
+  }
+}

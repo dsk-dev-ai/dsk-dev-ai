@@ -4,14 +4,15 @@
 
 ### Software Engineer · Systems Design · AI Infrastructure · Platform Engineering
 
-Building developer tools, AI platforms, and MCP infrastructure — independently and through
-[NextGenAI Labs](https://github.com/nextgenai-labs). I ship open-source tools with real
-outcomes, and I contribute to large codebases you already use.
+Building developer tools, AI platforms, MCP infrastructure, and browser-based distributed-systems
+labs — independently and through [NextGenAI Labs](https://github.com/nextgenai-labs). I ship
+open-source tools with real outcomes, and I contribute to large codebases you already use.
 
 [![Profile visitors](https://komarev.com/ghpvc/?username=dsk-dev-ai&style=flat-square&color=6c8cff&label=Profile+visitors)](https://github.com/dsk-dev-ai)
 
 [![GitHub](https://img.shields.io/badge/GitHub-dsk--dev--ai-6c8cff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dsk-dev-ai)
 [![MCP Nexus](https://img.shields.io/badge/MCP_Nexus-site-34d399?style=for-the-badge&logo=githubpages&logoColor=white)](https://dsk-dev-ai.github.io/mcp-nexus/)
+[![DistrLab](https://img.shields.io/badge/DistrLab-live-f97316?style=for-the-badge)](https://distrlab.onrender.com)
 [![Microsoft AgentRC](https://img.shields.io/badge/AgentRC-contributor-0ea5e9?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/microsoft/agentrc/pull/369)
 [![MDN Web Docs](https://img.shields.io/badge/MDN-contributor-f9f871?style=for-the-badge)](https://github.com/mdn/content/pull/45399)
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub_Sponsors-e14deb?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/dsk-dev-ai)
@@ -116,18 +117,44 @@ _Refreshed hourly by [update-profile.yml](.github/workflows/update-profile.yml) 
 
 ## Currently building
 
-- **MCP Nexus 1.x** — routing & discovery layer for the MCP ecosystem, with a web dashboard
-  and a benchmark suite enforced as a CI gate ([repo](https://github.com/dsk-dev-ai/mcp-nexus) ·
-  [site](https://dsk-dev-ai.github.io/mcp-nexus/))
-- **textrieve** — free, private, image-to-text OCR (Web UI + REST API + CLI), live at
-  [textrieve.onrender.com](https://textrieve.onrender.com) ([repo](https://github.com/dsk-dev-ai/textrieve))
-- **NextGenAI Labs** — incubating AI SaaS, infrastructure, and tooling
-  ([org](https://github.com/nextgenai-labs))
+- **DistrLab 1.x** — break a live distributed system in your browser: cache stampedes, queue
+  backpressure, rate limiting, load-balancer strategies, partitions, replica lag. v1.1 shipped a
+  circuit breaker and smarter load balancing ([repo](https://github.com/dsk-dev-ai/distrlab) ·
+  [live](https://distrlab.onrender.com))
+- **MCP Nexus 1.x** — routing & discovery layer for the MCP ecosystem: dynamic capability
+  discovery, explainable policy-aware routing, stdio/HTTP gateways, web dashboard, and a
+  deterministic benchmark suite enforced as a CI gate
+  ([repo](https://github.com/dsk-dev-ai/mcp-nexus) · [site](https://dsk-dev-ai.github.io/mcp-nexus/))
+- **ForgeOS** at [NextGenAI Labs](https://github.com/nextgenai-labs) — company-grade agent
+  operating system: durable scheduler, crew memory, standing orders, health/security jobs.
+  100+ merged PRs in the monorepo this quarter ([org](https://github.com/nextgenai-labs))
+- **Shipped and running** — [textrieve](https://textrieve.onrender.com) (private OCR) and
+  [API Monitor SaaS](https://api-monitor-saas-frontend.vercel.app) (uptime + status pages) are
+  live services, not demos
 - **Open source** — ongoing contributions to Microsoft AgentRC and MDN Web Docs
 
 ---
 
+## Featured projects
+
+| Project | What it is |
+| --- | --- |
+| [**MCP Nexus**](https://github.com/dsk-dev-ai/mcp-nexus) · [site](https://dsk-dev-ai.github.io/mcp-nexus/) | Intelligent routing & discovery for MCP tools — heuristic + fuzzy + LLM-optional routers, policy engine, stdio/HTTP gateways, web dashboard, deterministic benchmark gate. |
+| [**DistrLab**](https://github.com/dsk-dev-ai/distrlab) · [live](https://distrlab.onrender.com) | Distributed-systems chaos lab in the browser — stampedes, backpressure, partitions and LB strategies, simulated with a Canvas UI and a Web Worker. Svelte 5. |
+| [**textrieve**](https://github.com/dsk-dev-ai/textrieve) · [live](https://textrieve.onrender.com) | Free, private image-to-text OCR. Web UI + REST API + CLI in one repo — FastAPI + RapidOCR (ONNX). No API keys, nothing stored. |
+| [**API Monitor SaaS**](https://github.com/dsk-dev-ai/api-monitor-saas) · [demo](https://api-monitor-saas-frontend.vercel.app) | Uptime monitoring SaaS — HTTP health checks, response-time analytics, email alerts, public status pages. Next.js 14 + Express + Prisma + PostgreSQL, self-hostable with Docker. |
+| [**GenomeAI**](https://github.com/dsk-dev-ai/GenomeAI) · [demo](https://genomeai.vercel.app) | Open-source genomics / bioinformatics platform — 18 public science APIs, AI analysis, DAG workflows, molecular visualization. FastAPI + Next.js. |
+| [**repoarch**](https://github.com/dsk-dev-ai/repoarch) | Turn any codebase into architecture diagrams — one command, no AI, no server, zero dependencies, agent-friendly. |
+| [**HunterOS**](https://github.com/dsk-dev-ai/hunteros) | Repository intelligence — architecture analysis, white-box security scanning, AI-assisted review (monorepo). |
+| [**algorithm-discovery-engine**](https://github.com/dsk-dev-ai/algorithm-discovery-engine) · [site](https://dsk-dev-ai.github.io/algorithm-discovery-engine/) | Java / C++ / Rust algorithm engine with a Python synthesizer that rediscovers classic algorithms from examples, plus cross-language benchmarks. |
+| [**Terminal tools**](https://github.com/dsk-dev-ai?tab=repositories) | [repoarch](https://github.com/dsk-dev-ai/repoarch) · [loggit](https://github.com/dsk-dev-ai/loggit) · [tailr](https://github.com/dsk-dev-ai/tailr) · [ctx](https://github.com/dsk-dev-ai/ctx) · [artlab](https://github.com/dsk-dev-ai/artlab) — zero-dependency utilities on PyPI. |
+| [**dsk-packages**](https://github.com/dsk-dev-ai/dsk-packages) | Zero-dependency TypeScript libraries — [`@darshankachare/logger`](https://www.npmjs.com/package/@darshankachare/logger) on npm. |
+
+---
+
 ## Verified open-source contributions
+
+**Merged upstream — code and tests that ship in projects you already use.**
 
 ### Microsoft AgentRC — merged into `main`
 
@@ -138,38 +165,42 @@ forward into #368/#369 with contributor commits preserved, and both merged into 
 
 | PR | Scope | Result |
 | --- | --- | --- |
-| [#369 · deduplicate nested AGENTS.md](https://github.com/microsoft/agentrc/pull/369) | nested instruction generation | merged, 8 commits |
-| [#368 · honor nested batch instructions](https://github.com/microsoft/agentrc/pull/368) | VS Code Batch Instructions | merged, 3 commits |
+| [#369 · deduplicate nested AGENTS.md](https://github.com/microsoft/agentrc/pull/369) | nested instruction generation | merged 2026-09-21, 8 commits |
+| [#368 · honor nested batch instructions](https://github.com/microsoft/agentrc/pull/368) | VS Code Batch Instructions | merged 2026-09-21, 3 commits |
 
-### MDN Web Docs
+### MDN Web Docs — 6 merged
 
-| PR | Scope |
+| PR | Scope | Merged |
+| --- | --- | --- |
+| [#45399 · Interface glossary](https://github.com/mdn/content/pull/45399) | glossary docs | 2026-08-31 |
+| [#45326 · nested grid fix](https://github.com/mdn/content/pull/45326) | CSS layout docs | 2026-08-27 |
+| [#44763 · WASM `min_u` fix](https://github.com/mdn/content/pull/44763) | WebAssembly docs | 2026-07-17 |
+| [#44727 · `createAttributeNS()` guidance](https://github.com/mdn/content/pull/44727) | DOM docs | 2026-07-17 |
+| [#43471 · `sendBeacon()` payload note](https://github.com/mdn/content/pull/43471) | Web API docs | 2026-03-19 |
+| [#43474 · console timestamp fix](https://github.com/mdn/content/pull/43474) | Console docs | 2026-03-18 |
+
+### Also merged
+
+| Repository | Note |
 | --- | --- |
-| [#45399 · Interface glossary](https://github.com/mdn/content/pull/45399) | docs | 
-| [#45326 · nested grid fix](https://github.com/mdn/content/pull/45326) | CSS docs |
-| [#44763 · WASM min_u fix](https://github.com/mdn/content/pull/44763) | WebAssembly docs |
-
----
-
-## Featured projects
-
-| Project | What it is |
-| --- | --- |
-| [**MCP Nexus**](https://github.com/dsk-dev-ai/mcp-nexus) · [site](https://dsk-dev-ai.github.io/mcp-nexus/) | Intelligent routing & discovery for MCP tools — heuristic + fuzzy + LLM-optional routers, policy engine, stdio/HTTP gateways, web dashboard, deterministic benchmark gate (3 routes, zero hard failures). |
-| [**textrieve**](https://github.com/dsk-dev-ai/textrieve) · [live](https://textrieve.onrender.com) | Free, private image-to-text OCR. Web UI + REST API + CLI in one repo — FastAPI + RapidOCR (ONNX). No API keys, nothing stored. |
-| [**API Monitor SaaS**](https://github.com/dsk-dev-ai/api-monitor-saas) · [demo](https://api-monitor-saas-frontend.vercel.app) | Uptime monitoring SaaS — HTTP health checks, response-time analytics, email alerts, public status pages. Next.js 14 + Express + Prisma + PostgreSQL. |
-| [**GenomeAI**](https://github.com/dsk-dev-ai/GenomeAI) · [demo](https://genomeai.vercel.app) | Open-source genomics / bioinformatics platform — 18 public science APIs, AI analysis, DAG workflows, molecular visualization. FastAPI + Next.js. |
-| [**HunterOS**](https://github.com/dsk-dev-ai/hunteros) | Repository intelligence — architecture analysis, security scanning, AI-assisted review (monorepo). |
-| [**DevOS AI**](https://github.com/dsk-dev-ai/devos-ai) | CLI assistant that explains, searches, and debugs codebases with local LLMs. |
-| [**algorithm-discovery-engine**](https://github.com/dsk-dev-ai/algorithm-discovery-engine) | Java / C++ / Rust algorithm engine + local synthesizer that rediscovers classic algorithms. |
-| [**dsk-packages**](https://github.com/dsk-dev-ai/dsk-packages) | Zero-dependency TypeScript libraries — [`@darshankachare/logger`](https://www.npmjs.com/package/@darshankachare/logger). |
-| [**Terminal tools**](https://github.com/dsk-dev-ai?tab=repositories) | [loggit](https://github.com/dsk-dev-ai/loggit) · [tailr](https://github.com/dsk-dev-ai/tailr) · [ctx](https://github.com/dsk-dev-ai/ctx) · [repoarch](https://github.com/dsk-dev-ai/repoarch) · [artlab](https://github.com/dsk-dev-ai/artlab) — zero-dependency PyPI utilities. |
+| [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | first-timer onboarding repo |
 
 ---
 
 ## Toolbox
 
-![Languages & tools](https://skillicons.dev/icons?i=ts,py,rust,nodejs,go,react,nextjs,fastapi,prisma,postgresql,redis,docker,linux,nginx,githubactions,github)
+![Languages & tools](https://skillicons.dev/icons?i=ts,py,rust,nodejs,go,react,nextjs,svelte,fastapi,prisma,postgresql,redis,docker,linux,nginx,ollama,githubactions,github)
+
+---
+
+## How this profile page works
+
+The **Live status** block above is generated, not hand-written:
+
+- [`update-profile.yml`](.github/workflows/update-profile.yml) runs hourly on GitHub Actions, renders the block, and commits it back — no third-party services.
+- [`scripts/refresh.py`](scripts/refresh.py) → [`scripts/profilegen/`](scripts/profilegen/) — a standard-library-only generator: resilient GitHub client (ETag cache, retries, rate-limit fallback), pluggable sections, markdown validation.
+- Sections, limits, featured and excluded repos live in [`scripts/profile.toml`](scripts/profile.toml) — changing the page means editing config, not code.
+- [`.github/workflows/ci.yml`](.github/workflows/ci.yml) gates every change with 77 unit tests and an offline fixture render before anything touches this README.
 
 ---
 
@@ -191,8 +222,11 @@ forward into #368/#369 with contributor commits preserved, and both merged into 
 
 | Milestone | Detail |
 | --- | --- |
-| OSS PRs merged upstream | AgentRC (2 PRs) · MDN Web Docs (3 PRs) |
-| Flagship project | [MCP Nexus 1.x](https://github.com/dsk-dev-ai/mcp-nexus) |
+| Merged pull requests | 300+ across 23 repositories (own projects + NextGenAI Labs) |
+| Upstream OSS merged | Microsoft AgentRC (2 PRs) · MDN Web Docs (6 PRs) · first-contributions (1 PR) |
+| Public footprint | 30 public repos · 31 stars · 7 followers |
+| Live products | [distrlab.onrender.com](https://distrlab.onrender.com) · [textrieve.onrender.com](https://textrieve.onrender.com) · [api-monitor-saas-frontend.vercel.app](https://api-monitor-saas-frontend.vercel.app) · [genomeai.vercel.app](https://genomeai.vercel.app) |
+| Flagship | [MCP Nexus 1.x](https://github.com/dsk-dev-ai/mcp-nexus) |
 | Interests | AI infrastructure · MCP · developer platforms · systems design |
 
 ---

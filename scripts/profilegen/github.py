@@ -13,6 +13,7 @@ import time
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any, Callable
+from http.client import IncompleteRead
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
@@ -45,6 +46,9 @@ def _default_transport(request: Request, timeout: int = 30) -> tuple[int, dict[s
         return exc.code, dict(exc.headers.items()) if exc.headers else {}, body
     except URLError as exc:
         raise ConnectionError(str(exc.reason)) from exc
+    except (IncompleteRead, TimeoutError, OSError) as exc:
+        # truncated/abrupt responses are transient — let the retry loop handle them
+        raise ConnectionError(str(exc)) from exc
 
 
 class DiskCache:

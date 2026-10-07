@@ -6,11 +6,13 @@ on:
     paths:
       - "scripts/**"
       - "tests/**"
+      - "site/**"
       - ".github/workflows/ci.yml"
   pull_request:
     paths:
       - "scripts/**"
       - "tests/**"
+      - "site/**"
       - ".github/workflows/ci.yml"
   workflow_dispatch:
 
@@ -39,3 +41,26 @@ jobs:
 
       - name: Render from fixtures and validate structure
         run: python3 scripts/refresh.py --fixtures tests/fixtures --check
+
+  site:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: site
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Typecheck
+        run: npm run typecheck
+
+      - name: Static export
+        run: npm run build

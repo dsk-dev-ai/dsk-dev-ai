@@ -48,6 +48,9 @@ class Config:
     order: tuple[str, ...]
     featured: tuple[str, ...]
     excluded: tuple[str, ...] = ()
+    upstream: tuple[str, ...] = ()
+    site_featured: tuple[str, ...] = ()
+    upstream: tuple[str, ...] = ()
     limits: Limits = field(default_factory=Limits)
     fixtures: Path | None = None
 
@@ -128,6 +131,8 @@ def load(path: Path, fixtures: Path | None = None) -> Config:
         order=order,
         featured=tuple(featured_raw.get("repos") or ()),
         excluded=tuple((raw.get("exclude") or {}).get("repos") or ()),
+        upstream=tuple((raw.get("upstream") or {}).get("repos") or ()),
+        site_featured=tuple((raw.get("site") or {}).get("repos") or ()),
         limits=limits,
         fixtures=fixtures,
     )
