@@ -1,0 +1,27 @@
+{
+  "name": "darshankachare.com",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal site for Darshan Kachare — software engineer, AI infrastructure & systems design.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "typecheck": "tsc --noEmit",
+    "data": "python3 ../scripts/export_site_data.py"
+  },
+  "dependencies": {
+    "marked": "^18.1.0",
+    "next": "16.4.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "postcss": "^8.5.0",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^5.9.0"
+  }
+}
