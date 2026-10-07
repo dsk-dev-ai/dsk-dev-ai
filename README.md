@@ -25,7 +25,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-07 14:56 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-07 19:21 UTC`
 
 ![Public_repos](https://img.shields.io/badge/Public_repos-30-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-31-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-7-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
@@ -83,23 +83,23 @@ Stars/30d     11  ▁█▁▁▁▅▁▁▁▁▁▅▁▁▁▅▁▅▁█�
 
 | Pull request | Title | Merged |
 | --- | --- | --- |
-| [dsk-dev-ai/distrlab#1](https://github.com/dsk-dev-ai/distrlab/pull/1) | feat: v1.1 — circuit breaker & smarter load balancing | `16m ago` |
-| [nextgenai-labs/ForgeOS#114](https://github.com/nextgenai-labs/ForgeOS/pull/114) | feat(company): integrate memory retrieval and context | `20h ago` |
-| [nextgenai-labs/ForgeOS#113](https://github.com/nextgenai-labs/ForgeOS/pull/113) | feat(company): persist memory and knowledge | `9d ago` |
-| [nextgenai-labs/ForgeOS#112](https://github.com/nextgenai-labs/ForgeOS/pull/112) | feat(company): define memory architecture and contracts | `9d ago` |
-| [nextgenai-labs/ForgeOS#111](https://github.com/nextgenai-labs/ForgeOS/pull/111) | fix(company): stop a permissive policy overriding a caller's failOnDegrad… | `9d ago` |
-| [nextgenai-labs/ForgeOS#110](https://github.com/nextgenai-labs/ForgeOS/pull/110) | feat(company): persist delegation and decision history | `10d ago` |
+| [dsk-dev-ai/distrlab#1](https://github.com/dsk-dev-ai/distrlab/pull/1) | feat: v1.1 — circuit breaker & smarter load balancing | `4h ago` |
+| [dsk-dev-ai/textrieve#1](https://github.com/dsk-dev-ai/textrieve/pull/1) | release: v1.2.1 — PyPI live + release notes | `12d ago` |
+| [dsk-dev-ai/mcp-nexus#16](https://github.com/dsk-dev-ai/mcp-nexus/pull/16) | docs: professional README redesign | `13d ago` |
+| [dsk-dev-ai/mcp-nexus#15](https://github.com/dsk-dev-ai/mcp-nexus/pull/15) | docs: README test count 91 → 93 | `13d ago` |
+| [dsk-dev-ai/mcp-nexus#14](https://github.com/dsk-dev-ai/mcp-nexus/pull/14) | 1.0.0: GitHub Pages UI page + documentation hub, sponsor site (#14) | `13d ago` |
+| [dsk-dev-ai/mcp-nexus#13](https://github.com/dsk-dev-ai/mcp-nexus/pull/13) | 0.9.0: Streamable-HTTP gateway, full nexus.* surface, policy editing, das… | `13d ago` |
 
 **Latest public activity**
 
-`16m ago` — released [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab) — "v1.1.0"
-`16m ago` — merged a PR in [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab) — "#1"
-`17m ago` — opened a PR in [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab) — "#1"
-`20h ago` — pushed `main` to [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab)
-`20h ago` — starred [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab)
-`20h ago` — created branch [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab) — "main"
+`4h ago` — released [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab) — "v1.1.0"
+`4h ago` — deleted branch [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab) — "feat/v1.1-resilience-depth"
+`4h ago` — pushed `main` to [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab)
+`4h ago` — merged a PR in [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab) — "#1"
+`4h ago` — opened a PR in [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab) — "#1"
+`1d ago` — starred [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab)
+`1d ago` — created branch [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab) — "main"
 `9d ago` — starred [meshery/meshery](https://github.com/meshery/meshery)
-`9d ago` — pushed `main` to [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs)
 
 **Language mix**
 
