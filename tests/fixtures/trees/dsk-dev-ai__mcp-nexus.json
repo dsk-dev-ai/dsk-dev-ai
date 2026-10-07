@@ -1,0 +1,12 @@
+{"paths": [
+  "README.md",
+  "LICENSE",
+  ".github/workflows/ci.yml",
+  ".github/workflows/release.yml",
+  "package.json",
+  "src/router.ts",
+  "src/policy.ts",
+  "benchmarks/route.bench.ts",
+  "tests/router.spec.ts",
+  "tests/policy.spec.ts"
+]}

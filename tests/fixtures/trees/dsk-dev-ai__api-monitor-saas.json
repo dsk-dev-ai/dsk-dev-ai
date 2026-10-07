@@ -1,0 +1,8 @@
+{"paths": [
+  "README.md",
+  "apps/web/app/page.tsx",
+  "server/src/index.ts",
+  "server/src/checker.ts",
+  ".github/workflows/deploy.yml",
+  "server/tests/checker.spec.ts"
+]}

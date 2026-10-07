@@ -1,0 +1,8 @@
+{"paths": [
+  "README.md",
+  "LICENSE",
+  ".github/workflows/ci.yml",
+  "app/main.py",
+  "app/ocr.py",
+  "tests/test_api.py"
+]}

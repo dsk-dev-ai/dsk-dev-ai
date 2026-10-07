@@ -1,0 +1,5 @@
+# generated / local artifacts
+.cache/
+__pycache__/
+*.py[cod]
+.pytest_cache/

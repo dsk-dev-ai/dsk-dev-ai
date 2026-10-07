@@ -1,0 +1,1 @@
+[{"commit": {"message": "feat: add deterministic benchmark gate to CI\n\nBenchmarks now run as a required check on every PR."}}]

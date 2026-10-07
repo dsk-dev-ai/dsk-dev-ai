@@ -1,0 +1,41 @@
+name: ci
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "tests/**"
+      - ".github/workflows/ci.yml"
+  pull_request:
+    paths:
+      - "scripts/**"
+      - "tests/**"
+      - ".github/workflows/ci.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Compile all sources
+        run: python3 -m compileall -q scripts
+
+      - name: Run test suite
+        run: python3 -m unittest discover -s tests -t . -v
+
+      - name: Render from fixtures and validate structure
+        run: python3 scripts/refresh.py --fixtures tests/fixtures --check

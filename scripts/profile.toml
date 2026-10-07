@@ -1,0 +1,57 @@
+# Configuration for scripts/refresh.py (profilegen).
+# Editing this file changes what the live README block renders — no code changes needed.
+
+user = "dsk-dev-ai"
+start_marker = "<!-- LIVE:START -->"
+end_marker = "<!-- LIVE:END -->"
+history_path = "data/history.json"
+
+[cache]
+enabled = true
+dir = ".cache/profile"
+max_age_hours = 2   # beyond this a URL is revalidated (ETag 304s are free)
+
+[limits]
+building = 5          # repos in the "recently pushed" table
+commit_probe = 5      # how many of those get a latest-commit lookup
+starred = 4           # "most starred" table rows
+pinned = 6            # pinned / featured repo cards
+health = 6            # repo health matrix rows
+contributions = 6     # merged upstream PR rows
+activity = 8          # public activity feed items
+languages = 5         # language mix bars
+history_days = 180    # snapshot retention for trend charts
+
+[sections]
+# Render order of the live block. Remove an entry to drop that section.
+order = [
+  "status",
+  "building",
+  "pinned",
+  "starred",
+  "health",
+  "growth",
+  "contributions",
+  "activity",
+  "languages",
+  "footer",
+]
+
+[featured]
+# Hand-picked repos shown by the "pinned" section, in this exact order.
+# GitHub pinned items and top-starred repos fill any remaining rows.
+repos = [
+  "mcp-nexus",
+  "textrieve",
+  "repoarch",
+  "api-monitor-saas",
+  "ai-model-router",
+  "dsk-packages",
+]
+
+[exclude]
+# Repos hidden from every detail section (matched by name or owner/name).
+# Totals in the headline badges still count them.
+repos = [
+  "dsk-dev-ai/dsk-dev-ai",   # this profile repo — its latest commit is always the bot's
+]

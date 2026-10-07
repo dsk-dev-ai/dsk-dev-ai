@@ -1,0 +1,6 @@
+{"paths": [
+  "README.md",
+  "LICENSE",
+  "packages/logger/src/index.ts",
+  "packages/logger/package.json"
+]}

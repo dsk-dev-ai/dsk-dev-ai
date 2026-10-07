@@ -1,0 +1,51 @@
+{
+  "total_count": 5,
+  "incomplete_results": false,
+  "items": [
+    {
+      "number": 369,
+      "title": "Deduplicate nested AGENTS.md content",
+      "state": "closed",
+      "html_url": "https://github.com/microsoft/agentrc/pull/369",
+      "repository_url": "https://api.github.com/repos/microsoft/agentrc",
+      "closed_at": "2026-10-06T12:02:00Z",
+      "pull_request": {"merged_at": "2026-10-06T12:02:00Z"}
+    },
+    {
+      "number": 368,
+      "title": "Honor nested batch instructions with strategy nested",
+      "state": "closed",
+      "html_url": "https://github.com/microsoft/agentrc/pull/368",
+      "repository_url": "https://api.github.com/repos/microsoft/agentrc",
+      "closed_at": "2026-10-03T09:30:00Z",
+      "pull_request": {"merged_at": "2026-10-03T09:30:00Z"}
+    },
+    {
+      "number": 45399,
+      "title": "Interface glossary: clarify entry/discrete/continuous",
+      "state": "closed",
+      "html_url": "https://github.com/mdn/content/pull/45399",
+      "repository_url": "https://api.github.com/repos/mdn/content",
+      "closed_at": "2026-09-24T17:12:00Z",
+      "pull_request": {"merged_at": "2026-09-24T17:12:00Z"}
+    },
+    {
+      "number": 45326,
+      "title": "Fix nested grid example overflow on small screens",
+      "state": "closed",
+      "html_url": "https://github.com/mdn/content/pull/45326",
+      "repository_url": "https://api.github.com/repos/mdn/content",
+      "closed_at": "2026-09-08T10:44:00Z",
+      "pull_request": {"merged_at": "2026-09-08T10:44:00Z"}
+    },
+    {
+      "number": 44763,
+      "title": "Document wasm min_u type mismatch behavior",
+      "state": "closed",
+      "html_url": "https://github.com/mdn/content/pull/44763",
+      "repository_url": "https://api.github.com/repos/mdn/content",
+      "closed_at": "2026-08-20T13:00:00Z",
+      "pull_request": {"merged_at": "2026-08-20T13:00:00Z"}
+    }
+  ]
+}

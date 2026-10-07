@@ -1,0 +1,14 @@
+{
+  "data": {
+    "user": {
+      "pinnedItems": {
+        "nodes": [
+          {"nameWithOwner": "dsk-dev-ai/mcp-nexus"},
+          {"nameWithOwner": "dsk-dev-ai/repoarch"},
+          {"nameWithOwner": "dsk-dev-ai/textrieve"},
+          {"nameWithOwner": "dsk-dev-ai/api-monitor-saas"}
+        ]
+      }
+    }
+  }
+}

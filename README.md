@@ -24,17 +24,30 @@ outcomes, and I contribute to large codebases you already use.
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-07 13:16 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-07 14:56 UTC`
 
-![Repos](https://img.shields.io/badge/Public_repos-30-34d399?style=for-the-badge) ![Stars](https://img.shields.io/badge/Total_stars-31-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-7-0ea5e9?style=for-the-badge)
+![Public_repos](https://img.shields.io/badge/Public_repos-30-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-31-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-7-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
-| | Repo | Stars | Language | Latest |
+**Recently pushed**
+
+|  | Repo | Stars | Language | Latest commit |
 | --- | --- | --- | --- | --- |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai) | 1 | `Python` | chore: refresh live profile data |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [distrlab](https://github.com/dsk-dev-ai/distrlab) | 1 | `TypeScript` | chore: polish README, add Apache-2.0 LICENSE, drop playwrig… |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [distrlab](https://github.com/dsk-dev-ai/distrlab) | 1 | `TypeScript` | Merge pull request #1 from dsk-dev-ai/feat/v1.1-resilience-… |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [dsk-packages](https://github.com/dsk-dev-ai/dsk-packages) | 1 | `TypeScript` | fix: security overrides + dependency updates |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [meshery-designs](https://github.com/dsk-dev-ai/meshery-designs) | 1 | `Python` | fix: add catalog-valid resource configuration |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas) | 2 | `TypeScript` | Answer every failed credential with the same 401 |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [textrieve](https://github.com/dsk-dev-ai/textrieve) | 2 | `Python` | docs: add CONTRIBUTING guide |
+
+**Highlights** · curated
+
+|  | Repo | Stars | Language | What it is |
+| --- | --- | --- | --- | --- |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [mcp-nexus](https://github.com/dsk-dev-ai/mcp-nexus) | 1 | `TypeScript` | The intelligent routing & discovery layer for MCP tools. One umbrella endpoint in front of hund… |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [textrieve](https://github.com/dsk-dev-ai/textrieve) | 2 | `Python` | Free, private image-to-text (OCR). Web UI, REST API & CLI in one repo — FastAPI + RapidOCR (ONN… |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [repoarch](https://github.com/dsk-dev-ai/repoarch) | 3 | `Python` | Turn any codebase into beautiful architecture diagrams — one command, no AI, no server, runs on… |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas) | 2 | `TypeScript` | Open-source API & website uptime monitoring SaaS — periodic HTTP health checks, uptime/response… |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [ai-model-router](https://github.com/dsk-dev-ai/ai-model-router) | 2 | `Python` | OpenAI-compatible LLM gateway: route to the best/cheapest/fastest model, automatic fallback on… |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [dsk-packages](https://github.com/dsk-dev-ai/dsk-packages) | 1 | `TypeScript` | A collection of high-quality TypeScript packages, developer utilities, and open-source tools. |
 
 **Most starred**
 
@@ -45,26 +58,57 @@ outcomes, and I contribute to large codebases you already use.
 | [api-monitor-saas](https://api-monitor-saas-frontend.vercel.app) | 2 | Open-source API & website uptime monitoring SaaS — periodic HTTP health checks, uptime/re… |
 | [textrieve](https://textrieve.onrender.com) | 2 | Free, private image-to-text (OCR). Web UI, REST API & CLI in one repo — FastAPI + RapidOC… |
 
+**Repository health**
+
+| Repo | Score | Signals | Missing |
+| --- | --- | --- | --- |
+| [repoarch](https://github.com/dsk-dev-ai/repoarch) | 100% | 7/7 | all green |
+| [api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas) | 86% | 6/7 | tests |
+| [textrieve](https://github.com/dsk-dev-ai/textrieve) | 100% | 7/7 | all green |
+| [GenomeAI](https://github.com/dsk-dev-ai/GenomeAI) | 100% | 7/7 | all green |
+| [ai-model-router](https://github.com/dsk-dev-ai/ai-model-router) | 100% | 7/7 | all green |
+| [ai-blog-writer](https://github.com/dsk-dev-ai/ai-blog-writer) | 86% | 6/7 | release |
+
+**Growth**
+
+```
+Stars         31
+Followers      7
+Repos         30
+Stars/30d     11  ▁█▁▁▁▅▁▁▁▁▁▅▁▁▁▅▁▅▁██▁▁▁▁▁▁▁▅▁  · best day 2 · 11 new stars
+```
+
+**Merged pull requests**
+
+| Pull request | Title | Merged |
+| --- | --- | --- |
+| [dsk-dev-ai/distrlab#1](https://github.com/dsk-dev-ai/distrlab/pull/1) | feat: v1.1 — circuit breaker & smarter load balancing | `16m ago` |
+| [nextgenai-labs/ForgeOS#114](https://github.com/nextgenai-labs/ForgeOS/pull/114) | feat(company): integrate memory retrieval and context | `20h ago` |
+| [nextgenai-labs/ForgeOS#113](https://github.com/nextgenai-labs/ForgeOS/pull/113) | feat(company): persist memory and knowledge | `9d ago` |
+| [nextgenai-labs/ForgeOS#112](https://github.com/nextgenai-labs/ForgeOS/pull/112) | feat(company): define memory architecture and contracts | `9d ago` |
+| [nextgenai-labs/ForgeOS#111](https://github.com/nextgenai-labs/ForgeOS/pull/111) | fix(company): stop a permissive policy overriding a caller's failOnDegrad… | `9d ago` |
+| [nextgenai-labs/ForgeOS#110](https://github.com/nextgenai-labs/ForgeOS/pull/110) | feat(company): persist delegation and decision history | `10d ago` |
+
 **Latest public activity**
 
-- `19h ago` — pushed branch `main` to [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab)
-- `19h ago` — starred [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab)
-- `19h ago` — released [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab)
-- `19h ago` — created branch [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab)
-- `9d ago` — starred [meshery/meshery](https://github.com/meshery/meshery)
-- `9d ago` — pushed branch `main` to [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs)
-- `9d ago` — pushed branch `main` to [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs)
-- `9d ago` — pushed branch `main` to [dsk-dev-ai/api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas)
+`16m ago` — released [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab) — "v1.1.0"
+`16m ago` — merged a PR in [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab) — "#1"
+`17m ago` — opened a PR in [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab) — "#1"
+`20h ago` — pushed `main` to [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab)
+`20h ago` — starred [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab)
+`20h ago` — created branch [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab) — "main"
+`9d ago` — starred [meshery/meshery](https://github.com/meshery/meshery)
+`9d ago` — pushed `main` to [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs)
 
 **Language mix**
 
 ```
-Python             70%  █████████████████
-TypeScript         26%  ██████
+Python             69%  █████████████████
+TypeScript         27%  ██████
 Rust                4%  █
 ```
 
-_Refreshed every hour by [update-profile.yml](.github/workflows/update-profile.yml) — GitHub-native · no third party · covers public activity only._
+_Refreshed hourly by [update-profile.yml](.github/workflows/update-profile.yml) — generated by [`scripts/refresh.py`](scripts/refresh.py), GitHub-native, no third party services. Public data only._
 
 <!-- LIVE:END -->
 

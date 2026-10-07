@@ -1,0 +1,10 @@
+{"paths": [
+  "README.md",
+  "LICENSE",
+  ".github/workflows/test.yml",
+  "pyproject.toml",
+  "repoarch/cli.py",
+  "repoarch/parser.py",
+  "tests/test_parser.py",
+  "tests/test_render.py"
+]}
