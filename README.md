@@ -25,7 +25,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-11 14:00 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-11 18:51 UTC`
 
 ![Public_repos](https://img.shields.io/badge/Public_repos-30-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-31-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-7-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
@@ -83,23 +83,23 @@ Stars/30d      9  ▁▅▁▁▁▁▁▅▁▁▁▅▁▅▁██▁▁▁�
 
 | Pull request | Title | Merged |
 | --- | --- | --- |
-| [dsk-dev-ai/distrlab#1](https://github.com/dsk-dev-ai/distrlab/pull/1) | feat: v1.1 — circuit breaker & smarter load balancing | `3d ago` |
+| [dsk-dev-ai/distrlab#1](https://github.com/dsk-dev-ai/distrlab/pull/1) | feat: v1.1 — circuit breaker & smarter load balancing | `4d ago` |
 | [dsk-dev-ai/textrieve#1](https://github.com/dsk-dev-ai/textrieve/pull/1) | release: v1.2.1 — PyPI live + release notes | `16d ago` |
-| [dsk-dev-ai/mcp-nexus#16](https://github.com/dsk-dev-ai/mcp-nexus/pull/16) | docs: professional README redesign | `16d ago` |
-| [dsk-dev-ai/mcp-nexus#15](https://github.com/dsk-dev-ai/mcp-nexus/pull/15) | docs: README test count 91 → 93 | `16d ago` |
-| [dsk-dev-ai/mcp-nexus#14](https://github.com/dsk-dev-ai/mcp-nexus/pull/14) | 1.0.0: GitHub Pages UI page + documentation hub, sponsor site (#14) | `16d ago` |
-| [dsk-dev-ai/mcp-nexus#13](https://github.com/dsk-dev-ai/mcp-nexus/pull/13) | 0.9.0: Streamable-HTTP gateway, full nexus.* surface, policy editing, das… | `16d ago` |
+| [dsk-dev-ai/mcp-nexus#16](https://github.com/dsk-dev-ai/mcp-nexus/pull/16) | docs: professional README redesign | `17d ago` |
+| [dsk-dev-ai/mcp-nexus#15](https://github.com/dsk-dev-ai/mcp-nexus/pull/15) | docs: README test count 91 → 93 | `17d ago` |
+| [dsk-dev-ai/mcp-nexus#14](https://github.com/dsk-dev-ai/mcp-nexus/pull/14) | 1.0.0: GitHub Pages UI page + documentation hub, sponsor site (#14) | `17d ago` |
+| [dsk-dev-ai/mcp-nexus#13](https://github.com/dsk-dev-ai/mcp-nexus/pull/13) | 0.9.0: Streamable-HTTP gateway, full nexus.* surface, policy editing, das… | `17d ago` |
 
 **Latest public activity**
 
-`3d ago` — pushed `main` to [dsk-dev-ai/dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai)
-`3d ago` — released [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab) — "v1.1.0"
-`3d ago` — deleted branch [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab) — "feat/v1.1-resilience-depth"
-`3d ago` — pushed `main` to [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab)
-`3d ago` — merged a PR in [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab) — "#1"
-`3d ago` — opened a PR in [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab) — "#1"
-`3d ago` — created branch [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab) — "feat/v1.1-resilience-depth"
-`4d ago` — starred [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab)
+`4d ago` — pushed `main` to [dsk-dev-ai/dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai)
+`4d ago` — released [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab) — "v1.1.0"
+`4d ago` — deleted branch [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab) — "feat/v1.1-resilience-depth"
+`4d ago` — pushed `main` to [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab)
+`4d ago` — merged a PR in [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab) — "#1"
+`4d ago` — opened a PR in [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab) — "#1"
+`4d ago` — created branch [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab) — "feat/v1.1-resilience-depth"
+`5d ago` — starred [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab)
 
 **Language mix**
 
