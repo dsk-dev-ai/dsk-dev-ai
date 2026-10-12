@@ -25,19 +25,19 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-12 02:21 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-12 10:41 UTC`
 
-![Public_repos](https://img.shields.io/badge/Public_repos-30-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-31-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-7-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
+![Public_repos](https://img.shields.io/badge/Public_repos-31-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-31-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-7-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
 **Recently pushed**
 
 |  | Repo | Stars | Language | Latest commit |
 | --- | --- | --- | --- | --- |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [distrlab](https://github.com/dsk-dev-ai/distrlab) | 1 | `TypeScript` | Merge pull request #1 from dsk-dev-ai/feat/v1.1-resilience-… |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [dsk-packages](https://github.com/dsk-dev-ai/dsk-packages) | 1 | `TypeScript` | fix: security overrides + dependency updates |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%238b949e' title='Dart'> | [aegis](https://github.com/dsk-dev-ai/aegis) | 0 | `Dart` | docs: add development workflow and tracked requirements; up… |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [distrlab](https://github.com/dsk-dev-ai/distrlab) | 1 | `TypeScript` | Merge pull request #1 from dsk-dev-ai/feat/v1.1-resilience-… |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [meshery-designs](https://github.com/dsk-dev-ai/meshery-designs) | 1 | `Python` | fix: add catalog-valid resource configuration |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas) | 2 | `TypeScript` | Answer every failed credential with the same 401 |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [textrieve](https://github.com/dsk-dev-ai/textrieve) | 2 | `Python` | docs: add CONTRIBUTING guide |
 
 **Highlights** · curated
 
@@ -75,7 +75,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 ```
 Stars         31  ······
 Followers      7  ······
-Repos         30  ······
+Repos         31  ▁▁▁▁▁█
 Stars/30d      9  ▅▁▁▁▁▁▅▁▁▁▅▁▅▁██▁▁▁▁▁▁▁▅▁▁▁▁▁▁  · best day 2 · 9 new stars
 ```
 
@@ -83,29 +83,30 @@ Stars/30d      9  ▅▁▁▁▁▁▅▁▁▁▅▁▅▁██▁▁▁▁�
 
 | Pull request | Title | Merged |
 | --- | --- | --- |
+| [dsk-dev-ai/aegis#2](https://github.com/dsk-dev-ai/aegis/pull/2) | docs: development workflow, requirements, and roadmap update | `2h ago` |
+| [dsk-dev-ai/aegis#1](https://github.com/dsk-dev-ai/aegis/pull/1) | feat: Flutter E2EE messenger UI, Dart crypto, and relay routing | `2h ago` |
 | [dsk-dev-ai/distrlab#1](https://github.com/dsk-dev-ai/distrlab/pull/1) | feat: v1.1 — circuit breaker & smarter load balancing | `4d ago` |
-| [dsk-dev-ai/textrieve#1](https://github.com/dsk-dev-ai/textrieve/pull/1) | release: v1.2.1 — PyPI live + release notes | `16d ago` |
+| [dsk-dev-ai/textrieve#1](https://github.com/dsk-dev-ai/textrieve/pull/1) | release: v1.2.1 — PyPI live + release notes | `17d ago` |
 | [dsk-dev-ai/mcp-nexus#16](https://github.com/dsk-dev-ai/mcp-nexus/pull/16) | docs: professional README redesign | `17d ago` |
 | [dsk-dev-ai/mcp-nexus#15](https://github.com/dsk-dev-ai/mcp-nexus/pull/15) | docs: README test count 91 → 93 | `17d ago` |
-| [dsk-dev-ai/mcp-nexus#14](https://github.com/dsk-dev-ai/mcp-nexus/pull/14) | 1.0.0: GitHub Pages UI page + documentation hub, sponsor site (#14) | `17d ago` |
-| [dsk-dev-ai/mcp-nexus#13](https://github.com/dsk-dev-ai/mcp-nexus/pull/13) | 0.9.0: Streamable-HTTP gateway, full nexus.* surface, policy editing, das… | `17d ago` |
 
 **Latest public activity**
 
+`2h ago` — pushed `main` to [dsk-dev-ai/aegis](https://github.com/dsk-dev-ai/aegis)
+`2h ago` — merged a PR in [dsk-dev-ai/aegis](https://github.com/dsk-dev-ai/aegis) — "#2"
+`2h ago` — opened a PR in [dsk-dev-ai/aegis](https://github.com/dsk-dev-ai/aegis) — "#2"
+`2h ago` — created branch [dsk-dev-ai/aegis](https://github.com/dsk-dev-ai/aegis) — "feat/flutter-app"
 `4d ago` — pushed `main` to [dsk-dev-ai/dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai)
 `4d ago` — released [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab) — "v1.1.0"
 `4d ago` — deleted branch [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab) — "feat/v1.1-resilience-depth"
 `4d ago` — pushed `main` to [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab)
-`4d ago` — merged a PR in [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab) — "#1"
-`4d ago` — opened a PR in [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab) — "#1"
-`4d ago` — created branch [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab) — "feat/v1.1-resilience-depth"
-`5d ago` — starred [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab)
 
 **Language mix**
 
 ```
-Python             69%  █████████████████
-TypeScript         27%  ██████
+Python             67%  ████████████████
+TypeScript         26%  ██████
+Dart                4%  █
 Rust                4%  █
 ```
 
