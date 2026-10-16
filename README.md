@@ -25,11 +25,11 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-16 14:48 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-16 18:47 UTC`
 
-![Public_repos](https://img.shields.io/badge/Public_repos-31-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-31-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-8-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
+![Public_repos](https://img.shields.io/badge/Public_repos-31-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-32-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-8-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
-![Followers_7d](https://img.shields.io/badge/Followers_7d-%2B1-0ea5e9?style=for-the-badge)
+![Stars_7d](https://img.shields.io/badge/Stars_7d-%2B1-6c8cff?style=for-the-badge) ![Followers_7d](https://img.shields.io/badge/Followers_7d-%2B1-0ea5e9?style=for-the-badge)
 
 **Recently pushed**
 
@@ -47,7 +47,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 | --- | --- | --- | --- | --- |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [mcp-nexus](https://github.com/dsk-dev-ai/mcp-nexus) | 1 | `TypeScript` | The intelligent routing & discovery layer for MCP tools. One umbrella endpoint in front of hund… |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [textrieve](https://github.com/dsk-dev-ai/textrieve) | 2 | `Python` | Free, private image-to-text (OCR). Web UI, REST API & CLI in one repo — FastAPI + RapidOCR (ONN… |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [repoarch](https://github.com/dsk-dev-ai/repoarch) | 3 | `Python` | Turn any codebase into beautiful architecture diagrams — one command, no AI, no server, runs on… |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [repoarch](https://github.com/dsk-dev-ai/repoarch) | 4 | `Python` | Turn any codebase into beautiful architecture diagrams — one command, no AI, no server, runs on… |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas) | 2 | `TypeScript` | Open-source API & website uptime monitoring SaaS — periodic HTTP health checks, uptime/response… |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [ai-model-router](https://github.com/dsk-dev-ai/ai-model-router) | 2 | `Python` | OpenAI-compatible LLM gateway: route to the best/cheapest/fastest model, automatic fallback on… |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [dsk-packages](https://github.com/dsk-dev-ai/dsk-packages) | 1 | `TypeScript` | A collection of high-quality TypeScript packages, developer utilities, and open-source tools. |
@@ -56,7 +56,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 | Repo | Stars | Description |
 | --- | --- | --- |
-| [repoarch](https://github.com/dsk-dev-ai/repoarch) | 3 | Turn any codebase into beautiful architecture diagrams — one command, no AI, no server, r… |
+| [repoarch](https://github.com/dsk-dev-ai/repoarch) | 4 | Turn any codebase into beautiful architecture diagrams — one command, no AI, no server, r… |
 | [ai-model-router](https://github.com/dsk-dev-ai/ai-model-router) | 2 | OpenAI-compatible LLM gateway: route to the best/cheapest/fastest model, automatic fallba… |
 | [api-monitor-saas](https://api-monitor-saas-frontend.vercel.app) | 2 | Open-source API & website uptime monitoring SaaS — periodic HTTP health checks, uptime/re… |
 | [textrieve](https://textrieve.onrender.com) | 2 | Free, private image-to-text (OCR). Web UI, REST API & CLI in one repo — FastAPI + RapidOC… |
@@ -75,7 +75,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 **Growth**
 
 ```
-Stars         31  ··········  · +0 / 7d
+Stars         32  ▁▁▁▁▁▁▁▁▁█  · +1 / 7d
 Followers      8  ▁▁▁▁▁▁▁███  · +1 / 7d
 Repos         31  ▁▁▁▁▁█████  · +1 / 7d
 Stars/30d      8  ▁▁▅▁▁▁▅▁▅▁██▁▁▁▁▁▁▁▅▁▁▁▁▁▁▁▁▁▁  · best day 2 · 8 new stars
@@ -89,8 +89,8 @@ Stars/30d      8  ▁▁▅▁▁▁▅▁▅▁██▁▁▁▁▁▁▁▅�
 | [dsk-dev-ai/aegis#1](https://github.com/dsk-dev-ai/aegis/pull/1) | feat: Flutter E2EE messenger UI, Dart crypto, and relay routing | `4d ago` |
 | [dsk-dev-ai/distrlab#1](https://github.com/dsk-dev-ai/distrlab/pull/1) | feat: v1.1 — circuit breaker & smarter load balancing | `9d ago` |
 | [dsk-dev-ai/textrieve#1](https://github.com/dsk-dev-ai/textrieve/pull/1) | release: v1.2.1 — PyPI live + release notes | `21d ago` |
-| [dsk-dev-ai/mcp-nexus#16](https://github.com/dsk-dev-ai/mcp-nexus/pull/16) | docs: professional README redesign | `21d ago` |
-| [dsk-dev-ai/mcp-nexus#15](https://github.com/dsk-dev-ai/mcp-nexus/pull/15) | docs: README test count 91 → 93 | `21d ago` |
+| [dsk-dev-ai/mcp-nexus#16](https://github.com/dsk-dev-ai/mcp-nexus/pull/16) | docs: professional README redesign | `22d ago` |
+| [dsk-dev-ai/mcp-nexus#15](https://github.com/dsk-dev-ai/mcp-nexus/pull/15) | docs: README test count 91 → 93 | `22d ago` |
 
 **Latest public activity**
 
@@ -99,7 +99,7 @@ Stars/30d      8  ▁▁▅▁▁▁▅▁▅▁██▁▁▁▁▁▁▁▅�
 `4d ago` — merged a PR in [dsk-dev-ai/aegis](https://github.com/dsk-dev-ai/aegis) — "#2"
 `4d ago` — opened a PR in [dsk-dev-ai/aegis](https://github.com/dsk-dev-ai/aegis) — "#2"
 `4d ago` — created branch [dsk-dev-ai/aegis](https://github.com/dsk-dev-ai/aegis) — "docs/workflow-and-requirements"
-`8d ago` — pushed `main` to [dsk-dev-ai/dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai)
+`9d ago` — pushed `main` to [dsk-dev-ai/dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai)
 `9d ago` — released [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab) — "v1.1.0"
 `9d ago` — deleted branch [dsk-dev-ai/distrlab](https://github.com/dsk-dev-ai/distrlab) — "feat/v1.1-resilience-depth"
 
