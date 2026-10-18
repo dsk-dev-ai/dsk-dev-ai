@@ -25,7 +25,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-18 13:58 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-18 17:19 UTC`
 
 ![Public_repos](https://img.shields.io/badge/Public_repos-31-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-32-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-8-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
@@ -35,7 +35,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 |  | Repo | Stars | Language | Latest commit |
 | --- | --- | --- | --- | --- |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [meshery-designs](https://github.com/dsk-dev-ai/meshery-designs) | 1 | `Python` | Merge release/v1.0.0 into main (OpenTelemetry Collector -&g… |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [meshery-designs](https://github.com/dsk-dev-ai/meshery-designs) | 1 | `Python` | Merge release/v1.0.0 into main (deployable placeholder conf… |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [dsk-packages](https://github.com/dsk-dev-ai/dsk-packages) | 1 | `TypeScript` | fix: security overrides + dependency updates |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%238b949e' title='Dart'> | [aegis](https://github.com/dsk-dev-ai/aegis) | 0 | `Dart` | docs: add development workflow and tracked requirements; up… |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [distrlab](https://github.com/dsk-dev-ai/distrlab) | 1 | `TypeScript` | Merge pull request #1 from dsk-dev-ai/feat/v1.1-resilience-… |
@@ -87,21 +87,21 @@ Stars/30d      8  ▅▁▁▁▅▁▅▁██▁▁▁▁▁▁▁▅▁▁�
 | --- | --- | --- |
 | [dsk-dev-ai/aegis#2](https://github.com/dsk-dev-ai/aegis/pull/2) | docs: development workflow, requirements, and roadmap update | `6d ago` |
 | [dsk-dev-ai/aegis#1](https://github.com/dsk-dev-ai/aegis/pull/1) | feat: Flutter E2EE messenger UI, Dart crypto, and relay routing | `6d ago` |
-| [dsk-dev-ai/distrlab#1](https://github.com/dsk-dev-ai/distrlab/pull/1) | feat: v1.1 — circuit breaker & smarter load balancing | `10d ago` |
+| [dsk-dev-ai/distrlab#1](https://github.com/dsk-dev-ai/distrlab/pull/1) | feat: v1.1 — circuit breaker & smarter load balancing | `11d ago` |
 | [dsk-dev-ai/textrieve#1](https://github.com/dsk-dev-ai/textrieve/pull/1) | release: v1.2.1 — PyPI live + release notes | `23d ago` |
 | [dsk-dev-ai/mcp-nexus#16](https://github.com/dsk-dev-ai/mcp-nexus/pull/16) | docs: professional README redesign | `23d ago` |
 | [dsk-dev-ai/mcp-nexus#15](https://github.com/dsk-dev-ai/mcp-nexus/pull/15) | docs: README test count 91 → 93 | `23d ago` |
 
 **Latest public activity**
 
-`21h ago` — pushed `release/v1.0.0` to [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs)
-`21h ago` — created branch [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs) — "fix/otel-collector-as-deployment"
-`22h ago` — pushed `main` to [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs)
+`4m ago` — released [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs) — "v1.0.0"
+`1d ago` — pushed `release/v1.0.0` to [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs)
+`1d ago` — created branch [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs) — "fix/otel-collector-as-deployment"
+`1d ago` — pushed `main` to [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs)
 `6d ago` — deleted branch [dsk-dev-ai/aegis](https://github.com/dsk-dev-ai/aegis) — "docs/workflow-and-requirements"
 `6d ago` — pushed `main` to [dsk-dev-ai/aegis](https://github.com/dsk-dev-ai/aegis)
 `6d ago` — merged a PR in [dsk-dev-ai/aegis](https://github.com/dsk-dev-ai/aegis) — "#2"
 `6d ago` — opened a PR in [dsk-dev-ai/aegis](https://github.com/dsk-dev-ai/aegis) — "#2"
-`6d ago` — created branch [dsk-dev-ai/aegis](https://github.com/dsk-dev-ai/aegis) — "docs/workflow-and-requirements"
 
 **Language mix**
 
