@@ -25,9 +25,9 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-19 01:13 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-19 06:11 UTC`
 
-![Public_repos](https://img.shields.io/badge/Public_repos-31-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-32-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-8-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
+![Public_repos](https://img.shields.io/badge/Public_repos-32-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-32-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-8-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
 ![Stars_7d](https://img.shields.io/badge/Stars_7d-%2B1-6c8cff?style=for-the-badge) ![Followers_7d](https://img.shields.io/badge/Followers_7d-%2B1-0ea5e9?style=for-the-badge)
 
@@ -35,7 +35,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 |  | Repo | Stars | Language | Latest commit |
 | --- | --- | --- | --- | --- |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [meshery-designs](https://github.com/dsk-dev-ai/meshery-designs) | 1 | `Python` | Merge feat/real-workload-images into main |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [meshery-designs](https://github.com/dsk-dev-ai/meshery-designs) | 1 | `Python` | docs: add Meshery Community section with key links |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [dsk-packages](https://github.com/dsk-dev-ai/dsk-packages) | 1 | `TypeScript` | fix: security overrides + dependency updates |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%238b949e' title='Dart'> | [aegis](https://github.com/dsk-dev-ai/aegis) | 0 | `Dart` | docs: add development workflow and tracked requirements; up… |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [distrlab](https://github.com/dsk-dev-ai/distrlab) | 1 | `TypeScript` | Merge pull request #1 from dsk-dev-ai/feat/v1.1-resilience-… |
@@ -77,7 +77,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 ```
 Stars         32  ▁▁▁▁▁▁▁▁▁████  · +1 / 7d
 Followers      8  ▁▁▁▁▁▁▁██████  · +1 / 7d
-Repos         31  ▁▁▁▁▁████████  · +0 / 7d
+Repos         32  ▁▁▁▁▁▅▅▅▅▅▅▅█  · +1 / 7d
 Stars/30d      7  ▁▁▁▅▁▅▁██▁▁▁▁▁▁▁▅▁▁▁▁▁▁▁▁▁▁▁▁▁  · best day 2 · 7 new stars
 ```
 
@@ -94,14 +94,14 @@ Stars/30d      7  ▁▁▁▅▁▅▁██▁▁▁▁▁▁▁▅▁▁▁�
 
 **Latest public activity**
 
-`6h ago` — pushed `main` to [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs)
-`7h ago` — released [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs) — "v1.0.0"
-`1d ago` — pushed `release/v1.0.0` to [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs)
+`1h ago` — pushed `main` to [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs)
+`1h ago` — released [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs) — "v1.1.0"
+`1h ago` — opened a PR in [meshery/meshery](https://github.com/meshery/meshery) — "#22452"
+`1h ago` — forked [meshery/meshery](https://github.com/meshery/meshery) — "dsk-dev-ai/meshery"
+`12h ago` — pushed `release/v1.0.0` to [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs)
 `1d ago` — created branch [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs) — "fix/otel-collector-as-deployment"
 `6d ago` — deleted branch [dsk-dev-ai/aegis](https://github.com/dsk-dev-ai/aegis) — "docs/workflow-and-requirements"
 `6d ago` — pushed `main` to [dsk-dev-ai/aegis](https://github.com/dsk-dev-ai/aegis)
-`6d ago` — merged a PR in [dsk-dev-ai/aegis](https://github.com/dsk-dev-ai/aegis) — "#2"
-`6d ago` — opened a PR in [dsk-dev-ai/aegis](https://github.com/dsk-dev-ai/aegis) — "#2"
 
 **Language mix**
 
