@@ -25,7 +25,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-19 19:18 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-19 23:36 UTC`
 
 ![Public_repos](https://img.shields.io/badge/Public_repos-32-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-32-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-8-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
@@ -94,14 +94,14 @@ Stars/30d      8  ▁▁▁▅▁▅▁██▁▁▁▁▁▁▁▅▁▁▁�
 
 **Latest public activity**
 
-`32m ago` — starred [morluto/rea](https://github.com/morluto/rea)
-`14h ago` — pushed `main` to [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs)
-`14h ago` — released [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs) — "v1.1.0"
-`14h ago` — opened a PR in [meshery/meshery](https://github.com/meshery/meshery) — "#22452"
-`14h ago` — created branch [dsk-dev-ai/meshery](https://github.com/dsk-dev-ai/meshery) — "feat/add-gateway-api-model"
-`15h ago` — forked [meshery/meshery](https://github.com/meshery/meshery) — "dsk-dev-ai/meshery"
+`4h ago` — starred [morluto/rea](https://github.com/morluto/rea)
+`17h ago` — pushed `feat/add-gateway-api-model` to [dsk-dev-ai/meshery](https://github.com/dsk-dev-ai/meshery)
+`18h ago` — pushed `main` to [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs)
+`18h ago` — released [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs) — "v1.1.0"
+`19h ago` — opened a PR in [meshery/meshery](https://github.com/meshery/meshery) — "#22452"
+`19h ago` — created branch [dsk-dev-ai/meshery](https://github.com/dsk-dev-ai/meshery) — "feat/add-gateway-api-model"
+`19h ago` — forked [meshery/meshery](https://github.com/meshery/meshery) — "dsk-dev-ai/meshery"
 `1d ago` — pushed `release/v1.0.0` to [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs)
-`2d ago` — created branch [dsk-dev-ai/meshery-designs](https://github.com/dsk-dev-ai/meshery-designs) — "fix/otel-collector-as-deployment"
 
 **Language mix**
 
