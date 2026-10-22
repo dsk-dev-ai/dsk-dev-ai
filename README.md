@@ -25,7 +25,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-22 15:14 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-22 19:12 UTC`
 
 ![Public_repos](https://img.shields.io/badge/Public_repos-33-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-33-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-8-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
@@ -81,15 +81,26 @@ Repos         33  ▁▁▁▁▁▃▃▃▃▃▃▃▆███  · +2 / 7d
 Stars/30d      9  ▅▁▅▁██▁▁▁▁▁▁▁▅▁▁▁▁▁▁▁▁▁▁▁▁▅▅▁▁  · best day 2 · 9 new stars
 ```
 
+**Merged pull requests**
+
+| Pull request | Title | Merged |
+| --- | --- | --- |
+| [dsk-dev-ai/paypilot-ai#1](https://github.com/dsk-dev-ai/paypilot-ai/pull/1) | feat: PayPilot AI premium UI, provider architecture, Prisma schema, API w… | `2d ago` |
+| [dsk-dev-ai/aegis#2](https://github.com/dsk-dev-ai/aegis/pull/2) | docs: development workflow, requirements, and roadmap update | `10d ago` |
+| [dsk-dev-ai/aegis#1](https://github.com/dsk-dev-ai/aegis/pull/1) | feat: Flutter E2EE messenger UI, Dart crypto, and relay routing | `10d ago` |
+| [dsk-dev-ai/distrlab#1](https://github.com/dsk-dev-ai/distrlab/pull/1) | feat: v1.1 — circuit breaker & smarter load balancing | `15d ago` |
+| [dsk-dev-ai/textrieve#1](https://github.com/dsk-dev-ai/textrieve/pull/1) | release: v1.2.1 — PyPI live + release notes | `27d ago` |
+| [dsk-dev-ai/mcp-nexus#16](https://github.com/dsk-dev-ai/mcp-nexus/pull/16) | docs: professional README redesign | `28d ago` |
+
 **Latest public activity**
 
+`2h ago` — created branch [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai) — "advancing_dx1"
 `2d ago` — pushed `main` to [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai)
 `2d ago` — merged a PR in [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai) — "#1"
 `2d ago` — opened a PR in [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai) — "#1"
 `2d ago` — pushed `feat/paypal-sandbox` to [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai)
 `2d ago` — starred [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai)
-`2d ago` — created branch [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai) — "main"
-`2d ago` — starred [morluto/rea](https://github.com/morluto/rea)
+`3d ago` — starred [morluto/rea](https://github.com/morluto/rea)
 `3d ago` — pushed `feat/add-gateway-api-model` to [dsk-dev-ai/meshery](https://github.com/dsk-dev-ai/meshery)
 
 **Language mix**
