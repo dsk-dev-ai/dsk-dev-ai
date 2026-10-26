@@ -25,21 +25,21 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-26 06:08 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-26 12:53 UTC`
 
-![Public_repos](https://img.shields.io/badge/Public_repos-34-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-33-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-8-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
+![Public_repos](https://img.shields.io/badge/Public_repos-35-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-34-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-8-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
-![Stars_7d](https://img.shields.io/badge/Stars_7d-%2B1-6c8cff?style=for-the-badge)
+![Stars_7d](https://img.shields.io/badge/Stars_7d-%2B2-6c8cff?style=for-the-badge)
 
 **Recently pushed**
 
 |  | Repo | Stars | Language | Latest commit |
 | --- | --- | --- | --- | --- |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [erasureproof](https://github.com/dsk-dev-ai/erasureproof) | 1 | `Python` | Merge pull request #2 from dsk-dev-ai/feat/v0.3-web-console |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [dsk-packages](https://github.com/dsk-dev-ai/dsk-packages) | 1 | `TypeScript` | fix: security overrides + dependency updates |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai) | 1 | `TypeScript` | Merge pull request #2 from dsk-dev-ai/chore/refresh-paypilo… |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [meshery-designs](https://github.com/dsk-dev-ai/meshery-designs) | 1 | `Python` | docs: add Meshery Community section with key links |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%238b949e' title='Dart'> | [aegis](https://github.com/dsk-dev-ai/aegis) | 0 | `Dart` | docs: add development workflow and tracked requirements; up… |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [distrlab](https://github.com/dsk-dev-ai/distrlab) | 1 | `TypeScript` | Merge pull request #1 from dsk-dev-ai/feat/v1.1-resilience-… |
 
 **Highlights** · curated
 
@@ -75,41 +75,41 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 **Growth**
 
 ```
-Stars         33  ▁▁▁▁▁▁▁▁▁▅▅▅▅███████  · +1 / 7d
+Stars         34  ▁▁▁▁▁▁▁▁▁▃▃▃▃▆▆▆▆▆▆█  · +2 / 7d
 Followers      8  ▁▁▁▁▁▁▁█████████████  · +0 / 7d
-Repos         34  ▁▁▁▁▁▃▃▃▃▃▃▃▅▆▆▆▆▆██  · +2 / 7d
-Stars/30d      8  ██▁▁▁▁▁▁▁▅▁▁▁▁▁▁▁▁▁▁▁▁▅▅▁▁▁▁▅▁  · best day 2 · 8 new stars
+Repos         35  ▁▁▁▁▁▂▂▂▂▂▂▂▄▅▅▅▅▅▇█  · +3 / 7d
+Stars/30d      9  ██▁▁▁▁▁▁▁▅▁▁▁▁▁▁▁▁▁▁▁▁▅▅▁▁▁▁▅▅  · best day 2 · 9 new stars
 ```
 
 **Merged pull requests**
 
 | Pull request | Title | Merged |
 | --- | --- | --- |
+| [dsk-dev-ai/erasureproof#2](https://github.com/dsk-dev-ai/erasureproof/pull/2) | Add operations console and interactive demo workspace | `2h ago` |
+| [dsk-dev-ai/erasureproof#1](https://github.com/dsk-dev-ai/erasureproof/pull/1) | v0.2: evidence intelligence, exposure discovery and remediation graphs | `4h ago` |
 | [dsk-dev-ai/paypilot-ai#2](https://github.com/dsk-dev-ai/paypilot-ai/pull/2) | Refresh PayPilot AI branding and Motion UI | `3d ago` |
 | [dsk-dev-ai/paypilot-ai#1](https://github.com/dsk-dev-ai/paypilot-ai/pull/1) | feat: PayPilot AI premium UI, provider architecture, Prisma schema, API w… | `5d ago` |
-| [dsk-dev-ai/aegis#2](https://github.com/dsk-dev-ai/aegis/pull/2) | docs: development workflow, requirements, and roadmap update | `13d ago` |
-| [dsk-dev-ai/aegis#1](https://github.com/dsk-dev-ai/aegis/pull/1) | feat: Flutter E2EE messenger UI, Dart crypto, and relay routing | `13d ago` |
-| [dsk-dev-ai/distrlab#1](https://github.com/dsk-dev-ai/distrlab/pull/1) | feat: v1.1 — circuit breaker & smarter load balancing | `18d ago` |
-| [dsk-dev-ai/textrieve#1](https://github.com/dsk-dev-ai/textrieve/pull/1) | release: v1.2.1 — PyPI live + release notes | `1mo ago` |
+| [dsk-dev-ai/aegis#2](https://github.com/dsk-dev-ai/aegis/pull/2) | docs: development workflow, requirements, and roadmap update | `14d ago` |
+| [dsk-dev-ai/aegis#1](https://github.com/dsk-dev-ai/aegis/pull/1) | feat: Flutter E2EE messenger UI, Dart crypto, and relay routing | `14d ago` |
 
 **Latest public activity**
 
-`13h ago` — forked [feuersteiner/contextrie](https://github.com/feuersteiner/contextrie) — "dsk-dev-ai/contextrie"
-`13h ago` — starred [feuersteiner/contextrie](https://github.com/feuersteiner/contextrie)
-`3d ago` — pushed `main` to [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai)
-`3d ago` — merged a PR in [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai) — "#2"
-`3d ago` — opened a PR in [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai) — "#2"
-`3d ago` — created branch [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai) — "chore/refresh-paypilot-ai-ui"
-`5d ago` — pushed `feat/paypal-sandbox` to [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai)
-`5d ago` — starred [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai)
+`2h ago` — deleted branch [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "feat/v0.3-web-console"
+`2h ago` — merged a PR in [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "#2"
+`2h ago` — opened a PR in [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "#2"
+`2h ago` — created branch [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "feat/v0.3-web-console"
+`4h ago` — pushed `main` to [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof)
+`4h ago` — starred [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof)
+`20h ago` — forked [feuersteiner/contextrie](https://github.com/feuersteiner/contextrie) — "dsk-dev-ai/contextrie"
+`20h ago` — starred [feuersteiner/contextrie](https://github.com/feuersteiner/contextrie)
 
 **Language mix**
 
 ```
-Python             64%  ███████████████
-TypeScript         29%  ███████
-Dart                4%  █
-Rust                4%  █
+Python             66%  ████████████████
+TypeScript         28%  ███████
+Dart                3%  █
+Rust                3%  █
 ```
 
 _Refreshed hourly by [update-profile.yml](.github/workflows/update-profile.yml) — generated by [`scripts/refresh.py`](scripts/refresh.py), GitHub-native, no third party services. Public data only._
