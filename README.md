@@ -25,7 +25,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-26 00:18 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-26 06:08 UTC`
 
 ![Public_repos](https://img.shields.io/badge/Public_repos-34-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-33-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-8-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
@@ -35,9 +35,9 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 |  | Repo | Stars | Language | Latest commit |
 | --- | --- | --- | --- | --- |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [dsk-packages](https://github.com/dsk-dev-ai/dsk-packages) | 1 | `TypeScript` | fix: security overrides + dependency updates |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai) | 1 | `TypeScript` | Merge pull request #2 from dsk-dev-ai/chore/refresh-paypilo… |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [meshery-designs](https://github.com/dsk-dev-ai/meshery-designs) | 1 | `Python` | docs: add Meshery Community section with key links |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [dsk-packages](https://github.com/dsk-dev-ai/dsk-packages) | 1 | `TypeScript` | fix: security overrides + dependency updates |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%238b949e' title='Dart'> | [aegis](https://github.com/dsk-dev-ai/aegis) | 0 | `Dart` | docs: add development workflow and tracked requirements; up… |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [distrlab](https://github.com/dsk-dev-ai/distrlab) | 1 | `TypeScript` | Merge pull request #1 from dsk-dev-ai/feat/v1.1-resilience-… |
 
@@ -85,7 +85,7 @@ Stars/30d      8  ██▁▁▁▁▁▁▁▅▁▁▁▁▁▁▁▁▁▁�
 
 | Pull request | Title | Merged |
 | --- | --- | --- |
-| [dsk-dev-ai/paypilot-ai#2](https://github.com/dsk-dev-ai/paypilot-ai/pull/2) | Refresh PayPilot AI branding and Motion UI | `2d ago` |
+| [dsk-dev-ai/paypilot-ai#2](https://github.com/dsk-dev-ai/paypilot-ai/pull/2) | Refresh PayPilot AI branding and Motion UI | `3d ago` |
 | [dsk-dev-ai/paypilot-ai#1](https://github.com/dsk-dev-ai/paypilot-ai/pull/1) | feat: PayPilot AI premium UI, provider architecture, Prisma schema, API w… | `5d ago` |
 | [dsk-dev-ai/aegis#2](https://github.com/dsk-dev-ai/aegis/pull/2) | docs: development workflow, requirements, and roadmap update | `13d ago` |
 | [dsk-dev-ai/aegis#1](https://github.com/dsk-dev-ai/aegis/pull/1) | feat: Flutter E2EE messenger UI, Dart crypto, and relay routing | `13d ago` |
@@ -94,12 +94,12 @@ Stars/30d      8  ██▁▁▁▁▁▁▁▅▁▁▁▁▁▁▁▁▁▁�
 
 **Latest public activity**
 
-`7h ago` — forked [feuersteiner/contextrie](https://github.com/feuersteiner/contextrie) — "dsk-dev-ai/contextrie"
-`7h ago` — starred [feuersteiner/contextrie](https://github.com/feuersteiner/contextrie)
-`2d ago` — pushed `main` to [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai)
-`2d ago` — merged a PR in [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai) — "#2"
-`2d ago` — opened a PR in [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai) — "#2"
-`2d ago` — created branch [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai) — "chore/refresh-paypilot-ai-ui"
+`13h ago` — forked [feuersteiner/contextrie](https://github.com/feuersteiner/contextrie) — "dsk-dev-ai/contextrie"
+`13h ago` — starred [feuersteiner/contextrie](https://github.com/feuersteiner/contextrie)
+`3d ago` — pushed `main` to [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai)
+`3d ago` — merged a PR in [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai) — "#2"
+`3d ago` — opened a PR in [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai) — "#2"
+`3d ago` — created branch [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai) — "chore/refresh-paypilot-ai-ui"
 `5d ago` — pushed `feat/paypal-sandbox` to [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai)
 `5d ago` — starred [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai)
 
