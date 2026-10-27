@@ -25,7 +25,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-27 20:03 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-27 23:44 UTC`
 
 ![Public_repos](https://img.shields.io/badge/Public_repos-36-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-34-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-8-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
@@ -85,7 +85,7 @@ Stars/30d      7  █▁▁▁▁▁▁▁▅▁▁▁▁▁▁▁▁▁▁▁�
 
 | Pull request | Title | Merged |
 | --- | --- | --- |
-| [dsk-dev-ai/erasureproof#3](https://github.com/dsk-dev-ai/erasureproof/pull/3) | Release v1.0.0: production hardening, auth/RBAC/approvals, backups, K8s | `3h ago` |
+| [dsk-dev-ai/erasureproof#3](https://github.com/dsk-dev-ai/erasureproof/pull/3) | Release v1.0.0: production hardening, auth/RBAC/approvals, backups, K8s | `7h ago` |
 | [dsk-dev-ai/erasureproof#2](https://github.com/dsk-dev-ai/erasureproof/pull/2) | Add operations console and interactive demo workspace | `1d ago` |
 | [dsk-dev-ai/erasureproof#1](https://github.com/dsk-dev-ai/erasureproof/pull/1) | v0.2: evidence intelligence, exposure discovery and remediation graphs | `1d ago` |
 | [dsk-dev-ai/paypilot-ai#2](https://github.com/dsk-dev-ai/paypilot-ai/pull/2) | Refresh PayPilot AI branding and Motion UI | `4d ago` |
@@ -94,8 +94,8 @@ Stars/30d      7  █▁▁▁▁▁▁▁▅▁▁▁▁▁▁▁▁▁▁▁�
 
 **Latest public activity**
 
-`3h ago` — merged a PR in [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "#3"
-`3h ago` — opened a PR in [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "#3"
+`7h ago` — merged a PR in [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "#3"
+`7h ago` — opened a PR in [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "#3"
 `1d ago` — deleted branch [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "feat/v0.3-web-console"
 `1d ago` — pushed `main` to [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof)
 `1d ago` — created branch [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "feat/v0.3-web-console"
