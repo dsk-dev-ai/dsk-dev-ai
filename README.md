@@ -25,7 +25,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-27 07:46 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-27 14:25 UTC`
 
 ![Public_repos](https://img.shields.io/badge/Public_repos-35-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-34-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-8-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
@@ -85,21 +85,21 @@ Stars/30d      7  █▁▁▁▁▁▁▁▅▁▁▁▁▁▁▁▁▁▁▁�
 
 | Pull request | Title | Merged |
 | --- | --- | --- |
-| [dsk-dev-ai/erasureproof#2](https://github.com/dsk-dev-ai/erasureproof/pull/2) | Add operations console and interactive demo workspace | `21h ago` |
-| [dsk-dev-ai/erasureproof#1](https://github.com/dsk-dev-ai/erasureproof/pull/1) | v0.2: evidence intelligence, exposure discovery and remediation graphs | `23h ago` |
+| [dsk-dev-ai/erasureproof#2](https://github.com/dsk-dev-ai/erasureproof/pull/2) | Add operations console and interactive demo workspace | `1d ago` |
+| [dsk-dev-ai/erasureproof#1](https://github.com/dsk-dev-ai/erasureproof/pull/1) | v0.2: evidence intelligence, exposure discovery and remediation graphs | `1d ago` |
 | [dsk-dev-ai/paypilot-ai#2](https://github.com/dsk-dev-ai/paypilot-ai/pull/2) | Refresh PayPilot AI branding and Motion UI | `4d ago` |
-| [dsk-dev-ai/paypilot-ai#1](https://github.com/dsk-dev-ai/paypilot-ai/pull/1) | feat: PayPilot AI premium UI, provider architecture, Prisma schema, API w… | `6d ago` |
-| [dsk-dev-ai/aegis#2](https://github.com/dsk-dev-ai/aegis/pull/2) | docs: development workflow, requirements, and roadmap update | `14d ago` |
-| [dsk-dev-ai/aegis#1](https://github.com/dsk-dev-ai/aegis/pull/1) | feat: Flutter E2EE messenger UI, Dart crypto, and relay routing | `14d ago` |
+| [dsk-dev-ai/paypilot-ai#1](https://github.com/dsk-dev-ai/paypilot-ai/pull/1) | feat: PayPilot AI premium UI, provider architecture, Prisma schema, API w… | `7d ago` |
+| [dsk-dev-ai/aegis#2](https://github.com/dsk-dev-ai/aegis/pull/2) | docs: development workflow, requirements, and roadmap update | `15d ago` |
+| [dsk-dev-ai/aegis#1](https://github.com/dsk-dev-ai/aegis/pull/1) | feat: Flutter E2EE messenger UI, Dart crypto, and relay routing | `15d ago` |
 
 **Latest public activity**
 
-`21h ago` — deleted branch [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "feat/v0.3-web-console"
-`21h ago` — merged a PR in [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "#2"
-`21h ago` — opened a PR in [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "#2"
-`21h ago` — created branch [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "feat/v0.3-web-console"
-`23h ago` — pushed `main` to [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof)
-`23h ago` — starred [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof)
+`1d ago` — deleted branch [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "feat/v0.3-web-console"
+`1d ago` — pushed `main` to [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof)
+`1d ago` — merged a PR in [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "#2"
+`1d ago` — opened a PR in [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "#2"
+`1d ago` — created branch [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "feat/v0.3-web-console"
+`1d ago` — starred [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof)
 `1d ago` — forked [feuersteiner/contextrie](https://github.com/feuersteiner/contextrie) — "dsk-dev-ai/contextrie"
 `1d ago` — starred [feuersteiner/contextrie](https://github.com/feuersteiner/contextrie)
 
