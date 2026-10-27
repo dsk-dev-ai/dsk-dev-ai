@@ -25,11 +25,11 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-26 23:07 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-27 02:02 UTC`
 
 ![Public_repos](https://img.shields.io/badge/Public_repos-35-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-34-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-8-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
-![Stars_7d](https://img.shields.io/badge/Stars_7d-%2B2-6c8cff?style=for-the-badge)
+![Stars_7d](https://img.shields.io/badge/Stars_7d-%2B1-6c8cff?style=for-the-badge)
 
 **Recently pushed**
 
@@ -75,18 +75,18 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 **Growth**
 
 ```
-Stars         34  ▁▁▁▁▁▁▁▁▁▃▃▃▃▆▆▆▆▆▆█  · +2 / 7d
-Followers      8  ▁▁▁▁▁▁▁█████████████  · +0 / 7d
-Repos         35  ▁▁▁▁▁▂▂▂▂▂▂▂▄▅▅▅▅▅▇█  · +3 / 7d
-Stars/30d      9  ██▁▁▁▁▁▁▁▅▁▁▁▁▁▁▁▁▁▁▁▁▅▅▁▁▁▁▅▅  · best day 2 · 9 new stars
+Stars         34  ▁▁▁▁▁▁▁▁▁▃▃▃▃▆▆▆▆▆▆██  · +1 / 7d
+Followers      8  ▁▁▁▁▁▁▁██████████████  · +0 / 7d
+Repos         35  ▁▁▁▁▁▂▂▂▂▂▂▂▄▅▅▅▅▅▇██  · +2 / 7d
+Stars/30d      7  █▁▁▁▁▁▁▁▅▁▁▁▁▁▁▁▁▁▁▁▁▅▅▁▁▁▁▅▅▁  · best day 2 · 7 new stars
 ```
 
 **Merged pull requests**
 
 | Pull request | Title | Merged |
 | --- | --- | --- |
-| [dsk-dev-ai/erasureproof#2](https://github.com/dsk-dev-ai/erasureproof/pull/2) | Add operations console and interactive demo workspace | `12h ago` |
-| [dsk-dev-ai/erasureproof#1](https://github.com/dsk-dev-ai/erasureproof/pull/1) | v0.2: evidence intelligence, exposure discovery and remediation graphs | `14h ago` |
+| [dsk-dev-ai/erasureproof#2](https://github.com/dsk-dev-ai/erasureproof/pull/2) | Add operations console and interactive demo workspace | `15h ago` |
+| [dsk-dev-ai/erasureproof#1](https://github.com/dsk-dev-ai/erasureproof/pull/1) | v0.2: evidence intelligence, exposure discovery and remediation graphs | `17h ago` |
 | [dsk-dev-ai/paypilot-ai#2](https://github.com/dsk-dev-ai/paypilot-ai/pull/2) | Refresh PayPilot AI branding and Motion UI | `3d ago` |
 | [dsk-dev-ai/paypilot-ai#1](https://github.com/dsk-dev-ai/paypilot-ai/pull/1) | feat: PayPilot AI premium UI, provider architecture, Prisma schema, API w… | `6d ago` |
 | [dsk-dev-ai/aegis#2](https://github.com/dsk-dev-ai/aegis/pull/2) | docs: development workflow, requirements, and roadmap update | `14d ago` |
@@ -94,12 +94,12 @@ Stars/30d      9  ██▁▁▁▁▁▁▁▅▁▁▁▁▁▁▁▁▁▁�
 
 **Latest public activity**
 
-`12h ago` — deleted branch [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "feat/v0.3-web-console"
-`12h ago` — merged a PR in [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "#2"
-`12h ago` — opened a PR in [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "#2"
-`12h ago` — created branch [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "feat/v0.3-web-console"
-`14h ago` — pushed `main` to [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof)
-`15h ago` — starred [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof)
+`15h ago` — deleted branch [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "feat/v0.3-web-console"
+`15h ago` — merged a PR in [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "#2"
+`15h ago` — opened a PR in [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "#2"
+`15h ago` — created branch [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "feat/v0.3-web-console"
+`17h ago` — pushed `main` to [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof)
+`17h ago` — starred [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof)
 `1d ago` — forked [feuersteiner/contextrie](https://github.com/feuersteiner/contextrie) — "dsk-dev-ai/contextrie"
 `1d ago` — starred [feuersteiner/contextrie](https://github.com/feuersteiner/contextrie)
 
