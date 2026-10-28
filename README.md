@@ -25,11 +25,11 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-28 05:34 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-28 12:45 UTC`
 
-![Public_repos](https://img.shields.io/badge/Public_repos-36-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-35-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-8-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
+![Public_repos](https://img.shields.io/badge/Public_repos-36-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-35-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-9-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
-![Stars_7d](https://img.shields.io/badge/Stars_7d-%2B2-6c8cff?style=for-the-badge)
+![Stars_7d](https://img.shields.io/badge/Stars_7d-%2B2-6c8cff?style=for-the-badge) ![Followers_7d](https://img.shields.io/badge/Followers_7d-%2B1-0ea5e9?style=for-the-badge)
 
 **Recently pushed**
 
@@ -76,7 +76,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 ```
 Stars         35  ▁▁▁▁▁▁▁▁▁▃▃▃▃▅▅▅▅▅▅▆▆█  · +2 / 7d
-Followers      8  ▁▁▁▁▁▁▁███████████████  · +0 / 7d
+Followers      9  ▁▁▁▁▁▁▁▅▅▅▅▅▅▅▅▅▅▅▅▅▅█  · +1 / 7d
 Repos         36  ▁▁▁▁▁▂▂▂▂▂▂▂▃▅▅▅▅▅▆▇██  · +3 / 7d
 Stars/30d      6  ▁▁▁▁▁▁▁█▁▁▁▁▁▁▁▁▁▁▁▁██▁▁▁▁██▁█  · best day 1 · 6 new stars
 ```
@@ -85,23 +85,23 @@ Stars/30d      6  ▁▁▁▁▁▁▁█▁▁▁▁▁▁▁▁▁▁▁▁�
 
 | Pull request | Title | Merged |
 | --- | --- | --- |
-| [dsk-dev-ai/erasureproof#3](https://github.com/dsk-dev-ai/erasureproof/pull/3) | Release v1.0.0: production hardening, auth/RBAC/approvals, backups, K8s | `12h ago` |
-| [dsk-dev-ai/erasureproof#2](https://github.com/dsk-dev-ai/erasureproof/pull/2) | Add operations console and interactive demo workspace | `1d ago` |
-| [dsk-dev-ai/erasureproof#1](https://github.com/dsk-dev-ai/erasureproof/pull/1) | v0.2: evidence intelligence, exposure discovery and remediation graphs | `1d ago` |
+| [dsk-dev-ai/erasureproof#3](https://github.com/dsk-dev-ai/erasureproof/pull/3) | Release v1.0.0: production hardening, auth/RBAC/approvals, backups, K8s | `20h ago` |
+| [dsk-dev-ai/erasureproof#2](https://github.com/dsk-dev-ai/erasureproof/pull/2) | Add operations console and interactive demo workspace | `2d ago` |
+| [dsk-dev-ai/erasureproof#1](https://github.com/dsk-dev-ai/erasureproof/pull/1) | v0.2: evidence intelligence, exposure discovery and remediation graphs | `2d ago` |
 | [dsk-dev-ai/paypilot-ai#2](https://github.com/dsk-dev-ai/paypilot-ai/pull/2) | Refresh PayPilot AI branding and Motion UI | `5d ago` |
 | [dsk-dev-ai/paypilot-ai#1](https://github.com/dsk-dev-ai/paypilot-ai/pull/1) | feat: PayPilot AI premium UI, provider architecture, Prisma schema, API w… | `7d ago` |
-| [dsk-dev-ai/aegis#2](https://github.com/dsk-dev-ai/aegis/pull/2) | docs: development workflow, requirements, and roadmap update | `15d ago` |
+| [dsk-dev-ai/aegis#2](https://github.com/dsk-dev-ai/aegis/pull/2) | docs: development workflow, requirements, and roadmap update | `16d ago` |
 
 **Latest public activity**
 
-`2h ago` — commented on an issue in [interviewstreet/hackerrank-orchestrate-october26](https://github.com/interviewstreet/hackerrank-orchestrate-october26)
-`2h ago` — opened an issue in [interviewstreet/hackerrank-orchestrate-october26](https://github.com/interviewstreet/hackerrank-orchestrate-october26) — "#38 Clarification request: ErasureProof-based implementation for Ghost Data Sti…"
-`2h ago` — starred [dsk-dev-ai/ghost-data-still-exists](https://github.com/dsk-dev-ai/ghost-data-still-exists)
-`12h ago` — deleted branch [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "feat/v1.0.0-production"
-`12h ago` — merged a PR in [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "#3"
-`12h ago` — opened a PR in [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "#3"
-`1d ago` — pushed `main` to [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof)
-`1d ago` — created branch [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "feat/v0.3-web-console"
+`9h ago` — commented on an issue in [interviewstreet/hackerrank-orchestrate-october26](https://github.com/interviewstreet/hackerrank-orchestrate-october26)
+`9h ago` — opened an issue in [interviewstreet/hackerrank-orchestrate-october26](https://github.com/interviewstreet/hackerrank-orchestrate-october26) — "#38 Clarification request: ErasureProof-based implementation for Ghost Data Sti…"
+`9h ago` — starred [dsk-dev-ai/ghost-data-still-exists](https://github.com/dsk-dev-ai/ghost-data-still-exists)
+`17h ago` — pushed `main` to [dsk-dev-ai/ghost-data-still-exists](https://github.com/dsk-dev-ai/ghost-data-still-exists)
+`17h ago` — created branch [dsk-dev-ai/ghost-data-still-exists](https://github.com/dsk-dev-ai/ghost-data-still-exists) — "main"
+`17h ago` — pushed `main` to [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof)
+`20h ago` — deleted branch [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "feat/v1.0.0-production"
+`20h ago` — merged a PR in [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "#3"
 
 **Language mix**
 
