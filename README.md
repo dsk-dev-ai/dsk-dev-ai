@@ -25,7 +25,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-30 08:34 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-30 15:53 UTC`
 
 ![Public_repos](https://img.shields.io/badge/Public_repos-36-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-35-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-9-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
@@ -35,7 +35,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 |  | Repo | Stars | Language | Latest commit |
 | --- | --- | --- | --- | --- |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [erasureproof](https://github.com/dsk-dev-ai/erasureproof) | 1 | `Python` | Move hosted deployment to Neon Free |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [erasureproof](https://github.com/dsk-dev-ai/erasureproof) | 1 | `Python` | Prepare v1.1.1 release |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [ghost-data-still-exists](https://github.com/dsk-dev-ai/ghost-data-still-exists) | 1 | `Python` | Document live Gemini-enabled demo |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [dsk-packages](https://github.com/dsk-dev-ai/dsk-packages) | 1 | `TypeScript` | fix: security overrides + dependency updates |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai) | 1 | `TypeScript` | Merge pull request #2 from dsk-dev-ai/chore/refresh-paypilo… |
@@ -86,22 +86,22 @@ Stars/30d      6  ▁▁▁▁▁█▁▁▁▁▁▁▁▁▁▁▁▁██�
 | Pull request | Title | Merged |
 | --- | --- | --- |
 | [dsk-dev-ai/erasureproof#3](https://github.com/dsk-dev-ai/erasureproof/pull/3) | Release v1.0.0: production hardening, auth/RBAC/approvals, backups, K8s | `2d ago` |
-| [dsk-dev-ai/erasureproof#2](https://github.com/dsk-dev-ai/erasureproof/pull/2) | Add operations console and interactive demo workspace | `3d ago` |
+| [dsk-dev-ai/erasureproof#2](https://github.com/dsk-dev-ai/erasureproof/pull/2) | Add operations console and interactive demo workspace | `4d ago` |
 | [dsk-dev-ai/erasureproof#1](https://github.com/dsk-dev-ai/erasureproof/pull/1) | v0.2: evidence intelligence, exposure discovery and remediation graphs | `4d ago` |
 | [dsk-dev-ai/paypilot-ai#2](https://github.com/dsk-dev-ai/paypilot-ai/pull/2) | Refresh PayPilot AI branding and Motion UI | `7d ago` |
-| [dsk-dev-ai/paypilot-ai#1](https://github.com/dsk-dev-ai/paypilot-ai/pull/1) | feat: PayPilot AI premium UI, provider architecture, Prisma schema, API w… | `9d ago` |
+| [dsk-dev-ai/paypilot-ai#1](https://github.com/dsk-dev-ai/paypilot-ai/pull/1) | feat: PayPilot AI premium UI, provider architecture, Prisma schema, API w… | `10d ago` |
 | [dsk-dev-ai/aegis#2](https://github.com/dsk-dev-ai/aegis/pull/2) | docs: development workflow, requirements, and roadmap update | `18d ago` |
 
 **Latest public activity**
 
+`1h ago` — closed an issue in [interviewstreet/hackerrank-orchestrate-october26](https://github.com/interviewstreet/hackerrank-orchestrate-october26) — "#38 Clarification request: ErasureProof-based implementation for Ghost Data Sti…"
+`1h ago` — released [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "v1.1.1"
 `1d ago` — pushed `main` to [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof)
-`1d ago` — released [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "v1.1.0"
 `2d ago` — commented on an issue in [interviewstreet/hackerrank-orchestrate-october26](https://github.com/interviewstreet/hackerrank-orchestrate-october26)
 `2d ago` — opened an issue in [interviewstreet/hackerrank-orchestrate-october26](https://github.com/interviewstreet/hackerrank-orchestrate-october26) — "#38 Clarification request: ErasureProof-based implementation for Ghost Data Sti…"
 `2d ago` — starred [dsk-dev-ai/ghost-data-still-exists](https://github.com/dsk-dev-ai/ghost-data-still-exists)
 `2d ago` — pushed `main` to [dsk-dev-ai/ghost-data-still-exists](https://github.com/dsk-dev-ai/ghost-data-still-exists)
 `2d ago` — created branch [dsk-dev-ai/ghost-data-still-exists](https://github.com/dsk-dev-ai/ghost-data-still-exists) — "main"
-`2d ago` — deleted branch [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "feat/v1.0.0-production"
 
 **Language mix**
 
