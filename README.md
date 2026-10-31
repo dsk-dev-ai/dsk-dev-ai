@@ -25,21 +25,21 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-31 13:36 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-31 18:30 UTC`
 
-![Public_repos](https://img.shields.io/badge/Public_repos-36-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-35-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-9-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
+![Public_repos](https://img.shields.io/badge/Public_repos-37-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-36-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-9-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
-![Stars_7d](https://img.shields.io/badge/Stars_7d-%2B2-6c8cff?style=for-the-badge) ![Followers_7d](https://img.shields.io/badge/Followers_7d-%2B1-0ea5e9?style=for-the-badge)
+![Stars_7d](https://img.shields.io/badge/Stars_7d-%2B3-6c8cff?style=for-the-badge) ![Followers_7d](https://img.shields.io/badge/Followers_7d-%2B1-0ea5e9?style=for-the-badge)
 
 **Recently pushed**
 
 |  | Repo | Stars | Language | Latest commit |
 | --- | --- | --- | --- | --- |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%23dea584' title='Rust'> | [sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) | 1 | `Rust` | Show the desktop app in the README (#9) |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [erasureproof](https://github.com/dsk-dev-ai/erasureproof) | 1 | `Python` | Use styled shields CI badge |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [ghost-data-still-exists](https://github.com/dsk-dev-ai/ghost-data-still-exists) | 1 | `Python` | Document live Gemini-enabled demo |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [dsk-packages](https://github.com/dsk-dev-ai/dsk-packages) | 1 | `TypeScript` | fix: security overrides + dependency updates |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai) | 1 | `TypeScript` | Merge pull request #2 from dsk-dev-ai/chore/refresh-paypilo… |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [meshery-designs](https://github.com/dsk-dev-ai/meshery-designs) | 1 | `Python` | docs: add Meshery Community section with key links |
 
 **Highlights** · curated
 
@@ -75,41 +75,41 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 **Growth**
 
 ```
-Stars         35  ▁▁▁▁▁▁▁▁▁▃▃▃▃▅▅▅▅▅▅▆▆████  · +2 / 7d
+Stars         36  ▁▁▁▁▁▁▁▁▁▂▂▂▂▄▄▄▄▄▄▅▅▇▇▇█  · +3 / 7d
 Followers      9  ▁▁▁▁▁▁▁▅▅▅▅▅▅▅▅▅▅▅▅▅▅████  · +1 / 7d
-Repos         36  ▁▁▁▁▁▂▂▂▂▂▂▂▃▅▅▅▅▅▆▇█████  · +3 / 7d
-Stars/30d      6  ▁▁▁▁█▁▁▁▁▁▁▁▁▁▁▁▁██▁▁▁▁██▁█▁▁▁  · best day 1 · 6 new stars
+Repos         37  ▁▁▁▁▁▂▂▂▂▂▂▂▃▄▄▄▄▄▅▆▇▇▇▇█  · +4 / 7d
+Stars/30d      7  ▁▁▁▁█▁▁▁▁▁▁▁▁▁▁▁▁██▁▁▁▁██▁█▁▁█  · best day 1 · 7 new stars
 ```
 
 **Merged pull requests**
 
 | Pull request | Title | Merged |
 | --- | --- | --- |
-| [dsk-dev-ai/erasureproof#3](https://github.com/dsk-dev-ai/erasureproof/pull/3) | Release v1.0.0: production hardening, auth/RBAC/approvals, backups, K8s | `3d ago` |
-| [dsk-dev-ai/erasureproof#2](https://github.com/dsk-dev-ai/erasureproof/pull/2) | Add operations console and interactive demo workspace | `5d ago` |
-| [dsk-dev-ai/erasureproof#1](https://github.com/dsk-dev-ai/erasureproof/pull/1) | v0.2: evidence intelligence, exposure discovery and remediation graphs | `5d ago` |
-| [dsk-dev-ai/paypilot-ai#2](https://github.com/dsk-dev-ai/paypilot-ai/pull/2) | Refresh PayPilot AI branding and Motion UI | `8d ago` |
-| [dsk-dev-ai/paypilot-ai#1](https://github.com/dsk-dev-ai/paypilot-ai/pull/1) | feat: PayPilot AI premium UI, provider architecture, Prisma schema, API w… | `11d ago` |
-| [dsk-dev-ai/aegis#2](https://github.com/dsk-dev-ai/aegis/pull/2) | docs: development workflow, requirements, and roadmap update | `19d ago` |
+| [dsk-dev-ai/sheetcraft#9](https://github.com/dsk-dev-ai/sheetcraft/pull/9) | Show the desktop app in the README | `1h ago` |
+| [dsk-dev-ai/sheetcraft#8](https://github.com/dsk-dev-ai/sheetcraft/pull/8) | Start editing cells from the grid | `1h ago` |
+| [dsk-dev-ai/sheetcraft#7](https://github.com/dsk-dev-ai/sheetcraft/pull/7) | Add range selection to the GUI | `1h ago` |
+| [dsk-dev-ai/sheetcraft#6](https://github.com/dsk-dev-ai/sheetcraft/pull/6) | Highlight formula references in the grid | `1h ago` |
+| [dsk-dev-ai/sheetcraft#5](https://github.com/dsk-dev-ai/sheetcraft/pull/5) | Add clipboard and undo to the GUI | `1h ago` |
+| [dsk-dev-ai/sheetcraft#4](https://github.com/dsk-dev-ai/sheetcraft/pull/4) | Add native egui desktop app | `1h ago` |
 
 **Latest public activity**
 
-`11h ago` — released [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "v1.1.2"
-`22h ago` — closed an issue in [interviewstreet/hackerrank-orchestrate-october26](https://github.com/interviewstreet/hackerrank-orchestrate-october26) — "#38 Clarification request: ErasureProof-based implementation for Ghost Data Sti…"
+`1h ago` — merged a PR in [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "#9"
+`1h ago` — opened a PR in [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "#9"
+`2h ago` — starred [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft)
+`16h ago` — released [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "v1.1.2"
+`1d ago` — closed an issue in [interviewstreet/hackerrank-orchestrate-october26](https://github.com/interviewstreet/hackerrank-orchestrate-october26) — "#38 Clarification request: ErasureProof-based implementation for Ghost Data Sti…"
 `2d ago` — pushed `main` to [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof)
 `3d ago` — commented on an issue in [interviewstreet/hackerrank-orchestrate-october26](https://github.com/interviewstreet/hackerrank-orchestrate-october26)
 `3d ago` — opened an issue in [interviewstreet/hackerrank-orchestrate-october26](https://github.com/interviewstreet/hackerrank-orchestrate-october26) — "#38 Clarification request: ErasureProof-based implementation for Ghost Data Sti…"
-`3d ago` — starred [dsk-dev-ai/ghost-data-still-exists](https://github.com/dsk-dev-ai/ghost-data-still-exists)
-`3d ago` — pushed `main` to [dsk-dev-ai/ghost-data-still-exists](https://github.com/dsk-dev-ai/ghost-data-still-exists)
-`3d ago` — created branch [dsk-dev-ai/ghost-data-still-exists](https://github.com/dsk-dev-ai/ghost-data-still-exists) — "main"
 
 **Language mix**
 
 ```
-Python             67%  ████████████████
-TypeScript         27%  ██████
+Python             65%  ███████████████
+TypeScript         26%  ██████
+Rust                6%  ██
 Dart                3%  █
-Rust                3%  █
 ```
 
 _Refreshed hourly by [update-profile.yml](.github/workflows/update-profile.yml) — generated by [`scripts/refresh.py`](scripts/refresh.py), GitHub-native, no third party services. Public data only._
