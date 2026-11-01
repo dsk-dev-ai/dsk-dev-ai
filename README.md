@@ -25,7 +25,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-01 15:59 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-01 20:28 UTC`
 
 ![Public_repos](https://img.shields.io/badge/Public_repos-37-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-36-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-8-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
@@ -85,23 +85,22 @@ Stars/30d      7  ▁▁▁█▁▁▁▁▁▁▁▁▁▁▁▁██▁▁�
 
 | Pull request | Title | Merged |
 | --- | --- | --- |
-| [dsk-dev-ai/sheetcraft#17](https://github.com/dsk-dev-ai/sheetcraft/pull/17) | Add charts | `14h ago` |
-| [dsk-dev-ai/sheetcraft#16](https://github.com/dsk-dev-ai/sheetcraft/pull/16) | Add sorting and filtering | `14h ago` |
-| [dsk-dev-ai/sheetcraft#15](https://github.com/dsk-dev-ai/sheetcraft/pull/15) | Add multiple sheets | `14h ago` |
-| [dsk-dev-ai/sheetcraft#14](https://github.com/dsk-dev-ai/sheetcraft/pull/14) | Add resizable columns and rows | `15h ago` |
-| [dsk-dev-ai/sheetcraft#13](https://github.com/dsk-dev-ai/sheetcraft/pull/13) | Add cell borders | `15h ago` |
-| [dsk-dev-ai/sheetcraft#12](https://github.com/dsk-dev-ai/sheetcraft/pull/12) | Add cell formatting and number formats | `15h ago` |
+| [dsk-dev-ai/sheetcraft#17](https://github.com/dsk-dev-ai/sheetcraft/pull/17) | Add charts | `18h ago` |
+| [dsk-dev-ai/sheetcraft#16](https://github.com/dsk-dev-ai/sheetcraft/pull/16) | Add sorting and filtering | `19h ago` |
+| [dsk-dev-ai/sheetcraft#15](https://github.com/dsk-dev-ai/sheetcraft/pull/15) | Add multiple sheets | `19h ago` |
+| [dsk-dev-ai/sheetcraft#14](https://github.com/dsk-dev-ai/sheetcraft/pull/14) | Add resizable columns and rows | `20h ago` |
+| [dsk-dev-ai/sheetcraft#13](https://github.com/dsk-dev-ai/sheetcraft/pull/13) | Add cell borders | `20h ago` |
+| [dsk-dev-ai/sheetcraft#12](https://github.com/dsk-dev-ai/sheetcraft/pull/12) | Add cell formatting and number formats | `20h ago` |
 
 **Latest public activity**
 
-`14h ago` — merged a PR in [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "#17"
-`14h ago` — opened a PR in [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "#17"
+`18h ago` — merged a PR in [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "#17"
+`19h ago` — opened a PR in [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "#17"
 `1d ago` — starred [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft)
 `1d ago` — pushed `main` to [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof)
 `1d ago` — released [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "v1.1.2"
 `2d ago` — closed an issue in [interviewstreet/hackerrank-orchestrate-october26](https://github.com/interviewstreet/hackerrank-orchestrate-october26) — "#38 Clarification request: ErasureProof-based implementation for Ghost Data Sti…"
 `4d ago` — pushed `main` to [dsk-dev-ai/ghost-data-still-exists](https://github.com/dsk-dev-ai/ghost-data-still-exists)
-`4d ago` — created branch [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "feat/v1.0.0-production"
 
 **Language mix**
 
