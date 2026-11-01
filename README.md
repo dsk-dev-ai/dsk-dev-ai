@@ -25,7 +25,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-10-31 22:26 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-01 02:10 UTC`
 
 ![Public_repos](https://img.shields.io/badge/Public_repos-37-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-36-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-9-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
@@ -35,7 +35,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 |  | Repo | Stars | Language | Latest commit |
 | --- | --- | --- | --- | --- |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%23dea584' title='Rust'> | [sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) | 1 | `Rust` | Show the desktop app in the README (#9) |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%23dea584' title='Rust'> | [sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) | 1 | `Rust` | Add charts (#17) |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [erasureproof](https://github.com/dsk-dev-ai/erasureproof) | 1 | `Python` | Use styled shields CI badge |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [ghost-data-still-exists](https://github.com/dsk-dev-ai/ghost-data-still-exists) | 1 | `Python` | Document live Gemini-enabled demo |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [dsk-packages](https://github.com/dsk-dev-ai/dsk-packages) | 1 | `TypeScript` | fix: security overrides + dependency updates |
@@ -75,33 +75,33 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 **Growth**
 
 ```
-Stars         36  ▁▁▁▁▁▁▁▁▁▂▂▂▂▄▄▄▄▄▄▅▅▇▇▇█  · +3 / 7d
-Followers      9  ▁▁▁▁▁▁▁▅▅▅▅▅▅▅▅▅▅▅▅▅▅████  · +1 / 7d
-Repos         37  ▁▁▁▁▁▂▂▂▂▂▂▂▃▄▄▄▄▄▅▆▇▇▇▇█  · +4 / 7d
-Stars/30d      7  ▁▁▁▁█▁▁▁▁▁▁▁▁▁▁▁▁██▁▁▁▁██▁█▁▁█  · best day 1 · 7 new stars
+Stars         36  ▁▁▁▁▁▁▁▁▁▂▂▂▂▄▄▄▄▄▄▅▅▇▇▇██  · +3 / 7d
+Followers      9  ▁▁▁▁▁▁▁▅▅▅▅▅▅▅▅▅▅▅▅▅▅█████  · +1 / 7d
+Repos         37  ▁▁▁▁▁▂▂▂▂▂▂▂▃▄▄▄▄▄▅▆▇▇▇▇██  · +3 / 7d
+Stars/30d      7  ▁▁▁█▁▁▁▁▁▁▁▁▁▁▁▁██▁▁▁▁██▁█▁▁█▁  · best day 1 · 7 new stars
 ```
 
 **Merged pull requests**
 
 | Pull request | Title | Merged |
 | --- | --- | --- |
-| [dsk-dev-ai/sheetcraft#9](https://github.com/dsk-dev-ai/sheetcraft/pull/9) | Show the desktop app in the README | `5h ago` |
-| [dsk-dev-ai/sheetcraft#8](https://github.com/dsk-dev-ai/sheetcraft/pull/8) | Start editing cells from the grid | `5h ago` |
-| [dsk-dev-ai/sheetcraft#7](https://github.com/dsk-dev-ai/sheetcraft/pull/7) | Add range selection to the GUI | `5h ago` |
-| [dsk-dev-ai/sheetcraft#6](https://github.com/dsk-dev-ai/sheetcraft/pull/6) | Highlight formula references in the grid | `5h ago` |
-| [dsk-dev-ai/sheetcraft#5](https://github.com/dsk-dev-ai/sheetcraft/pull/5) | Add clipboard and undo to the GUI | `5h ago` |
-| [dsk-dev-ai/sheetcraft#4](https://github.com/dsk-dev-ai/sheetcraft/pull/4) | Add native egui desktop app | `5h ago` |
+| [dsk-dev-ai/sheetcraft#17](https://github.com/dsk-dev-ai/sheetcraft/pull/17) | Add charts | `28m ago` |
+| [dsk-dev-ai/sheetcraft#16](https://github.com/dsk-dev-ai/sheetcraft/pull/16) | Add sorting and filtering | `53m ago` |
+| [dsk-dev-ai/sheetcraft#15](https://github.com/dsk-dev-ai/sheetcraft/pull/15) | Add multiple sheets | `58m ago` |
+| [dsk-dev-ai/sheetcraft#14](https://github.com/dsk-dev-ai/sheetcraft/pull/14) | Add resizable columns and rows | `1h ago` |
+| [dsk-dev-ai/sheetcraft#13](https://github.com/dsk-dev-ai/sheetcraft/pull/13) | Add cell borders | `1h ago` |
+| [dsk-dev-ai/sheetcraft#12](https://github.com/dsk-dev-ai/sheetcraft/pull/12) | Add cell formatting and number formats | `2h ago` |
 
 **Latest public activity**
 
-`5h ago` — merged a PR in [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "#9"
-`5h ago` — opened a PR in [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "#9"
-`6h ago` — starred [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft)
-`20h ago` — released [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "v1.1.2"
+`28m ago` — merged a PR in [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "#17"
+`48m ago` — opened a PR in [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "#17"
+`10h ago` — starred [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft)
+`1d ago` — released [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "v1.1.2"
 `1d ago` — closed an issue in [interviewstreet/hackerrank-orchestrate-october26](https://github.com/interviewstreet/hackerrank-orchestrate-october26) — "#38 Clarification request: ErasureProof-based implementation for Ghost Data Sti…"
-`2d ago` — pushed `main` to [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof)
-`3d ago` — commented on an issue in [interviewstreet/hackerrank-orchestrate-october26](https://github.com/interviewstreet/hackerrank-orchestrate-october26)
-`3d ago` — opened an issue in [interviewstreet/hackerrank-orchestrate-october26](https://github.com/interviewstreet/hackerrank-orchestrate-october26) — "#38 Clarification request: ErasureProof-based implementation for Ghost Data Sti…"
+`1d ago` — pushed `main` to [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof)
+`3d ago` — pushed `main` to [dsk-dev-ai/ghost-data-still-exists](https://github.com/dsk-dev-ai/ghost-data-still-exists)
+`4d ago` — created branch [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "feat/v1.0.0-production"
 
 **Language mix**
 
