@@ -5,7 +5,8 @@
 #   1. Push this repo to GitHub (e.g. dsk-dev-ai/dsk-dev-ai).
 #   2. Render dashboard → New → Blueprint → select the repo (reads this file).
 #   3. Site data is refreshed hourly by .github/workflows/update-profile.yml
-#      and committed; Render builds from that snapshot.
+#      when a PROFILE_TOKEN secret is configured (otherwise refresh it locally);
+#      Render builds from the committed snapshot.
 #   4. Custom domain darshankachare.com: Render shows the DNS records to add
 #      at your registrar (CNAME/A + verification TXT). HTTPS is provisioned
 #      automatically once DNS propagates.
@@ -15,9 +16,10 @@ services:
     name: darshankachare-com
     runtime: static
     rootDir: site
-    # Data is refreshed and committed by the hourly GitHub Action
-    # (.github/workflows/update-profile.yml); the deploy builds from the
-    # committed snapshot so a rate-limited build can never publish bad data.
+    # Build from the committed snapshot. The hourly GitHub Action refreshes it
+    # when a PROFILE_TOKEN secret (PAT with public-repo read access) is set;
+    # otherwise run `GH_TOKEN=$(gh auth token) python3 scripts/export_site_data.py`
+    # locally and commit the result.
     buildCommand: npm ci && npm run build
     staticPublishPath: ./out
     autoDeployTrigger: commit

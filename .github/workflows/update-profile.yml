@@ -16,6 +16,11 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    # Optional PAT with public-repo read access. The default GITHUB_TOKEN is
+    # scoped to this repository and its search/PAT visibility hides org PRs,
+    # so only use it for the site export when a PAT is configured.
+    env:
+      PROFILE_TOKEN: ${{ secrets.PROFILE_TOKEN }}
     steps:
       - uses: actions/checkout@v4
 
@@ -44,11 +49,13 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Export website data
+        if: env.PROFILE_TOKEN != ''
         run: python3 scripts/export_site_data.py
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ env.PROFILE_TOKEN }}
 
       - name: Guard against API undercount
+        if: env.PROFILE_TOKEN != ''
         run: |
           python3 - <<'PY'
           import json, subprocess
