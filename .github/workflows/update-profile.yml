@@ -48,6 +48,20 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Guard against API undercount
+        run: |
+          python3 - <<'PY'
+          import json, subprocess
+          old = json.loads(subprocess.check_output(["git", "show", "HEAD:site/data/profile.json"]))
+          with open("site/data/profile.json") as fh:
+              new = json.load(fh)
+          old_total = old["stats"]["merged_prs_total"]
+          new_total = new["stats"]["merged_prs_total"]
+          if new_total < old_total:
+              print(f"export undercounted merged PRs ({new_total} < {old_total}); keeping committed snapshot")
+              subprocess.check_call(["git", "checkout", "HEAD", "--", "site/data/profile.json"])
+          PY
+
       - name: Commit and push if changed
         run: |
           git config user.name "dsk-dev-ai[bot]"
