@@ -25,7 +25,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-02 06:37 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-02 06:43 UTC`
 
 ![Public_repos](https://img.shields.io/badge/Public_repos-37-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-36-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-8-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
@@ -85,7 +85,7 @@ Stars/30d      7  ▁▁█▁▁▁▁▁▁▁▁▁▁▁▁██▁▁▁�
 
 | Pull request | Title | Merged |
 | --- | --- | --- |
-| [dsk-dev-ai/sheetcraft#18](https://github.com/dsk-dev-ai/sheetcraft/pull/18) | Add freeze panes | `1h ago` |
+| [dsk-dev-ai/sheetcraft#18](https://github.com/dsk-dev-ai/sheetcraft/pull/18) | Add freeze panes | `2h ago` |
 | [dsk-dev-ai/sheetcraft#17](https://github.com/dsk-dev-ai/sheetcraft/pull/17) | Add charts | `1d ago` |
 | [dsk-dev-ai/sheetcraft#16](https://github.com/dsk-dev-ai/sheetcraft/pull/16) | Add sorting and filtering | `1d ago` |
 | [dsk-dev-ai/sheetcraft#15](https://github.com/dsk-dev-ai/sheetcraft/pull/15) | Add multiple sheets | `1d ago` |
@@ -94,8 +94,8 @@ Stars/30d      7  ▁▁█▁▁▁▁▁▁▁▁▁▁▁▁██▁▁▁�
 
 **Latest public activity**
 
-`1h ago` — merged a PR in [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "#18"
-`1h ago` — opened a PR in [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "#18"
+`2h ago` — merged a PR in [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "#18"
+`2h ago` — opened a PR in [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "#18"
 `1d ago` — created branch [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "docs/screenshot"
 `1d ago` — deleted branch [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "feat/range-selection"
 `1d ago` — pushed `main` to [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft)
