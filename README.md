@@ -25,11 +25,11 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-01 20:28 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-02 00:39 UTC`
 
 ![Public_repos](https://img.shields.io/badge/Public_repos-37-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-36-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-8-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
-![Stars_7d](https://img.shields.io/badge/Stars_7d-%2B3-6c8cff?style=for-the-badge)
+![Stars_7d](https://img.shields.io/badge/Stars_7d-%2B2-6c8cff?style=for-the-badge)
 
 **Recently pushed**
 
@@ -75,27 +75,27 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 **Growth**
 
 ```
-Stars         36  ▁▁▁▁▁▁▁▁▁▂▂▂▂▄▄▄▄▄▄▅▅▇▇▇██  · +3 / 7d
-Followers      8  ▁▁▁▁▁▁▁▅▅▅▅▅▅▅▅▅▅▅▅▅▅████▅  · +0 / 7d
-Repos         37  ▁▁▁▁▁▂▂▂▂▂▂▂▃▄▄▄▄▄▅▆▇▇▇▇██  · +3 / 7d
-Stars/30d      7  ▁▁▁█▁▁▁▁▁▁▁▁▁▁▁▁██▁▁▁▁██▁█▁▁█▁  · best day 1 · 7 new stars
+Stars         36  ▁▁▁▁▁▁▁▁▁▂▂▂▂▄▄▄▄▄▄▅▅▇▇▇███  · +2 / 7d
+Followers      8  ▁▁▁▁▁▁▁▅▅▅▅▅▅▅▅▅▅▅▅▅▅████▅▅  · +0 / 7d
+Repos         37  ▁▁▁▁▁▂▂▂▂▂▂▂▃▄▄▄▄▄▅▆▇▇▇▇███  · +2 / 7d
+Stars/30d      7  ▁▁█▁▁▁▁▁▁▁▁▁▁▁▁██▁▁▁▁██▁█▁▁█▁▁  · best day 1 · 7 new stars
 ```
 
 **Merged pull requests**
 
 | Pull request | Title | Merged |
 | --- | --- | --- |
-| [dsk-dev-ai/sheetcraft#17](https://github.com/dsk-dev-ai/sheetcraft/pull/17) | Add charts | `18h ago` |
-| [dsk-dev-ai/sheetcraft#16](https://github.com/dsk-dev-ai/sheetcraft/pull/16) | Add sorting and filtering | `19h ago` |
-| [dsk-dev-ai/sheetcraft#15](https://github.com/dsk-dev-ai/sheetcraft/pull/15) | Add multiple sheets | `19h ago` |
-| [dsk-dev-ai/sheetcraft#14](https://github.com/dsk-dev-ai/sheetcraft/pull/14) | Add resizable columns and rows | `20h ago` |
-| [dsk-dev-ai/sheetcraft#13](https://github.com/dsk-dev-ai/sheetcraft/pull/13) | Add cell borders | `20h ago` |
-| [dsk-dev-ai/sheetcraft#12](https://github.com/dsk-dev-ai/sheetcraft/pull/12) | Add cell formatting and number formats | `20h ago` |
+| [dsk-dev-ai/sheetcraft#17](https://github.com/dsk-dev-ai/sheetcraft/pull/17) | Add charts | `22h ago` |
+| [dsk-dev-ai/sheetcraft#16](https://github.com/dsk-dev-ai/sheetcraft/pull/16) | Add sorting and filtering | `23h ago` |
+| [dsk-dev-ai/sheetcraft#15](https://github.com/dsk-dev-ai/sheetcraft/pull/15) | Add multiple sheets | `23h ago` |
+| [dsk-dev-ai/sheetcraft#14](https://github.com/dsk-dev-ai/sheetcraft/pull/14) | Add resizable columns and rows | `1d ago` |
+| [dsk-dev-ai/sheetcraft#13](https://github.com/dsk-dev-ai/sheetcraft/pull/13) | Add cell borders | `1d ago` |
+| [dsk-dev-ai/sheetcraft#12](https://github.com/dsk-dev-ai/sheetcraft/pull/12) | Add cell formatting and number formats | `1d ago` |
 
 **Latest public activity**
 
-`18h ago` — merged a PR in [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "#17"
-`19h ago` — opened a PR in [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "#17"
+`22h ago` — merged a PR in [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "#17"
+`23h ago` — opened a PR in [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "#17"
 `1d ago` — starred [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft)
 `1d ago` — pushed `main` to [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof)
 `1d ago` — released [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "v1.1.2"
