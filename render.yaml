@@ -4,8 +4,8 @@
 # Deploy:
 #   1. Push this repo to GitHub (e.g. dsk-dev-ai/dsk-dev-ai).
 #   2. Render dashboard → New → Blueprint → select the repo (reads this file).
-#   3. Add env var GH_TOKEN (repo-scoped read token) so builds refresh live
-#      GitHub data instead of relying on the committed snapshot.
+#   3. Site data is refreshed hourly by .github/workflows/update-profile.yml
+#      and committed; Render builds from that snapshot.
 #   4. Custom domain darshankachare.com: Render shows the DNS records to add
 #      at your registrar (CNAME/A + verification TXT). HTTPS is provisioned
 #      automatically once DNS propagates.
@@ -15,15 +15,14 @@ services:
     name: darshankachare-com
     runtime: static
     rootDir: site
-    buildCommand: python3 ../scripts/export_site_data.py || true; npm ci && npm run build
+    # Data is refreshed and committed by the hourly GitHub Action
+    # (.github/workflows/update-profile.yml); the deploy builds from the
+    # committed snapshot so a rate-limited build can never publish bad data.
+    buildCommand: npm ci && npm run build
     staticPublishPath: ./out
     autoDeployTrigger: commit
     domains:
       - darshankachare.com
-    envVars:
-      # Optional but recommended: raises API limits while refreshing data at build.
-      - key: GH_TOKEN
-        sync: false
     buildFilter:
       # The hourly profile-bot commits (README.md / data/history.json) must not
       # trigger site rebuilds — only changes under site/ should.
