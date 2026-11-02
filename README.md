@@ -25,7 +25,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-02 00:39 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-02 06:13 UTC`
 
 ![Public_repos](https://img.shields.io/badge/Public_repos-37-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-36-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-8-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
@@ -35,7 +35,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 |  | Repo | Stars | Language | Latest commit |
 | --- | --- | --- | --- | --- |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%23dea584' title='Rust'> | [sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) | 1 | `Rust` | Add charts (#17) |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%23dea584' title='Rust'> | [sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) | 1 | `Rust` | Add freeze panes (#18) |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [erasureproof](https://github.com/dsk-dev-ai/erasureproof) | 1 | `Python` | Use styled shields CI badge |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [ghost-data-still-exists](https://github.com/dsk-dev-ai/ghost-data-still-exists) | 1 | `Python` | Document live Gemini-enabled demo |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [dsk-packages](https://github.com/dsk-dev-ai/dsk-packages) | 1 | `TypeScript` | fix: security overrides + dependency updates |
@@ -85,22 +85,23 @@ Stars/30d      7  ▁▁█▁▁▁▁▁▁▁▁▁▁▁▁██▁▁▁�
 
 | Pull request | Title | Merged |
 | --- | --- | --- |
-| [dsk-dev-ai/sheetcraft#17](https://github.com/dsk-dev-ai/sheetcraft/pull/17) | Add charts | `22h ago` |
-| [dsk-dev-ai/sheetcraft#16](https://github.com/dsk-dev-ai/sheetcraft/pull/16) | Add sorting and filtering | `23h ago` |
-| [dsk-dev-ai/sheetcraft#15](https://github.com/dsk-dev-ai/sheetcraft/pull/15) | Add multiple sheets | `23h ago` |
+| [dsk-dev-ai/sheetcraft#18](https://github.com/dsk-dev-ai/sheetcraft/pull/18) | Add freeze panes | `1h ago` |
+| [dsk-dev-ai/sheetcraft#17](https://github.com/dsk-dev-ai/sheetcraft/pull/17) | Add charts | `1d ago` |
+| [dsk-dev-ai/sheetcraft#16](https://github.com/dsk-dev-ai/sheetcraft/pull/16) | Add sorting and filtering | `1d ago` |
+| [dsk-dev-ai/sheetcraft#15](https://github.com/dsk-dev-ai/sheetcraft/pull/15) | Add multiple sheets | `1d ago` |
 | [dsk-dev-ai/sheetcraft#14](https://github.com/dsk-dev-ai/sheetcraft/pull/14) | Add resizable columns and rows | `1d ago` |
 | [dsk-dev-ai/sheetcraft#13](https://github.com/dsk-dev-ai/sheetcraft/pull/13) | Add cell borders | `1d ago` |
-| [dsk-dev-ai/sheetcraft#12](https://github.com/dsk-dev-ai/sheetcraft/pull/12) | Add cell formatting and number formats | `1d ago` |
 
 **Latest public activity**
 
-`22h ago` — merged a PR in [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "#17"
-`23h ago` — opened a PR in [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "#17"
+`1h ago` — merged a PR in [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "#18"
+`1h ago` — opened a PR in [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "#18"
+`1d ago` — created branch [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "docs/screenshot"
+`1d ago` — pushed `main` to [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft)
+`1d ago` — deleted branch [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "feat/reference-highlighting"
 `1d ago` — starred [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft)
-`1d ago` — pushed `main` to [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof)
-`1d ago` — released [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "v1.1.2"
-`2d ago` — closed an issue in [interviewstreet/hackerrank-orchestrate-october26](https://github.com/interviewstreet/hackerrank-orchestrate-october26) — "#38 Clarification request: ErasureProof-based implementation for Ghost Data Sti…"
-`4d ago` — pushed `main` to [dsk-dev-ai/ghost-data-still-exists](https://github.com/dsk-dev-ai/ghost-data-still-exists)
+`2d ago` — pushed `main` to [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof)
+`2d ago` — released [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof) — "v1.1.2"
 
 **Language mix**
 
