@@ -194,6 +194,18 @@ def upstream_prs(
     return found
 
 
+def organization_repos(client: GitHubClient, org: str) -> list[str]:
+    """Public repository full names for an org, for direct PR scanning."""
+    from profilegen.github import paginate
+
+    items = paginate(
+        client,
+        f"https://api.github.com/orgs/{org}/repos?type=public&per_page=100",
+        limit=500,
+    )
+    return [item["full_name"] for item in items if item.get("full_name")]
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--out", default=str(DEFAULT_OUT))
@@ -216,7 +228,22 @@ def main() -> int:
     known = {pr["repo"] for pr in indexed}
     upstream = indexed + upstream_prs(client, config.user, config.upstream, known)
 
-    merged = [pr for pr in searched if pr["repo"] not in upstream_set] + upstream
+    # The search index can hide PRs in org-owned repos from app/installation
+    # tokens, so scan owned and org repositories directly as well.
+    direct: list[dict] = []
+    if client.token:
+        direct_repos = [r.full_name for r in owned]
+        direct_repos += organization_repos(client, "nextgenai-labs")
+        direct = upstream_prs(client, config.user, tuple(dict.fromkeys(direct_repos)), set())
+
+    merged_by_key: dict[tuple[str, int], dict] = {}
+    for pr in searched:
+        if pr["repo"] in upstream_set:
+            continue
+        merged_by_key[(pr["repo"], pr["number"])] = pr
+    for pr in direct:
+        merged_by_key[(pr["repo"], pr["number"])] = pr
+    merged = list(merged_by_key.values()) + upstream
     merged.sort(key=lambda pr: pr["merged_at"], reverse=True)
     by_repo: Counter[str] = Counter(pr["repo"] for pr in merged)
     buckets: dict[str, list[dict]] = {"upstream": [], "org": [], "own": []}
