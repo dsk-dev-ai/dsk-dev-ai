@@ -25,21 +25,21 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-02 07:38 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-02 18:16 UTC`
 
-![Public_repos](https://img.shields.io/badge/Public_repos-37-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-36-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-8-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
+![Public_repos](https://img.shields.io/badge/Public_repos-38-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-37-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-8-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
-![Stars_7d](https://img.shields.io/badge/Stars_7d-%2B2-6c8cff?style=for-the-badge)
+![Stars_7d](https://img.shields.io/badge/Stars_7d-%2B3-6c8cff?style=for-the-badge)
 
 **Recently pushed**
 
 |  | Repo | Stars | Language | Latest commit |
 | --- | --- | --- | --- | --- |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%23f1e05a' title='JavaScript'> | [bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) | 1 | `JavaScript` | fix: align submission with Amplify-only deployment |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%23dea584' title='Rust'> | [sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) | 1 | `Rust` | Add freeze panes (#18) |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [erasureproof](https://github.com/dsk-dev-ai/erasureproof) | 1 | `Python` | Use styled shields CI badge |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [ghost-data-still-exists](https://github.com/dsk-dev-ai/ghost-data-still-exists) | 1 | `Python` | Document live Gemini-enabled demo |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [dsk-packages](https://github.com/dsk-dev-ai/dsk-packages) | 1 | `TypeScript` | fix: security overrides + dependency updates |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai) | 1 | `TypeScript` | Merge pull request #2 from dsk-dev-ai/chore/refresh-paypilo… |
 
 **Highlights** · curated
 
@@ -75,39 +75,41 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 **Growth**
 
 ```
-Stars         36  ▁▁▁▁▁▁▁▁▁▂▂▂▂▄▄▄▄▄▄▅▅▇▇▇███  · +2 / 7d
+Stars         37  ▁▁▁▁▁▁▁▁▁▂▂▂▂▃▃▃▃▃▃▅▅▆▆▆▇▇█  · +3 / 7d
 Followers      8  ▁▁▁▁▁▁▁▅▅▅▅▅▅▅▅▅▅▅▅▅▅████▅▅  · +0 / 7d
-Repos         37  ▁▁▁▁▁▂▂▂▂▂▂▂▃▄▄▄▄▄▅▆▇▇▇▇███  · +2 / 7d
-Stars/30d      7  ▁▁█▁▁▁▁▁▁▁▁▁▁▁▁██▁▁▁▁██▁█▁▁█▁▁  · best day 1 · 7 new stars
+Repos         38  ▁▁▁▁▁▂▂▂▂▂▂▂▃▄▄▄▄▄▅▅▆▆▆▆▇▇█  · +3 / 7d
+Stars/30d      8  ▁▁█▁▁▁▁▁▁▁▁▁▁▁▁██▁▁▁▁██▁█▁▁█▁█  · best day 1 · 8 new stars
 ```
 
 **Merged pull requests**
 
 | Pull request | Title | Merged |
 | --- | --- | --- |
-| [dsk-dev-ai/sheetcraft#18](https://github.com/dsk-dev-ai/sheetcraft/pull/18) | Add freeze panes | `2h ago` |
-| [dsk-dev-ai/sheetcraft#17](https://github.com/dsk-dev-ai/sheetcraft/pull/17) | Add charts | `1d ago` |
-| [dsk-dev-ai/sheetcraft#16](https://github.com/dsk-dev-ai/sheetcraft/pull/16) | Add sorting and filtering | `1d ago` |
-| [dsk-dev-ai/sheetcraft#15](https://github.com/dsk-dev-ai/sheetcraft/pull/15) | Add multiple sheets | `1d ago` |
-| [dsk-dev-ai/sheetcraft#14](https://github.com/dsk-dev-ai/sheetcraft/pull/14) | Add resizable columns and rows | `1d ago` |
-| [dsk-dev-ai/sheetcraft#13](https://github.com/dsk-dev-ai/sheetcraft/pull/13) | Add cell borders | `1d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#8](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/8) | release: v1.5.0 — cabinet export and reset | `5h ago` |
+| [dsk-dev-ai/bugdrop-portfolio#7](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/7) | release: v1.4.0 — unlocked superpower profile | `5h ago` |
+| [dsk-dev-ai/bugdrop-portfolio#6](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/6) | docs: v1.3.1 — submission screenshots | `5h ago` |
+| [dsk-dev-ai/bugdrop-portfolio#5](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/5) | release: v1.3.0 — AWS architecture on the live site | `5h ago` |
+| [dsk-dev-ai/bugdrop-portfolio#4](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/4) | release: v1.2.0 — capsule cabinet and shareable deep links | `5h ago` |
+| [dsk-dev-ai/bugdrop-portfolio#3](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/3) | release: v1.1.0 — deploy readiness polish | `6h ago` |
 
 **Latest public activity**
 
-`2h ago` — merged a PR in [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "#18"
-`2h ago` — opened a PR in [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "#18"
-`1d ago` — created branch [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "docs/screenshot"
-`1d ago` — deleted branch [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "feat/range-selection"
-`1d ago` — pushed `main` to [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft)
-`1d ago` — starred [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft)
-`2d ago` — pushed `main` to [dsk-dev-ai/erasureproof](https://github.com/dsk-dev-ai/erasureproof)
+`4h ago` — starred [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio)
+`5h ago` — starred [tabloy/keygate](https://github.com/tabloy/keygate)
+`5h ago` — released [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) — "v1.5.0"
+`5h ago` — merged a PR in [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) — "#8"
+`5h ago` — opened a PR in [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) — "#8"
+`6h ago` — made public [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio)
+`13h ago` — merged a PR in [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "#18"
+`13h ago` — opened a PR in [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "#18"
 
 **Language mix**
 
 ```
-Python             65%  ███████████████
-TypeScript         26%  ██████
+Python             62%  ███████████████
+TypeScript         25%  ██████
 Rust                6%  ██
+JavaScript          3%  █
 Dart                3%  █
 ```
 
