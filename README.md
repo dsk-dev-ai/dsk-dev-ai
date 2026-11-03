@@ -25,7 +25,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-03 16:11 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-03 21:44 UTC`
 
 ![Public_repos](https://img.shields.io/badge/Public_repos-38-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-37-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-8-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
@@ -100,8 +100,8 @@ Stars/30d      8  ▁█▁▁▁▁▁▁▁▁▁▁▁▁██▁▁▁▁�
 `1d ago` — merged a PR in [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) — "#8"
 `1d ago` — opened a PR in [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) — "#8"
 `1d ago` — made public [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio)
-`1d ago` — pushed `main` to [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft)
-`2d ago` — deleted branch [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "add-charts"
+`1d ago` — pushed `main` to [dsk-dev-ai/dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai)
+`1d ago` — deleted branch [dsk-dev-ai/sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) — "add-freeze-panes"
 
 **Language mix**
 
