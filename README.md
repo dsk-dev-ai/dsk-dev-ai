@@ -25,11 +25,11 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-04 02:17 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-04 10:49 UTC`
 
-![Public_repos](https://img.shields.io/badge/Public_repos-38-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-37-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-8-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
+![Public_repos](https://img.shields.io/badge/Public_repos-38-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-39-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-9-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
-![Stars_7d](https://img.shields.io/badge/Stars_7d-%2B2-6c8cff?style=for-the-badge) ![Followers_7d](https://img.shields.io/badge/Followers_7d---1-0ea5e9?style=for-the-badge)
+![Stars_7d](https://img.shields.io/badge/Stars_7d-%2B4-6c8cff?style=for-the-badge)
 
 **Recently pushed**
 
@@ -47,8 +47,8 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 | --- | --- | --- | --- | --- |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [mcp-nexus](https://github.com/dsk-dev-ai/mcp-nexus) | 1 | `TypeScript` | The intelligent routing & discovery layer for MCP tools. One umbrella endpoint in front of hund… |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [textrieve](https://github.com/dsk-dev-ai/textrieve) | 2 | `Python` | Free, private image-to-text (OCR). Web UI, REST API & CLI in one repo — FastAPI + RapidOCR (ONN… |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [repoarch](https://github.com/dsk-dev-ai/repoarch) | 4 | `Python` | Turn any codebase into beautiful architecture diagrams — one command, no AI, no server, runs on… |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas) | 2 | `TypeScript` | Open-source API & website uptime monitoring SaaS — periodic HTTP health checks, uptime/response… |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [repoarch](https://github.com/dsk-dev-ai/repoarch) | 5 | `Python` | Turn any codebase into beautiful architecture diagrams — one command, no AI, no server, runs on… |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas) | 3 | `TypeScript` | Open-source API & website uptime monitoring SaaS — periodic HTTP health checks, uptime/response… |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [ai-model-router](https://github.com/dsk-dev-ai/ai-model-router) | 2 | `Python` | OpenAI-compatible LLM gateway: route to the best/cheapest/fastest model, automatic fallback on… |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [dsk-packages](https://github.com/dsk-dev-ai/dsk-packages) | 1 | `TypeScript` | A collection of high-quality TypeScript packages, developer utilities, and open-source tools. |
 
@@ -56,9 +56,9 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 | Repo | Stars | Description |
 | --- | --- | --- |
-| [repoarch](https://github.com/dsk-dev-ai/repoarch) | 4 | Turn any codebase into beautiful architecture diagrams — one command, no AI, no server, r… |
+| [repoarch](https://github.com/dsk-dev-ai/repoarch) | 5 | Turn any codebase into beautiful architecture diagrams — one command, no AI, no server, r… |
+| [api-monitor-saas](https://api-monitor-saas-frontend.vercel.app) | 3 | Open-source API & website uptime monitoring SaaS — periodic HTTP health checks, uptime/re… |
 | [ai-model-router](https://github.com/dsk-dev-ai/ai-model-router) | 2 | OpenAI-compatible LLM gateway: route to the best/cheapest/fastest model, automatic fallba… |
-| [api-monitor-saas](https://api-monitor-saas-frontend.vercel.app) | 2 | Open-source API & website uptime monitoring SaaS — periodic HTTP health checks, uptime/re… |
 | [textrieve](https://textrieve.onrender.com) | 2 | Free, private image-to-text (OCR). Web UI, REST API & CLI in one repo — FastAPI + RapidOC… |
 
 **Repository health**
@@ -75,8 +75,8 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 **Growth**
 
 ```
-Stars         37  ▁▁▁▁▁▁▁▁▁▂▂▂▂▃▃▃▃▃▃▅▅▆▆▆▇▇███  · +2 / 7d
-Followers      8  ▁▁▁▁▁▁▁▅▅▅▅▅▅▅▅▅▅▅▅▅▅████▅▅▅▅  · -1 / 7d
+Stars         39  ▁▁▁▁▁▁▁▁▁▂▂▂▂▃▃▃▃▃▃▄▄▅▅▅▅▅▆▆█  · +4 / 7d
+Followers      9  ▁▁▁▁▁▁▁▅▅▅▅▅▅▅▅▅▅▅▅▅▅████▅▅▅█  · +0 / 7d
 Repos         38  ▁▁▁▁▁▂▂▂▂▂▂▂▃▄▄▄▄▄▅▅▆▆▆▆▇▇███  · +2 / 7d
 Stars/30d      8  █▁▁▁▁▁▁▁▁▁▁▁▁██▁▁▁▁██▁█▁▁█▁█▁▁  · best day 1 · 8 new stars
 ```
@@ -97,11 +97,11 @@ Stars/30d      8  █▁▁▁▁▁▁▁▁▁▁▁▁██▁▁▁▁█�
 `1d ago` — starred [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio)
 `1d ago` — starred [tabloy/keygate](https://github.com/tabloy/keygate)
 `1d ago` — released [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) — "v1.5.0"
+`1d ago` — deleted branch [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) — "release/v1.5.0"
 `1d ago` — pushed `main` to [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio)
 `1d ago` — merged a PR in [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) — "#8"
 `1d ago` — opened a PR in [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) — "#8"
-`1d ago` — deleted branch [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) — "release/v1.3.0"
-`1d ago` — pushed `release/v1.2.0` to [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio)
+`1d ago` — created branch [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) — "release/v1.5.0"
 
 **Language mix**
 
