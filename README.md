@@ -25,9 +25,9 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-05 16:26 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-05 22:39 UTC`
 
-![Public_repos](https://img.shields.io/badge/Public_repos-38-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-39-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-9-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
+![Public_repos](https://img.shields.io/badge/Public_repos-39-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-39-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-9-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
 ![Stars_7d](https://img.shields.io/badge/Stars_7d-%2B4-6c8cff?style=for-the-badge)
 
@@ -35,11 +35,11 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 |  | Repo | Stars | Language | Latest commit |
 | --- | --- | --- | --- | --- |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [sandbox-bridge](https://github.com/dsk-dev-ai/sandbox-bridge) | 0 | `TypeScript` | Build Proving Ground sandbox bridge with live Resend alert… |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas) | 3 | `TypeScript` | Reject empty bearer tokens without loading a provider |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%23f1e05a' title='JavaScript'> | [bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) | 1 | `JavaScript` | fix: align submission with Amplify-only deployment |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%23dea584' title='Rust'> | [sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) | 1 | `Rust` | Add freeze panes (#18) |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [erasureproof](https://github.com/dsk-dev-ai/erasureproof) | 1 | `Python` | Use styled shields CI badge |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [ghost-data-still-exists](https://github.com/dsk-dev-ai/ghost-data-still-exists) | 1 | `Python` | Document live Gemini-enabled demo |
 
 **Highlights** · curated
 
@@ -77,7 +77,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 ```
 Stars         39  ▁▁▁▁▁▁▁▁▁▂▂▂▂▃▃▃▃▃▃▄▄▅▅▅▅▅▆▆██  · +4 / 7d
 Followers      9  ▁▁▁▁▁▁▁▅▅▅▅▅▅▅▅▅▅▅▅▅▅████▅▅▅██  · +0 / 7d
-Repos         38  ▁▁▁▁▁▂▂▂▂▂▂▂▃▄▄▄▄▄▅▅▆▆▆▆▇▇████  · +2 / 7d
+Repos         39  ▁▁▁▁▁▂▂▂▂▂▂▂▃▃▃▃▃▃▄▅▆▆▆▆▆▆▇▇▇█  · +3 / 7d
 Stars/30d      7  ▁▁▁▁▁▁▁▁▁▁▁▁██▁▁▁▁██▁█▁▁█▁█▁▁▁  · best day 1 · 7 new stars
 ```
 
@@ -94,21 +94,21 @@ Stars/30d      7  ▁▁▁▁▁▁▁▁▁▁▁▁██▁▁▁▁██�
 
 **Latest public activity**
 
-`2d ago` — pushed `main` to [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio)
+`5h ago` — created branch [dsk-dev-ai/sandbox-bridge](https://github.com/dsk-dev-ai/sandbox-bridge) — "main"
+`6h ago` — pushed `main` to [dsk-dev-ai/api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas)
+`3d ago` — pushed `main` to [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio)
 `3d ago` — starred [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio)
 `3d ago` — starred [tabloy/keygate](https://github.com/tabloy/keygate)
 `3d ago` — released [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) — "v1.5.0"
 `3d ago` — deleted branch [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) — "release/v1.5.0"
 `3d ago` — merged a PR in [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) — "#8"
-`3d ago` — opened a PR in [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) — "#8"
-`3d ago` — created branch [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) — "release/v1.5.0"
 
 **Language mix**
 
 ```
-Python             62%  ███████████████
-TypeScript         25%  ██████
-Rust                6%  ██
+Python             61%  ███████████████
+TypeScript         27%  ███████
+Rust                6%  █
 JavaScript          3%  █
 Dart                3%  █
 ```
