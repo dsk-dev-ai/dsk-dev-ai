@@ -25,7 +25,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-05 07:53 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-05 16:26 UTC`
 
 ![Public_repos](https://img.shields.io/badge/Public_repos-38-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-39-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-9-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
@@ -35,11 +35,11 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 |  | Repo | Stars | Language | Latest commit |
 | --- | --- | --- | --- | --- |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [api-monitor-saas](https://github.com/dsk-dev-ai/api-monitor-saas) | 3 | `TypeScript` | Reject empty bearer tokens without loading a provider |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%23f1e05a' title='JavaScript'> | [bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) | 1 | `JavaScript` | fix: align submission with Amplify-only deployment |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%23dea584' title='Rust'> | [sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) | 1 | `Rust` | Add freeze panes (#18) |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [erasureproof](https://github.com/dsk-dev-ai/erasureproof) | 1 | `Python` | Use styled shields CI badge |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [ghost-data-still-exists](https://github.com/dsk-dev-ai/ghost-data-still-exists) | 1 | `Python` | Document live Gemini-enabled demo |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [dsk-packages](https://github.com/dsk-dev-ai/dsk-packages) | 1 | `TypeScript` | fix: security overrides + dependency updates |
 
 **Highlights** · curated
 
@@ -57,7 +57,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 | Repo | Stars | Description |
 | --- | --- | --- |
 | [repoarch](https://github.com/dsk-dev-ai/repoarch) | 5 | Turn any codebase into beautiful architecture diagrams — one command, no AI, no server, r… |
-| [api-monitor-saas](https://api-monitor-saas-frontend.vercel.app) | 3 | Open-source API & website uptime monitoring SaaS — periodic HTTP health checks, uptime/re… |
+| [api-monitor-saas](https://api-monitor-frontend-t2c1.onrender.com) | 3 | Open-source API & website uptime monitoring SaaS — periodic HTTP health checks, uptime/re… |
 | [ai-model-router](https://github.com/dsk-dev-ai/ai-model-router) | 2 | OpenAI-compatible LLM gateway: route to the best/cheapest/fastest model, automatic fallba… |
 | [textrieve](https://textrieve.onrender.com) | 2 | Free, private image-to-text (OCR). Web UI, REST API & CLI in one repo — FastAPI + RapidOC… |
 
@@ -85,23 +85,23 @@ Stars/30d      7  ▁▁▁▁▁▁▁▁▁▁▁▁██▁▁▁▁██�
 
 | Pull request | Title | Merged |
 | --- | --- | --- |
-| [dsk-dev-ai/bugdrop-portfolio#8](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/8) | release: v1.5.0 — cabinet export and reset | `2d ago` |
-| [dsk-dev-ai/bugdrop-portfolio#7](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/7) | release: v1.4.0 — unlocked superpower profile | `2d ago` |
-| [dsk-dev-ai/bugdrop-portfolio#6](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/6) | docs: v1.3.1 — submission screenshots | `2d ago` |
-| [dsk-dev-ai/bugdrop-portfolio#5](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/5) | release: v1.3.0 — AWS architecture on the live site | `2d ago` |
-| [dsk-dev-ai/bugdrop-portfolio#4](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/4) | release: v1.2.0 — capsule cabinet and shareable deep links | `2d ago` |
-| [dsk-dev-ai/bugdrop-portfolio#3](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/3) | release: v1.1.0 — deploy readiness polish | `2d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#8](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/8) | release: v1.5.0 — cabinet export and reset | `3d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#7](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/7) | release: v1.4.0 — unlocked superpower profile | `3d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#6](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/6) | docs: v1.3.1 — submission screenshots | `3d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#5](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/5) | release: v1.3.0 — AWS architecture on the live site | `3d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#4](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/4) | release: v1.2.0 — capsule cabinet and shareable deep links | `3d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#3](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/3) | release: v1.1.0 — deploy readiness polish | `3d ago` |
 
 **Latest public activity**
 
 `2d ago` — pushed `main` to [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio)
-`2d ago` — starred [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio)
-`2d ago` — starred [tabloy/keygate](https://github.com/tabloy/keygate)
-`2d ago` — released [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) — "v1.5.0"
-`2d ago` — deleted branch [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) — "release/v1.5.0"
-`2d ago` — merged a PR in [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) — "#8"
-`2d ago` — opened a PR in [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) — "#8"
-`2d ago` — created branch [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) — "release/v1.5.0"
+`3d ago` — starred [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio)
+`3d ago` — starred [tabloy/keygate](https://github.com/tabloy/keygate)
+`3d ago` — released [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) — "v1.5.0"
+`3d ago` — deleted branch [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) — "release/v1.5.0"
+`3d ago` — merged a PR in [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) — "#8"
+`3d ago` — opened a PR in [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) — "#8"
+`3d ago` — created branch [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) — "release/v1.5.0"
 
 **Language mix**
 
