@@ -361,12 +361,12 @@
     },
     {
       "date": "2026-11-06",
-      "stars": 39,
+      "stars": 36,
       "followers": 9,
-      "repos": 39,
+      "repos": 38,
       "languages": {
         "Python": 21,
-        "TypeScript": 9,
+        "TypeScript": 8,
         "Rust": 2,
         "JavaScript": 1,
         "Dart": 1
