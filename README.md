@@ -25,11 +25,9 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-06 19:19 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-07 00:05 UTC`
 
 ![Public_repos](https://img.shields.io/badge/Public_repos-38-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-36-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-9-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
-
-![Stars_7d](https://img.shields.io/badge/Stars_7d-%2B1-6c8cff?style=for-the-badge)
 
 **Recently pushed**
 
@@ -75,10 +73,10 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 **Growth**
 
 ```
-Stars         36  ▁▁▁▁▁▁▁▁▁▂▂▂▂▃▃▃▃▃▃▄▄▅▅▅▅▅▆▆██▅  · +1 / 7d · +5 / 30d
-Followers      9  ▁▁▁▁▁▁▁▅▅▅▅▅▅▅▅▅▅▅▅▅▅████▅▅▅███  · +0 / 7d · +2 / 30d
-Repos         38  ▁▁▁▁▁▂▂▂▂▂▂▂▃▃▃▃▃▃▄▅▆▆▆▆▆▆▇▇▇█▇  · +2 / 7d · +8 / 30d
-Stars/30d      7  ▁▁▁▁▁▁▁▁▁▁▁██▁▁▁▁██▁█▁▁█▁█▁▁▁▁  · best day 1 · 7 new stars
+Stars         36  ▁▁▁▁▁▁▁▁▁▂▂▂▂▃▃▃▃▃▃▄▄▅▅▅▅▅▆▆██▅▅  · +0 / 7d · +5 / 30d
+Followers      9  ▁▁▁▁▁▁▁▅▅▅▅▅▅▅▅▅▅▅▅▅▅████▅▅▅████  · +0 / 7d · +2 / 30d
+Repos         38  ▁▁▁▁▁▂▂▂▂▂▂▂▃▃▃▃▃▃▄▅▆▆▆▆▆▆▇▇▇█▇▇  · +1 / 7d · +8 / 30d
+Stars/30d      7  ▁▁▁▁▁▁▁▁▁▁██▁▁▁▁██▁█▁▁█▁█▁▁▁▁▁  · best day 1 · 7 new stars
 ```
 
 **Merged pull requests**
@@ -94,7 +92,7 @@ Stars/30d      7  ▁▁▁▁▁▁▁▁▁▁▁██▁▁▁▁██▁�
 
 **Latest public activity**
 
-`8h ago` — pushed `main` to [dsk-dev-ai/sandbox-bridge](https://github.com/dsk-dev-ai/sandbox-bridge)
+`12h ago` — pushed `main` to [dsk-dev-ai/sandbox-bridge](https://github.com/dsk-dev-ai/sandbox-bridge)
 `1d ago` — created branch [dsk-dev-ai/sandbox-bridge](https://github.com/dsk-dev-ai/sandbox-bridge) — "main"
 `4d ago` — pushed `main` to [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio)
 `4d ago` — starred [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio)
