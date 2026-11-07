@@ -25,11 +25,11 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-07 12:54 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-07 18:01 UTC`
 
-![Public_repos](https://img.shields.io/badge/Public_repos-38-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-36-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-10-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
+![Public_repos](https://img.shields.io/badge/Public_repos-38-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-37-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-10-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
-![Followers_7d](https://img.shields.io/badge/Followers_7d-%2B1-0ea5e9?style=for-the-badge)
+![Stars_7d](https://img.shields.io/badge/Stars_7d-%2B1-6c8cff?style=for-the-badge) ![Followers_7d](https://img.shields.io/badge/Followers_7d-%2B1-0ea5e9?style=for-the-badge)
 
 **Recently pushed**
 
@@ -57,9 +57,9 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 | Repo | Stars | Description |
 | --- | --- | --- |
 | [repoarch](https://github.com/dsk-dev-ai/repoarch) | 5 | Turn any codebase into beautiful architecture diagrams — one command, no AI, no server, r… |
+| [bookforge-ai](https://github.com/dsk-dev-ai/bookforge-ai) | 2 | AI-powered technical eBook production platform for researching, writing, reviewing, forma… |
 | [ai-model-router](https://github.com/dsk-dev-ai/ai-model-router) | 2 | OpenAI-compatible LLM gateway: route to the best/cheapest/fastest model, automatic fallba… |
 | [textrieve](https://textrieve.onrender.com) | 2 | Free, private image-to-text (OCR). Web UI, REST API & CLI in one repo — FastAPI + RapidOC… |
-| [GenomeAI](https://genomeai.vercel.app) | 2 | Open-source AI platform for genomics & bioinformatics — 18 free public genome research to… |
 
 **Repository health**
 
@@ -70,12 +70,12 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 | [GenomeAI](https://github.com/dsk-dev-ai/GenomeAI) | 100% | 7/7 | all green |
 | [ai-model-router](https://github.com/dsk-dev-ai/ai-model-router) | 100% | 7/7 | all green |
 | [ai-blog-writer](https://github.com/dsk-dev-ai/ai-blog-writer) | 86% | 6/7 | release |
-| [bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) | 100% | 7/7 | all green |
+| [bookforge-ai](https://github.com/dsk-dev-ai/bookforge-ai) | 86% | 6/7 | release |
 
 **Growth**
 
 ```
-Stars         36  ▁▁▁▁▁▁▁▁▁▂▂▂▂▃▃▃▃▃▃▄▄▅▅▅▅▅▆▆██▅▅  · +0 / 7d · +5 / 30d
+Stars         37  ▁▁▁▁▁▁▁▁▁▂▂▂▂▃▃▃▃▃▃▄▄▅▅▅▅▅▆▆██▅▆  · +1 / 7d · +6 / 30d
 Followers     10  ▁▁▁▁▁▁▁▃▃▃▃▃▃▃▃▃▃▃▃▃▃▆▆▆▆▃▃▃▆▆▆█  · +1 / 7d · +3 / 30d
 Repos         38  ▁▁▁▁▁▂▂▂▂▂▂▂▃▃▃▃▃▃▄▅▆▆▆▆▆▆▇▇▇█▇▇  · +1 / 7d · +8 / 30d
 Stars/30d      7  ▁▁▁▁▁▁▁▁▁▁██▁▁▁▁██▁█▁▁█▁█▁▁▁▁▁  · best day 1 · 7 new stars
@@ -94,11 +94,11 @@ Stars/30d      7  ▁▁▁▁▁▁▁▁▁▁██▁▁▁▁██▁█�
 
 **Latest public activity**
 
-`1d ago` — pushed `main` to [dsk-dev-ai/sandbox-bridge](https://github.com/dsk-dev-ai/sandbox-bridge)
-`1d ago` — created branch [dsk-dev-ai/sandbox-bridge](https://github.com/dsk-dev-ai/sandbox-bridge) — "main"
-`4d ago` — pushed `main` to [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio)
-`4d ago` — starred [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio)
-`4d ago` — starred [tabloy/keygate](https://github.com/tabloy/keygate)
+`15h ago` — pushed `main` to [dsk-dev-ai/sandbox-bridge](https://github.com/dsk-dev-ai/sandbox-bridge)
+`2d ago` — created branch [dsk-dev-ai/sandbox-bridge](https://github.com/dsk-dev-ai/sandbox-bridge) — "main"
+`5d ago` — pushed `main` to [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio)
+`5d ago` — starred [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio)
+`5d ago` — starred [tabloy/keygate](https://github.com/tabloy/keygate)
 `5d ago` — released [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) — "v1.5.0"
 `5d ago` — deleted branch [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) — "release/v1.5.0"
 `5d ago` — merged a PR in [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) — "#8"
