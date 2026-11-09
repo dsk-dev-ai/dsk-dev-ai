@@ -94,7 +94,7 @@ export function ButtonLink({
 }) {
   const styles =
     variant === "primary"
-      ? "bg-accent text-[#08101f] hover:bg-[#8aa4ff]"
+      ? "bg-accent text-[var(--color-on-accent)] hover:brightness-110"
       : "border border-line text-ink hover:border-accent/60 hover:bg-accent-soft";
 
   return (

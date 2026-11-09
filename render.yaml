@@ -25,6 +25,7 @@ services:
     autoDeployTrigger: commit
     domains:
       - darshankachare.com
+      - www.darshankachare.com
     buildFilter:
       # The hourly profile-bot commits (README.md / data/history.json) must not
       # trigger site rebuilds — only changes under site/ should.
@@ -37,6 +38,21 @@ services:
       - path: /opengraph-image
         name: Content-Type
         value: image/png
+      - path: /feed.xml
+        name: Content-Type
+        value: application/rss+xml; charset=utf-8
+      - path: /feed.xml
+        name: Cache-Control
+        value: public, max-age=3600
+      - path: /data.json
+        name: Content-Type
+        value: application/json; charset=utf-8
+      - path: /data.json
+        name: Cache-Control
+        value: public, max-age=300, must-revalidate
+      - path: /manifest.webmanifest
+        name: Content-Type
+        value: application/manifest+json
       - path: /_next/static/*
         name: Cache-Control
         value: public, max-age=31536000, immutable

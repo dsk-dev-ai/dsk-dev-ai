@@ -16,6 +16,7 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     # Optional PAT with public-repo read access. The default GITHUB_TOKEN is
     # scoped to this repository and its search/PAT visibility hides org PRs,
     # so only use it for the site export when a PAT is configured.
@@ -68,6 +69,9 @@ jobs:
               print(f"export undercounted merged PRs ({new_total} < {old_total}); keeping committed snapshot")
               subprocess.check_call(["git", "checkout", "HEAD", "--", "site/data/profile.json"])
           PY
+
+      - name: Validate site data
+        run: python3 scripts/validate_site_data.py --max-age-hours 30
 
       - name: Commit and push if changed
         run: |

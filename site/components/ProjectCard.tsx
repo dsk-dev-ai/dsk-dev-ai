@@ -1,6 +1,7 @@
 import Link from "next/link";
+import TimeAgo from "@/components/TimeAgo";
 import { Badge, LanguageDot, Stars } from "@/components/ui";
-import { timeAgo, type Project } from "@/lib/data";
+import type { Project } from "@/lib/data";
 
 export default function ProjectCard({
   project,
@@ -11,18 +12,21 @@ export default function ProjectCard({
 }) {
   return (
     <article
-      className={`card group relative flex flex-col p-5 transition duration-300 hover:border-accent/50 hover:shadow-glow ${
+      className={`card card-spotlight group relative flex flex-col p-5 transition duration-300 hover:border-accent/50 hover:shadow-glow ${
         featured ? "sm:p-6" : ""
       }`}
     >
-      <div className="flex items-start justify-between gap-3">
+      <div className="relative z-10 flex items-start justify-between gap-3">
         <div className="min-w-0">
-          <h3 className="truncate text-base font-semibold tracking-tight">
-            <Link href={`/projects/${project.slug}/`} className="after:absolute after:inset-0">
-              {project.name}
-              <span className="sr-only"> (project detail)</span>
-            </Link>
-          </h3>
+          <div className="flex flex-wrap items-center gap-2">
+            <h3 className="truncate text-base font-semibold tracking-tight">
+              <Link href={`/projects/${project.slug}/`} className="after:absolute after:inset-0">
+                {project.name}
+                <span className="sr-only"> (project detail)</span>
+              </Link>
+            </h3>
+            {featured && <Badge tone="accent">featured</Badge>}
+          </div>
           {project.homepage && (
             <a
               href={project.homepage}
@@ -37,21 +41,22 @@ export default function ProjectCard({
         <Stars value={project.stars} />
       </div>
 
-      <p className="mt-3 line-clamp-3 flex-1 text-sm leading-relaxed text-muted">
+      <p className="relative z-10 mt-3 line-clamp-3 flex-1 text-sm leading-relaxed text-muted">
         {project.description ?? "No description provided."}
       </p>
 
       {project.topics.length > 0 && (
-        <div className="mt-4 flex flex-wrap gap-1.5">
+        <div className="relative z-10 mt-4 flex flex-wrap gap-1.5">
           {project.topics.slice(0, 3).map((topic) => (
             <Badge key={topic}>{topic}</Badge>
           ))}
         </div>
       )}
 
-      <div className="mt-4 flex flex-wrap items-center gap-x-4 gap-y-2 border-t border-line pt-4">
+      <div className="relative z-10 mt-4 flex flex-wrap items-center gap-x-4 gap-y-2 border-t border-line pt-4">
         <LanguageDot name={project.language} />
-        <span className="text-xs text-faint">{timeAgo(project.pushed_at)}</span>
+        <TimeAgo iso={project.pushed_at} className="text-xs text-faint" />
+        {project.latest_release?.tag && <Badge tone="emerald">{project.latest_release.tag}</Badge>}
         {project.archived && <Badge tone="amber">archived</Badge>}
       </div>
     </article>

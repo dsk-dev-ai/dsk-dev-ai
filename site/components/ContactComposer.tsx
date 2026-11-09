@@ -7,23 +7,23 @@ export default function ContactComposer() {
   const [name, setName] = useState("");
   const [sender, setSender] = useState("");
   const [message, setMessage] = useState("");
-  const [copied, setCopied] = useState(false);
+  const [copied, setCopied] = useState<string | null>(null);
 
   const subject = encodeURIComponent(
-    `Hello Darshan${name ? ` — from ${name}` : ""} [via ${SITE.domain}]`,
+    `Hello Darshan${name ? ` - from ${name}` : ""} [via ${SITE.domain}]`,
   );
   const body = encodeURIComponent(
-    `${message}${sender ? `\n\n— ${name || "Someone"} (${sender})` : ""}`,
+    `${message}${sender ? `\n\n- ${name || "Someone"} (${sender})` : ""}`,
   );
   const canSend = message.trim().length > 0;
 
-  async function copyEmail() {
+  async function copyEmail(email: string) {
     try {
-      await navigator.clipboard.writeText(SITE.email);
-      setCopied(true);
-      setTimeout(() => setCopied(false), 2000);
+      await navigator.clipboard.writeText(email);
+      setCopied(email);
+      setTimeout(() => setCopied(null), 2000);
     } catch {
-      setCopied(false);
+      setCopied(null);
     }
   }
 
@@ -32,15 +32,17 @@ export default function ContactComposer() {
       <div className="card p-6 sm:p-8">
         <h2 className="text-lg font-semibold">Write a message</h2>
         <p className="mt-1 text-sm text-muted">
-          This opens your mail app with everything prefilled — nothing is stored
-          or sent through a server.
+          This opens your mail app with everything prefilled - nothing is stored or sent through a
+          server.
         </p>
 
         <form
           className="mt-6 space-y-4"
           onSubmit={(event) => {
             event.preventDefault();
-            if (canSend) window.location.href = `mailto:${SITE.email}?subject=${subject}&body=${body}`;
+            if (canSend) {
+              window.location.href = `mailto:${SITE.email}?subject=${subject}&body=${body}`;
+            }
           }}
         >
           <div className="grid gap-4 sm:grid-cols-2">
@@ -88,7 +90,7 @@ export default function ContactComposer() {
           <button
             type="submit"
             disabled={!canSend}
-            className="inline-flex w-full items-center justify-center gap-2 rounded-xl bg-accent px-5 py-3 text-sm font-semibold text-[#08101f] transition hover:bg-[#8aa4ff] disabled:cursor-not-allowed disabled:opacity-40 sm:w-auto"
+            className="inline-flex w-full items-center justify-center gap-2 rounded-xl bg-accent px-5 py-3 text-sm font-semibold text-[var(--color-on-accent)] transition hover:brightness-110 disabled:cursor-not-allowed disabled:opacity-40 sm:w-auto"
           >
             Open in mail app →
           </button>
@@ -99,34 +101,49 @@ export default function ContactComposer() {
         <div className="card p-6 sm:p-8">
           <h2 className="text-lg font-semibold">Direct</h2>
           <p className="mt-1 text-sm text-muted">
-            Prefer your own mail client? Copy the address or write straight away.
+            Two addresses reach the same inbox. Copy one, or write straight away.
           </p>
-          <div className="mt-5 flex flex-col gap-3">
-            <a
-              href={`mailto:${SITE.email}`}
-              className="flex items-center justify-between gap-4 rounded-xl border border-line px-4 py-3.5 font-mono text-sm transition hover:border-accent/60 hover:bg-accent-soft"
-            >
-              <span className="truncate">{SITE.email}</span>
-              <span aria-hidden className="shrink-0 text-accent">↗</span>
-            </a>
-            <button
-              type="button"
-              onClick={copyEmail}
-              className="rounded-xl border border-line px-4 py-3.5 text-sm font-medium text-muted transition hover:border-accent/60 hover:text-ink"
-            >
-              {copied ? "Copied ✓" : "Copy email address"}
-            </button>
-            <a
-              href={SITE.github}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex items-center justify-between gap-4 rounded-xl border border-line px-4 py-3.5 text-sm transition hover:border-accent/60 hover:bg-accent-soft"
-            >
-              <span>
-                GitHub · <span className="font-mono">@{SITE.githubHandle}</span>
-              </span>
-              <span aria-hidden className="text-accent">↗</span>
-            </a>
+
+          <div className="mt-5 space-y-3">
+            {SITE.emails.map((email) => (
+              <div
+                key={email}
+                className="flex items-center gap-2 rounded-xl border border-line p-1.5 pl-4 transition hover:border-accent/60"
+              >
+                <a
+                  href={`mailto:${email}`}
+                  className="min-w-0 flex-1 truncate font-mono text-sm transition hover:text-accent"
+                >
+                  {email}
+                </a>
+                <button
+                  type="button"
+                  onClick={() => copyEmail(email)}
+                  className="shrink-0 rounded-lg px-3 py-2 text-xs font-medium text-muted transition hover:bg-accent-soft hover:text-ink"
+                  aria-label={`Copy ${email}`}
+                >
+                  {copied === email ? "Copied ✓" : "Copy"}
+                </button>
+              </div>
+            ))}
+          </div>
+
+          <div className="mt-5 grid grid-cols-3 gap-2">
+            {[
+              { href: SITE.github, label: "GitHub" },
+              { href: SITE.linkedin, label: "LinkedIn" },
+              { href: SITE.devto, label: "Dev.to" },
+            ].map((link) => (
+              <a
+                key={link.label}
+                href={link.href}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="rounded-lg border border-line px-3 py-2 text-center text-xs text-muted transition hover:border-accent/60 hover:text-ink"
+              >
+                {link.label} ↗
+              </a>
+            ))}
           </div>
         </div>
 
@@ -135,7 +152,7 @@ export default function ContactComposer() {
           <ul className="mt-4 space-y-3 text-sm text-muted">
             {[
               "AI infrastructure, agent tooling, and developer platforms",
-              "Systems work — APIs, pipelines, observability, performance",
+              "Systems work - APIs, pipelines, observability, performance",
               "Open-source collaboration and reviewed contributions",
               "Short consulting engagements on TypeScript / Python / Rust stacks",
             ].map((item) => (
@@ -145,6 +162,9 @@ export default function ContactComposer() {
               </li>
             ))}
           </ul>
+          <p className="mt-5 border-t border-line pt-4 text-xs text-faint">
+            {SITE.location} · usually replies within 48 hours.
+          </p>
         </div>
       </div>
     </div>

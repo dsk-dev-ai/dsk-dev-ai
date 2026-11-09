@@ -8,7 +8,17 @@ from . import Context
 
 
 def render(ctx: Context) -> list[str]:
-    pulls = [pr for pr in ctx.bundle.pulls if pr.merged_at]
+    public = {repo.full_name.lower() for repo in ctx.bundle.repos}
+    upstream = {name.lower() for name in ctx.config.upstream}
+    private = {name.lower() for name in ctx.config.private_repos}
+
+    pulls = [
+        pr
+        for pr in ctx.bundle.pulls
+        if pr.merged_at
+        and pr.repo.lower() not in private
+        and (pr.repo.lower() in public or pr.repo.lower() in upstream)
+    ]
     pulls.sort(key=lambda pr: pr.merged_at, reverse=True)
     pulls = pulls[: ctx.config.limits.contributions]
     if not pulls:

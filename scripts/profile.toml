@@ -44,7 +44,7 @@ repos = [
   "mcp-nexus",
   "textrieve",
   "repoarch",
-  "api-monitor-saas",
+  "erasureproof",
   "ai-model-router",
   "dsk-packages",
 ]
@@ -65,6 +65,15 @@ repos = [
   "firstcontributions/first-contributions",
 ]
 
+[privacy]
+# Repositories that must never surface as public activity or PR titles on the
+# site. They may still contribute to aggregate totals (like the resume does).
+repos = [
+  "nextgenai-labs/ForgeOS",
+  "dsk-dev-ai/aegis",
+  "dsk-dev-ai/api-monitor-saas",
+]
+
 [site]
 # Hand-picked repos shown as featured cards on darshankachare.com (3x3 grid).
 # Independent from [featured], which drives the README pinned section.
@@ -72,10 +81,10 @@ repos = [
   "mcp-nexus",
   "distrlab",
   "textrieve",
-  "api-monitor-saas",
-  "GenomeAI",
+  "genomeai",
   "repoarch",
   "hunteros",
   "algorithm-discovery-engine",
   "ai-model-router",
+  "erasureproof",
 ]

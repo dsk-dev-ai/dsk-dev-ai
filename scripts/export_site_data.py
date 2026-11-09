@@ -228,12 +228,17 @@ def main() -> int:
     known = {pr["repo"] for pr in indexed}
     upstream = indexed + upstream_prs(client, config.user, config.upstream, known)
 
+    # Public repo names — used to keep private activity and PR titles out of
+    # the public site payload. Aggregate PR counts still include private work.
+    org_public = organization_repos(client, "nextgenai-labs")
+    private_repos = set(config.private_repos)
+    public_repos = ({r.full_name for r in owned} | set(org_public) | upstream_set) - private_repos
+
     # The search index can hide PRs in org-owned repos from app/installation
     # tokens, so scan owned and org repositories directly as well.
     direct: list[dict] = []
     if client.token:
-        direct_repos = [r.full_name for r in owned]
-        direct_repos += organization_repos(client, "nextgenai-labs")
+        direct_repos = [r.full_name for r in owned] + org_public
         direct = upstream_prs(client, config.user, tuple(dict.fromkeys(direct_repos)), set())
 
     merged_by_key: dict[tuple[str, int], dict] = {}
@@ -249,6 +254,12 @@ def main() -> int:
     buckets: dict[str, list[dict]] = {"upstream": [], "org": [], "own": []}
     for pr in merged:
         buckets[classify(pr["repo"], config.user, upstream_set)].append(pr)
+
+    # Only expose PR titles/URLs for public repositories. Private org repos
+    # (ForgeOS) stay in aggregate counts but never leak individual titles.
+    org_public_set = set(org_public)
+    org_public_prs = [pr for pr in buckets["org"] if pr["repo"] in org_public_set]
+    public_merged = [pr for pr in merged if pr["repo"] in public_repos]
 
     # --- projects ---
     # Keep previously exported READMEs when a raw fetch comes back empty
@@ -307,6 +318,18 @@ def main() -> int:
     featured_order = [slug(f"{config.user}/{name}" if "/" not in name else name) for name in featured_names]
     featured = [p for p in projects if p["slug"] in featured_order]
     featured.sort(key=lambda p: featured_order.index(p["slug"]))
+    # If a hand-picked repo was renamed or made private, fill the grid with the
+    # next strongest public projects so the layout never silently shrinks.
+    target_featured = len(featured_order)
+    if len(featured) < target_featured:
+        chosen = {p["slug"] for p in featured}
+        for project in sorted(projects, key=lambda p: (p["stars"], p["pushed_at"]), reverse=True):
+            if project["slug"] in chosen:
+                continue
+            featured.append(project)
+            chosen.add(project["slug"])
+            if len(featured) >= target_featured:
+                break
 
     languages = [
         {"name": name, "count": count, "share": round(share, 4)}
@@ -322,6 +345,10 @@ def main() -> int:
         if action.startswith(("starred", "forked")) and ev.repo.startswith(f"{config.user}/"):
             continue  # starring your own repository is not activity worth showing
         if "created branch" in action:
+            continue
+        if ev.repo not in public_repos or ev.repo in private_repos:
+            continue  # never expose private repository activity
+        if config.is_excluded(ev.repo.split("/")[-1], ev.repo):
             continue
         if per_repo[ev.repo] >= 2:
             continue  # one repository must not flood the feed
@@ -341,6 +368,16 @@ def main() -> int:
         if len(curated) >= 12:
             break
 
+    months: list[str] = []
+    cursor = now.replace(day=1)
+    for offset in range(11, -1, -1):
+        year, month = cursor.year, cursor.month - offset
+        while month <= 0:
+            month += 12
+            year -= 1
+        months.append(f"{year:04d}-{month:02d}")
+    month_counts = Counter(pr["merged_at"][:7] for pr in merged)
+
     payload = {
         "generated_at": now.isoformat(timespec="seconds"),
         "profile": {
@@ -357,9 +394,15 @@ def main() -> int:
         "stats": {
             "merged_prs_total": sum(by_repo.values()),
             "merged_repos_total": len(by_repo),
+            "public_prs": len(public_merged),
+            "org_public_prs": len(org_public_prs),
             "upstream_prs": len(buckets["upstream"]),
             "org_prs": len(buckets["org"]),
             "own_prs": len(buckets["own"]),
+            "merged_by_month": [
+                {"month": month, "count": month_counts.get(month, 0)}
+                for month in months
+            ],
         },
         "languages": languages,
         "featured": [p["slug"] for p in featured],
@@ -368,9 +411,10 @@ def main() -> int:
         "activity": curated,
         "contributions": {
             "upstream": buckets["upstream"],
-            "org": buckets["org"],
+            "org": org_public_prs,
+            "recent": public_merged[:12],
             "org_repos": [
-                {"repo": repo, "count": count}
+                {"repo": repo, "count": count, "private": repo in private_repos}
                 for repo, count in by_repo.items()
                 if classify(repo, config.user, upstream_set) == "org"
             ],
@@ -382,6 +426,7 @@ def main() -> int:
     out.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     print(
         f"wrote {out} ({len(projects)} projects, {len(featured)} featured, "
+        f"{len(public_merged)} public PRs, {sum(by_repo.values())} total PRs, "
         f"{len(buckets['upstream'])} upstream PRs, {len(readmes)} readmes)"
     )
     return 0
