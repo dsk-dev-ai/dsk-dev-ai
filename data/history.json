@@ -402,19 +402,6 @@
       "date": "2026-11-09",
       "stars": 37,
       "followers": 10,
-      "repos": 38,
-      "languages": {
-        "Python": 21,
-        "TypeScript": 8,
-        "Rust": 2,
-        "JavaScript": 1,
-        "Dart": 1
-      }
-    },
-    {
-      "date": "2026-11-09",
-      "stars": 37,
-      "followers": 10,
       "repos": 37,
       "languages": {
         "Python": 21,
