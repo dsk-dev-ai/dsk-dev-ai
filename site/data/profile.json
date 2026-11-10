@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T02:02:17+00:00",
+  "generated_at": "2026-11-10T09:43:11+00:00",
   "profile": {
     "login": "dsk-dev-ai",
     "name": "Darshan Kachare",
@@ -12,13 +12,13 @@
     "avatar_url": "https://avatars.githubusercontent.com/u/259028460?v=4"
   },
   "stats": {
-    "merged_prs_total": 359,
+    "merged_prs_total": 362,
     "merged_repos_total": 29,
     "public_prs": 191,
     "org_public_prs": 16,
     "upstream_prs": 9,
     "org_prs": 143,
-    "own_prs": 207,
+    "own_prs": 210,
     "merged_by_month": [
       {
         "month": "2025-12",
@@ -66,7 +66,7 @@
       },
       {
         "month": "2026-11",
-        "count": 35
+        "count": 38
       }
     ]
   },
@@ -1535,7 +1535,7 @@
       "repo": "dsk-dev-ai/paypilot-ai",
       "action": "pushed `main` to",
       "detail": "",
-      "created_at": "2026-11-09T10:54:30Z"
+      "created_at": "2026-11-09T10:58:33Z"
     },
     {
       "type": "PushEvent",
