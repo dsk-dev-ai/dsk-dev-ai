@@ -25,9 +25,9 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-10 09:43 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-10 17:46 UTC`
 
-![Public_repos](https://img.shields.io/badge/Public_repos-37-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-37-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-10-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
+![Public_repos](https://img.shields.io/badge/Public_repos-38-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-37-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-10-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
 ![Followers_7d](https://img.shields.io/badge/Followers_7d-%2B2-0ea5e9?style=for-the-badge)
 
@@ -35,11 +35,11 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 |  | Repo | Stars | Language | Latest commit |
 | --- | --- | --- | --- | --- |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [stalecheck](https://github.com/dsk-dev-ai/stalecheck) | 0 | `Python` | ci: pass NEXT_PUBLIC_API_URL build arg from repo variable |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai) | 1 | `TypeScript` | docs: make README discoverable with badges, screenshots, an… |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [sandbox-bridge](https://github.com/dsk-dev-ai/sandbox-bridge) | 0 | `TypeScript` | Clarify the product problem, audience, and live proof |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%23f1e05a' title='JavaScript'> | [bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) | 1 | `JavaScript` | fix: align submission with Amplify-only deployment |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%23dea584' title='Rust'> | [sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) | 1 | `Rust` | Add freeze panes (#18) |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [erasureproof](https://github.com/dsk-dev-ai/erasureproof) | 1 | `Python` | Use styled shields CI badge |
 
 **Highlights** · curated
 
@@ -77,7 +77,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 ```
 Stars         37  ▁▁▁▁▁▁▁▁▁▂▂▂▂▃▃▃▃▃▃▄▄▅▅▅▅▅▆▆██▅▆▆▆▆  · +0 / 7d · +6 / 30d
 Followers     10  ▁▁▁▁▁▁▁▃▃▃▃▃▃▃▃▃▃▃▃▃▃▆▆▆▆▃▃▃▆▆▆████  · +2 / 7d · +3 / 30d
-Repos         37  ▁▁▁▁▁▂▂▂▂▂▂▂▃▃▃▃▃▃▄▅▆▆▆▆▆▆▇▇▇█▇▇▇▆▆  · -1 / 7d · +7 / 30d
+Repos         38  ▁▁▁▁▁▂▂▂▂▂▂▂▃▃▃▃▃▃▄▅▆▆▆▆▆▆▇▇▇█▇▇▇▆▇  · +0 / 7d · +8 / 30d
 Stars/30d      7  ▁▁▁▁▁▁▁██▁▁▁▁██▁█▁▁█▁█▁▁▁▁▁▁▁▁  · best day 1 · 7 new stars
 ```
 
@@ -85,29 +85,29 @@ Stars/30d      7  ▁▁▁▁▁▁▁██▁▁▁▁██▁█▁▁█�
 
 | Pull request | Title | Merged |
 | --- | --- | --- |
-| [dsk-dev-ai/bugdrop-portfolio#8](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/8) | release: v1.5.0 — cabinet export and reset | `7d ago` |
-| [dsk-dev-ai/bugdrop-portfolio#7](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/7) | release: v1.4.0 — unlocked superpower profile | `7d ago` |
-| [dsk-dev-ai/bugdrop-portfolio#6](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/6) | docs: v1.3.1 — submission screenshots | `7d ago` |
-| [dsk-dev-ai/bugdrop-portfolio#5](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/5) | release: v1.3.0 — AWS architecture on the live site | `7d ago` |
-| [dsk-dev-ai/bugdrop-portfolio#4](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/4) | release: v1.2.0 — capsule cabinet and shareable deep links | `7d ago` |
-| [dsk-dev-ai/bugdrop-portfolio#3](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/3) | release: v1.1.0 — deploy readiness polish | `7d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#8](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/8) | release: v1.5.0 — cabinet export and reset | `8d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#7](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/7) | release: v1.4.0 — unlocked superpower profile | `8d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#6](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/6) | docs: v1.3.1 — submission screenshots | `8d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#5](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/5) | release: v1.3.0 — AWS architecture on the live site | `8d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#4](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/4) | release: v1.2.0 — capsule cabinet and shareable deep links | `8d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#3](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/3) | release: v1.1.0 — deploy readiness polish | `8d ago` |
 
 **Latest public activity**
 
-`15h ago` - pushed `main` to [dsk-dev-ai/dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai)
-`22h ago` - pushed `main` to [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai)
-`23h ago` - pushed `chore/refresh-paypilot-ai-ui` to [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai)
+`23h ago` - pushed `main` to [dsk-dev-ai/dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai)
+`1d ago` - pushed `main` to [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai)
+`1d ago` - pushed `chore/refresh-paypilot-ai-ui` to [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai)
 `3d ago` - pushed `main` to [dsk-dev-ai/sandbox-bridge](https://github.com/dsk-dev-ai/sandbox-bridge)
-`4d ago` - created branch [dsk-dev-ai/sandbox-bridge](https://github.com/dsk-dev-ai/sandbox-bridge) - "main"
-`7d ago` - pushed `main` to [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio)
-`7d ago` - starred [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio)
-`7d ago` - released [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) - "v1.5.0"
+`5d ago` - created branch [dsk-dev-ai/sandbox-bridge](https://github.com/dsk-dev-ai/sandbox-bridge) - "main"
+`8d ago` - pushed `main` to [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio)
+`8d ago` - starred [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio)
+`8d ago` - released [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) - "v1.5.0"
 
 **Language mix**
 
 ```
-Python             65%  ███████████████
-TypeScript         26%  ██████
+Python             66%  ████████████████
+TypeScript         25%  ██████
 Rust                6%  ██
 JavaScript          3%  █
 ```
