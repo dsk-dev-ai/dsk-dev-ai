@@ -25,7 +25,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-11 02:47 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-11 10:49 UTC`
 
 ![Public_repos](https://img.shields.io/badge/Public_repos-38-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-37-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-10-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
@@ -35,7 +35,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 |  | Repo | Stars | Language | Latest commit |
 | --- | --- | --- | --- | --- |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [stalecheck](https://github.com/dsk-dev-ai/stalecheck) | 0 | `Python` | docs: add pitch deck for hackathon submission |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [stalecheck](https://github.com/dsk-dev-ai/stalecheck) | 0 | `Python` | docs: add 18s demo video and link from README |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai) | 1 | `TypeScript` | docs: make README discoverable with badges, screenshots, an… |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [sandbox-bridge](https://github.com/dsk-dev-ai/sandbox-bridge) | 0 | `TypeScript` | Clarify the product problem, audience, and live proof |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%23f1e05a' title='JavaScript'> | [bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) | 1 | `JavaScript` | fix: align submission with Amplify-only deployment |
@@ -96,7 +96,7 @@ Stars/30d      7  ▁▁▁▁▁▁██▁▁▁▁██▁█▁▁█▁�
 
 `1d ago` - pushed `main` to [dsk-dev-ai/dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai)
 `1d ago` - pushed `main` to [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai)
-`1d ago` - pushed `chore/refresh-paypilot-ai-ui` to [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai)
+`2d ago` - pushed `chore/refresh-paypilot-ai-ui` to [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai)
 `4d ago` - pushed `main` to [dsk-dev-ai/sandbox-bridge](https://github.com/dsk-dev-ai/sandbox-bridge)
 `5d ago` - created branch [dsk-dev-ai/sandbox-bridge](https://github.com/dsk-dev-ai/sandbox-bridge) - "main"
 `8d ago` - pushed `main` to [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio)
