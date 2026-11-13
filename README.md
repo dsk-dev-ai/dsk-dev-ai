@@ -25,9 +25,9 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-13 06:35 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-13 15:20 UTC`
 
-![Public_repos](https://img.shields.io/badge/Public_repos-38-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-37-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-10-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
+![Public_repos](https://img.shields.io/badge/Public_repos-41-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-37-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-10-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
 ![Stars_7d](https://img.shields.io/badge/Stars_7d-%2B1-6c8cff?style=for-the-badge) ![Followers_7d](https://img.shields.io/badge/Followers_7d-%2B1-0ea5e9?style=for-the-badge)
 
@@ -77,7 +77,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 ```
 Stars         37  ▁▁▁▁▁▁▁▁▁▂▂▂▂▃▃▃▃▃▃▄▄▅▅▅▅▅▆▆██▅▆▆▆▆▆▆▆  · +1 / 7d · +6 / 30d
 Followers     10  ▁▁▁▁▁▁▁▃▃▃▃▃▃▃▃▃▃▃▃▃▃▆▆▆▆▃▃▃▆▆▆███████  · +1 / 7d · +2 / 30d
-Repos         38  ▁▁▁▁▁▂▂▂▂▂▂▂▃▃▃▃▃▃▄▅▆▆▆▆▆▆▇▇▇█▇▇▇▆▇▇▇▇  · +0 / 7d · +7 / 30d
+Repos         41  ▁▁▁▁▁▂▂▂▂▂▂▂▂▃▃▃▃▃▄▄▅▅▅▅▅▅▆▆▆▇▆▆▆▅▆▆▆█  · +3 / 7d · +10 / 30d
 Stars/30d      7  ▁▁▁▁██▁▁▁▁██▁█▁▁█▁█▁▁▁▁▁▁▁▁▁▁▁  · best day 1 · 7 new stars
 ```
 
@@ -85,20 +85,20 @@ Stars/30d      7  ▁▁▁▁██▁▁▁▁██▁█▁▁█▁█▁�
 
 | Pull request | Title | Merged |
 | --- | --- | --- |
-| [dsk-dev-ai/bugdrop-portfolio#8](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/8) | release: v1.5.0 — cabinet export and reset | `10d ago` |
-| [dsk-dev-ai/bugdrop-portfolio#7](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/7) | release: v1.4.0 — unlocked superpower profile | `10d ago` |
-| [dsk-dev-ai/bugdrop-portfolio#6](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/6) | docs: v1.3.1 — submission screenshots | `10d ago` |
-| [dsk-dev-ai/bugdrop-portfolio#5](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/5) | release: v1.3.0 — AWS architecture on the live site | `10d ago` |
-| [dsk-dev-ai/bugdrop-portfolio#4](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/4) | release: v1.2.0 — capsule cabinet and shareable deep links | `10d ago` |
-| [dsk-dev-ai/bugdrop-portfolio#3](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/3) | release: v1.1.0 — deploy readiness polish | `10d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#8](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/8) | release: v1.5.0 — cabinet export and reset | `11d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#7](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/7) | release: v1.4.0 — unlocked superpower profile | `11d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#6](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/6) | docs: v1.3.1 — submission screenshots | `11d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#5](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/5) | release: v1.3.0 — AWS architecture on the live site | `11d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#4](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/4) | release: v1.2.0 — capsule cabinet and shareable deep links | `11d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#3](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/3) | release: v1.1.0 — deploy readiness polish | `11d ago` |
 
 **Latest public activity**
 
 `2d ago` - pushed `main` to [dsk-dev-ai/stalecheck](https://github.com/dsk-dev-ai/stalecheck)
 `2d ago` - created branch [dsk-dev-ai/stalecheck](https://github.com/dsk-dev-ai/stalecheck) - "main"
 `3d ago` - pushed `main` to [dsk-dev-ai/dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai)
-`3d ago` - pushed `main` to [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai)
-`3d ago` - pushed `chore/refresh-paypilot-ai-ui` to [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai)
+`4d ago` - pushed `main` to [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai)
+`4d ago` - pushed `chore/refresh-paypilot-ai-ui` to [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai)
 `6d ago` - pushed `main` to [dsk-dev-ai/sandbox-bridge](https://github.com/dsk-dev-ai/sandbox-bridge)
 `7d ago` - created branch [dsk-dev-ai/sandbox-bridge](https://github.com/dsk-dev-ai/sandbox-bridge) - "main"
 `10d ago` - pushed `main` to [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio)
