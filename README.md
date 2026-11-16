@@ -25,7 +25,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-16 01:59 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-16 09:34 UTC`
 
 ![Public_repos](https://img.shields.io/badge/Public_repos-41-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-37-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-9-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
 
@@ -35,11 +35,11 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 |  | Repo | Stars | Language | Latest commit |
 | --- | --- | --- | --- | --- |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [dsk-packages](https://github.com/dsk-dev-ai/dsk-packages) | 1 | `TypeScript` | fix: security overrides + dependency updates |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [stalecheck](https://github.com/dsk-dev-ai/stalecheck) | 0 | `Python` | docs: add 18s demo video and link from README |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai) | 1 | `TypeScript` | docs: make README discoverable with badges, screenshots, an… |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [sandbox-bridge](https://github.com/dsk-dev-ai/sandbox-bridge) | 0 | `TypeScript` | Clarify the product problem, audience, and live proof |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%23f1e05a' title='JavaScript'> | [bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) | 1 | `JavaScript` | fix: align submission with Amplify-only deployment |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%23dea584' title='Rust'> | [sheetcraft](https://github.com/dsk-dev-ai/sheetcraft) | 1 | `Rust` | Add freeze panes (#18) |
 
 **Highlights** · curated
 
@@ -99,7 +99,7 @@ Stars/30d      7  ▁██▁▁▁▁██▁█▁▁█▁█▁▁▁▁�
 `6d ago` - pushed `main` to [dsk-dev-ai/dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai)
 `6d ago` - pushed `main` to [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai)
 `6d ago` - pushed `chore/refresh-paypilot-ai-ui` to [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai)
-`8d ago` - pushed `main` to [dsk-dev-ai/sandbox-bridge](https://github.com/dsk-dev-ai/sandbox-bridge)
+`9d ago` - pushed `main` to [dsk-dev-ai/sandbox-bridge](https://github.com/dsk-dev-ai/sandbox-bridge)
 `10d ago` - created branch [dsk-dev-ai/sandbox-bridge](https://github.com/dsk-dev-ai/sandbox-bridge) - "main"
 `13d ago` - pushed `main` to [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio)
 
