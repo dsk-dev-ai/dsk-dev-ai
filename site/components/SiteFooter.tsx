@@ -3,11 +3,18 @@ import TimeAgo from "@/components/TimeAgo";
 import { SITE, data } from "@/lib/data";
 
 const SITE_LINKS = [
+  { href: "/store/", label: "Store" },
   { href: "/projects/", label: "Projects" },
   { href: "/open-source/", label: "Open Source" },
   { href: "/contact/", label: "Contact" },
   { href: "/feed.xml", label: "RSS feed" },
   { href: "/data.json", label: "Data API" },
+];
+
+const LEGAL_LINKS = [
+  { href: "/terms/", label: "Terms" },
+  { href: "/privacy/", label: "Privacy" },
+  { href: "/refunds/", label: "Refunds" },
 ];
 
 const ELSEWHERE = [
@@ -90,6 +97,13 @@ export default function SiteFooter() {
           <span>
             © {year} {SITE.domain} · {SITE.location}
           </span>
+          <div className="flex flex-wrap gap-x-4 gap-y-1">
+            {LEGAL_LINKS.map((link) => (
+              <Link key={link.href} href={link.href} className="transition hover:text-ink">
+                {link.label}
+              </Link>
+            ))}
+          </div>
           <span>
             Generated{" "}
             <time dateTime={data.generated_at}>

@@ -5,7 +5,16 @@ export const dynamic = "force-static";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const lastModified = new Date(data.generated_at);
-  const staticRoutes = ["", "/projects/", "/open-source/", "/contact/"].map((path) => ({
+  const staticRoutes = [
+    "",
+    "/store/",
+    "/terms/",
+    "/privacy/",
+    "/refunds/",
+    "/projects/",
+    "/open-source/",
+    "/contact/",
+  ].map((path) => ({
     url: `${SITE.url}${path}`,
     lastModified,
     changeFrequency: "weekly" as const,
