@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T21:28:06+00:00",
+  "generated_at": "2026-11-20T03:07:53+00:00",
   "profile": {
     "login": "dsk-dev-ai",
     "name": "Darshan Kachare",
@@ -12,12 +12,12 @@
     "avatar_url": "https://avatars.githubusercontent.com/u/259028460?v=4"
   },
   "stats": {
-    "merged_prs_total": 367,
+    "merged_prs_total": 369,
     "merged_repos_total": 29,
     "public_prs": 191,
     "org_public_prs": 16,
     "upstream_prs": 9,
-    "org_prs": 148,
+    "org_prs": 150,
     "own_prs": 210,
     "merged_by_month": [
       {
@@ -66,7 +66,7 @@
       },
       {
         "month": "2026-11",
-        "count": 43
+        "count": 45
       }
     ]
   },
@@ -1955,7 +1955,7 @@
     "org_repos": [
       {
         "repo": "nextgenai-labs/ForgeOS",
-        "count": 113,
+        "count": 115,
         "private": true
       },
       {
