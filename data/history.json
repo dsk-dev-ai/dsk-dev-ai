@@ -532,12 +532,12 @@
     },
     {
       "date": "2026-11-20",
-      "stars": 37,
+      "stars": 34,
       "followers": 10,
-      "repos": 41,
+      "repos": 39,
       "languages": {
-        "Python": 22,
-        "TypeScript": 8,
+        "Python": 19,
+        "TypeScript": 9,
         "Rust": 2,
         "JavaScript": 1
       }

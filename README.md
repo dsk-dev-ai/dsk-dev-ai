@@ -25,9 +25,11 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-20 11:28 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-20 20:07 UTC`
 
-![Public_repos](https://img.shields.io/badge/Public_repos-41-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-37-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-10-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-2-f97316?style=for-the-badge)
+![Public_repos](https://img.shields.io/badge/Public_repos-39-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-34-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-10-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-1-f97316?style=for-the-badge)
+
+![Stars_7d](https://img.shields.io/badge/Stars_7d---3-6c8cff?style=for-the-badge)
 
 **Recently pushed**
 
@@ -39,16 +41,16 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [sandbox-bridge](https://github.com/dsk-dev-ai/sandbox-bridge) | 0 | `TypeScript` | Clarify the product problem, audience, and live proof |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%23f1e05a' title='JavaScript'> | [bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio) | 1 | `JavaScript` | fix: align submission with Amplify-only deployment |
 
-**Highlights** · curated
+**Highlights** · curated · GitHub pinned
 
 |  | Repo | Stars | Language | What it is |
 | --- | --- | --- | --- | --- |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [mcp-nexus](https://github.com/dsk-dev-ai/mcp-nexus) | 1 | `TypeScript` | The intelligent routing & discovery layer for MCP tools. One umbrella endpoint in front of hund… |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [textrieve](https://github.com/dsk-dev-ai/textrieve) | 2 | `Python` | Free, private image-to-text (OCR). Web UI, REST API & CLI in one repo — FastAPI + RapidOCR (ONN… |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [repoarch](https://github.com/dsk-dev-ai/repoarch) | 5 | `Python` | Turn any codebase into beautiful architecture diagrams — one command, no AI, no server, runs on… |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [erasureproof](https://github.com/dsk-dev-ai/erasureproof) | 1 | `Python` | Open-source proof-of-erasure platform: find every copy of personal data, remediate safely, veri… |
-| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [ai-model-router](https://github.com/dsk-dev-ai/ai-model-router) | 2 | `Python` | OpenAI-compatible LLM gateway: route to the best/cheapest/fastest model, automatic fallback on… |
 | <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233178c6' title='TypeScript'> | [dsk-packages](https://github.com/dsk-dev-ai/dsk-packages) | 1 | `TypeScript` | A collection of high-quality TypeScript packages, developer utilities, and open-source tools. |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [GenomeAI](https://github.com/dsk-dev-ai/GenomeAI) | 2 | `Python` | Open-source AI platform for genomics & bioinformatics — 18 free public genome research tools |
+| <img width=14 src='https://img.shields.io/badge/%E2%80%8B-%E2%80%8B-%233776ab' title='Python'> | [devos-ai](https://github.com/dsk-dev-ai/devos-ai) | 1 | `Python` | CLI-based AI tool for analyzing and understanding codebases using LLMs |
 
 **Most starred**
 
@@ -56,8 +58,8 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 | --- | --- | --- |
 | [repoarch](https://github.com/dsk-dev-ai/repoarch) | 5 | Turn any codebase into beautiful architecture diagrams — one command, no AI, no server, r… |
 | [bookforge-ai](https://github.com/dsk-dev-ai/bookforge-ai) | 2 | AI-powered technical eBook production platform for researching, writing, reviewing, forma… |
-| [ai-model-router](https://github.com/dsk-dev-ai/ai-model-router) | 2 | OpenAI-compatible LLM gateway: route to the best/cheapest/fastest model, automatic fallba… |
 | [textrieve](https://textrieve.onrender.com) | 2 | Free, private image-to-text (OCR). Web UI, REST API & CLI in one repo — FastAPI + RapidOC… |
+| [GenomeAI](https://genomeai.vercel.app) | 2 | Open-source AI platform for genomics & bioinformatics — 18 free public genome research to… |
 
 **Repository health**
 
@@ -66,47 +68,47 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 | [repoarch](https://github.com/dsk-dev-ai/repoarch) | 100% | 7/7 | all green |
 | [textrieve](https://github.com/dsk-dev-ai/textrieve) | 100% | 7/7 | all green |
 | [GenomeAI](https://github.com/dsk-dev-ai/GenomeAI) | 100% | 7/7 | all green |
-| [ai-model-router](https://github.com/dsk-dev-ai/ai-model-router) | 100% | 7/7 | all green |
 | [ai-blog-writer](https://github.com/dsk-dev-ai/ai-blog-writer) | 86% | 6/7 | release |
 | [bookforge-ai](https://github.com/dsk-dev-ai/bookforge-ai) | 86% | 6/7 | release |
+| [dsk-packages](https://github.com/dsk-dev-ai/dsk-packages) | 100% | 7/7 | all green |
 
 **Growth**
 
 ```
-Stars         37  ▁▁▁▁▁▁▁▁▁▂▂▂▂▃▃▃▃▃▃▄▄▅▅▅▅▅▆▆██▅▆▆▆▆▆▆▆▆▆▆▆▆▆▆  · +0 / 7d · +4 / 30d
+Stars         34  ▁▁▁▁▁▁▁▁▁▂▂▂▂▃▃▃▃▃▃▄▄▅▅▅▅▅▆▆██▅▆▆▆▆▆▆▆▆▆▆▆▆▆▄  · -3 / 7d · +1 / 30d
 Followers     10  ▁▁▁▁▁▁▁▃▃▃▃▃▃▃▃▃▃▃▃▃▃▆▆▆▆▃▃▃▆▆▆████████▆█████  · +0 / 7d · +2 / 30d
-Repos         41  ▁▁▁▁▁▂▂▂▂▂▂▂▂▃▃▃▃▃▄▄▅▅▅▅▅▅▆▆▆▇▆▆▆▅▆▆▆████████  · +0 / 7d · +8 / 30d
-Stars/30d      6  ▁▁▁██▁█▁▁█▁█▁▁▁▁▁▁▁▁▁▁▁▁▁▁█▁▁▁  · best day 1 · 6 new stars
+Repos         39  ▁▁▁▁▁▂▂▂▂▂▂▂▂▃▃▃▃▃▄▄▅▅▅▅▅▅▆▆▆▇▆▆▆▅▆▆▆███████▇  · -2 / 7d · +6 / 30d
+Stars/30d      5  ▁▁▁█▁▁█▁▁█▁█▁▁▁▁▁▁▁▁▁▁▁▁▁▁█▁▁▁  · best day 1 · 5 new stars
 ```
 
 **Merged pull requests**
 
 | Pull request | Title | Merged |
 | --- | --- | --- |
-| [dsk-dev-ai/bugdrop-portfolio#8](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/8) | release: v1.5.0 — cabinet export and reset | `17d ago` |
-| [dsk-dev-ai/bugdrop-portfolio#7](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/7) | release: v1.4.0 — unlocked superpower profile | `17d ago` |
-| [dsk-dev-ai/bugdrop-portfolio#6](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/6) | docs: v1.3.1 — submission screenshots | `17d ago` |
-| [dsk-dev-ai/bugdrop-portfolio#5](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/5) | release: v1.3.0 — AWS architecture on the live site | `17d ago` |
-| [dsk-dev-ai/bugdrop-portfolio#4](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/4) | release: v1.2.0 — capsule cabinet and shareable deep links | `17d ago` |
-| [dsk-dev-ai/bugdrop-portfolio#3](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/3) | release: v1.1.0 — deploy readiness polish | `17d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#8](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/8) | release: v1.5.0 — cabinet export and reset | `18d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#7](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/7) | release: v1.4.0 — unlocked superpower profile | `18d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#6](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/6) | docs: v1.3.1 — submission screenshots | `18d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#5](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/5) | release: v1.3.0 — AWS architecture on the live site | `18d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#4](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/4) | release: v1.2.0 — capsule cabinet and shareable deep links | `18d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#3](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/3) | release: v1.1.0 — deploy readiness polish | `18d ago` |
 
 **Latest public activity**
 
-`9d ago` - pushed `main` to [dsk-dev-ai/stalecheck](https://github.com/dsk-dev-ai/stalecheck)
-`9d ago` - created branch [dsk-dev-ai/stalecheck](https://github.com/dsk-dev-ai/stalecheck) - "main"
-`10d ago` - pushed `main` to [dsk-dev-ai/dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai)
-`10d ago` - pushed `main` to [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai)
+`10d ago` - pushed `main` to [dsk-dev-ai/stalecheck](https://github.com/dsk-dev-ai/stalecheck)
+`10d ago` - created branch [dsk-dev-ai/stalecheck](https://github.com/dsk-dev-ai/stalecheck) - "main"
+`11d ago` - pushed `main` to [dsk-dev-ai/dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai)
+`11d ago` - pushed `main` to [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai)
 `11d ago` - pushed `chore/refresh-paypilot-ai-ui` to [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai)
 `13d ago` - pushed `main` to [dsk-dev-ai/sandbox-bridge](https://github.com/dsk-dev-ai/sandbox-bridge)
-`14d ago` - created branch [dsk-dev-ai/sandbox-bridge](https://github.com/dsk-dev-ai/sandbox-bridge) - "main"
-`17d ago` - pushed `main` to [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio)
+`15d ago` - created branch [dsk-dev-ai/sandbox-bridge](https://github.com/dsk-dev-ai/sandbox-bridge) - "main"
+`18d ago` - pushed `main` to [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio)
 
 **Language mix**
 
 ```
-Python             66%  ████████████████
-TypeScript         25%  ██████
-Rust                6%  ██
+Python             63%  ███████████████
+TypeScript         27%  ██████
+Rust                7%  ██
 JavaScript          3%  █
 ```
 
