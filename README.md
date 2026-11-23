@@ -25,7 +25,7 @@ open-source tools with real outcomes, and I contribute to large codebases you al
 
 <!-- LIVE:START -->
 
-**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-23 07:38 UTC`
+**Live status — auto-refreshed hourly by GitHub Actions** · last run `2026-11-23 20:08 UTC`
 
 ![Public_repos](https://img.shields.io/badge/Public_repos-39-34d399?style=for-the-badge) ![Total_stars](https://img.shields.io/badge/Total_stars-34-6c8cff?style=for-the-badge) ![Followers](https://img.shields.io/badge/Followers-10-0ea5e9?style=for-the-badge) ![Forks](https://img.shields.io/badge/Forks-1-f97316?style=for-the-badge)
 
@@ -85,23 +85,23 @@ Stars/30d      5  █▁▁█▁▁█▁█▁▁▁▁▁▁▁▁▁▁▁�
 
 | Pull request | Title | Merged |
 | --- | --- | --- |
-| [dsk-dev-ai/bugdrop-portfolio#8](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/8) | release: v1.5.0 — cabinet export and reset | `20d ago` |
-| [dsk-dev-ai/bugdrop-portfolio#7](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/7) | release: v1.4.0 — unlocked superpower profile | `20d ago` |
-| [dsk-dev-ai/bugdrop-portfolio#6](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/6) | docs: v1.3.1 — submission screenshots | `20d ago` |
-| [dsk-dev-ai/bugdrop-portfolio#5](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/5) | release: v1.3.0 — AWS architecture on the live site | `20d ago` |
-| [dsk-dev-ai/bugdrop-portfolio#4](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/4) | release: v1.2.0 — capsule cabinet and shareable deep links | `20d ago` |
-| [dsk-dev-ai/bugdrop-portfolio#3](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/3) | release: v1.1.0 — deploy readiness polish | `20d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#8](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/8) | release: v1.5.0 — cabinet export and reset | `21d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#7](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/7) | release: v1.4.0 — unlocked superpower profile | `21d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#6](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/6) | docs: v1.3.1 — submission screenshots | `21d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#5](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/5) | release: v1.3.0 — AWS architecture on the live site | `21d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#4](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/4) | release: v1.2.0 — capsule cabinet and shareable deep links | `21d ago` |
+| [dsk-dev-ai/bugdrop-portfolio#3](https://github.com/dsk-dev-ai/bugdrop-portfolio/pull/3) | release: v1.1.0 — deploy readiness polish | `21d ago` |
 
 **Latest public activity**
 
-`2d ago` - pushed `main` to [dsk-dev-ai/dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai)
-`12d ago` - pushed `main` to [dsk-dev-ai/stalecheck](https://github.com/dsk-dev-ai/stalecheck)
-`12d ago` - created branch [dsk-dev-ai/stalecheck](https://github.com/dsk-dev-ai/stalecheck) - "main"
-`13d ago` - pushed `main` to [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai)
-`13d ago` - pushed `chore/refresh-paypilot-ai-ui` to [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai)
+`3d ago` - pushed `main` to [dsk-dev-ai/dsk-dev-ai](https://github.com/dsk-dev-ai/dsk-dev-ai)
+`13d ago` - pushed `main` to [dsk-dev-ai/stalecheck](https://github.com/dsk-dev-ai/stalecheck)
+`13d ago` - created branch [dsk-dev-ai/stalecheck](https://github.com/dsk-dev-ai/stalecheck) - "main"
+`14d ago` - pushed `main` to [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai)
+`14d ago` - pushed `chore/refresh-paypilot-ai-ui` to [dsk-dev-ai/paypilot-ai](https://github.com/dsk-dev-ai/paypilot-ai)
 `16d ago` - pushed `main` to [dsk-dev-ai/sandbox-bridge](https://github.com/dsk-dev-ai/sandbox-bridge)
-`17d ago` - created branch [dsk-dev-ai/sandbox-bridge](https://github.com/dsk-dev-ai/sandbox-bridge) - "main"
-`20d ago` - pushed `main` to [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio)
+`18d ago` - created branch [dsk-dev-ai/sandbox-bridge](https://github.com/dsk-dev-ai/sandbox-bridge) - "main"
+`21d ago` - pushed `main` to [dsk-dev-ai/bugdrop-portfolio](https://github.com/dsk-dev-ai/bugdrop-portfolio)
 
 **Language mix**
 
